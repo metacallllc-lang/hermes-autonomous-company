@@ -155,6 +155,7 @@ See [SPONSORSHIP.md](SPONSORSHIP.md), [INVESTORS.md](INVESTORS.md) and [ROADMAP.
 - [SPONSORSHIP.md](SPONSORSHIP.md) — sponsorship and infrastructure support
 - [INVESTORS.md](INVESTORS.md) — investor / strategic-partner thesis
 - [PUBLIC_EVIDENCE_INDEX.md](PUBLIC_EVIDENCE_INDEX.md) — claim/evidence map
+- [INDUSTRY_LANDSCAPE_AND_COMPETITIVE_LEARNING.md](INDUSTRY_LANDSCAPE_AND_COMPETITIVE_LEARNING.md) — external benchmark, lessons and continuous-learning doctrine
 - [case-study/FROM_AGENT_TO_AUTONOMOUS_COMPANY.md](case-study/FROM_AGENT_TO_AUTONOMOUS_COMPANY.md)
 - [white-paper/AUTONOMOUS_COMPANY_OS.md](white-paper/AUTONOMOUS_COMPANY_OS.md)
 
@@ -167,3 +168,8 @@ The software implementation remains private. No open-source software license is 
 ---
 
 **MetaBot Solutions — humans retain authority; AI expands execution capacity.**
+
+
+## Continuous competitive learning
+
+The project continuously studies serious autonomous-company systems, multi-agent research, agent control planes and production failure reports. Useful external lessons are tested against MetaBot's governance and evidence requirements before adoption. See [INDUSTRY_LANDSCAPE_AND_COMPETITIVE_LEARNING.md](INDUSTRY_LANDSCAPE_AND_COMPETITIVE_LEARNING.md).

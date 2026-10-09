@@ -12,21 +12,25 @@ underlying evidence changes, never to inflate a claim.
 
 Outbound sends recorded in `outbound_ledger.jsonl` with outcome `SENT`:
 
-- **20 outbound sends** (unique idempotency keys), across 5 campaigns:
+- **20 outbound sends executed**, across 5 campaigns:
   - `camp-b1-001` — 9
   - `camp-warm-001` — 5
   - `camp-metabot-001` — 3 (MetaBot)
   - `camp-measure-001` — 2
   - `camp-qbh-001` — 1
-- Sent-folder verification (`delivery_verification.jsonl`, read-only, matched by recipient + subject):
-  **20 of 20 sends FOUND_IN_SENT** across 17 unique recipients.
+- Of those 20 sends, **18 are distinct (recipient + subject) messages**; the remaining 2 are
+  repeat sends of an already-sent message to the same recipient, not new distinct messages.
+- Sent-folder verification by the governed verifier `Verify-SentDelivery.py` (read-only, matched
+  by recipient + subject): **18 of 18 distinct messages FOUND_IN_SENT / 0 not found**
+  (run 2026-10-09T18:12Z).
 - Provider response for the current wave: **HTTP 204 (accepted)**.
 
 Split by engine: 17 MetaCall / 3 MetaBot outbound sends.
 
-The public claim is therefore:
+The public claim is therefore, exactly:
 
-**20 SEND ACCEPTED + SENT-FOLDER VERIFIED (reconciled 2026-10-09)**
+**20 sends executed; 18 distinct messages sent-folder-verified (18/18 checked, 0 not found);
+reconciled 2026-10-09**
 
 This is **not** upgraded to delivery, read, reply, contract or revenue.
 

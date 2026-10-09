@@ -2,43 +2,65 @@
 
 This page intentionally separates **technical proof**, **commercial activity** and **revenue proof**.
 
+All figures below are dated and reconciled against the company's canonical evidence ledgers
+(`outbound_ledger.jsonl`, `delivery_verification.jsonl`). They are restated only when the
+underlying evidence changes, never to inflate a claim.
+
+## Commercial activity
+
+**Reconciled 2026-10-09 against canonical ledgers.**
+
+Outbound sends recorded in `outbound_ledger.jsonl` with outcome `SENT`:
+
+- **20 outbound sends** (unique idempotency keys), across 5 campaigns:
+  - `camp-b1-001` — 9
+  - `camp-warm-001` — 5
+  - `camp-metabot-001` — 3 (MetaBot)
+  - `camp-measure-001` — 2
+  - `camp-qbh-001` — 1
+- Sent-folder verification (`delivery_verification.jsonl`, read-only, matched by recipient + subject):
+  **20 of 20 sends FOUND_IN_SENT** across 17 unique recipients.
+- Provider response for the current wave: **HTTP 204 (accepted)**.
+
+Split by engine: 17 MetaCall / 3 MetaBot outbound sends.
+
+The public claim is therefore:
+
+**20 SEND ACCEPTED + SENT-FOLDER VERIFIED (reconciled 2026-10-09)**
+
+This is **not** upgraded to delivery, read, reply, contract or revenue.
+
+## Revenue proof
+
+- **Human replies received: 0.** (Reply detection runs every CEO cycle and is verified
+  operational; the only inbound matches on record are an autoresponder, not a human.)
+- **Signed external customers: 0.**
+- **Cash collected: $0.00.**
+- **Credits or capital secured: $0.00.**
+
 ## Technical / operating proof
 
 Publicly supportable current facts include:
 
 - Core v1 classified **BUILT / PRODUCTION**.
 - Human owner remains root + veto.
-- One canonical CEO loop is the intended company runtime.
+- One canonical CEO loop is the company operating loop.
 - Scheduled unattended CEO execution has been demonstrated.
 - A 2026-10-09 repair restored CEO-cycle preconditions to **10/10 passing**.
 - A fresh post-repair CEO cycle completed and delegated executive work.
 - The child result was persisted and its artifact hash matched its recorded sidecar.
 - A later idle cycle avoided unnecessary model use.
-- Governance, evidence and corrections are treated as production requirements rather than presentation layers.
-
-## Commercial activity
-
-The 2026-10-08 sanitized verifier recorded four post-normalization sends:
-
-- 1 MetaCall
-- 3 MetaBot
-
-For all four:
-
-- provider accepted the send;
-- provider Sent-folder verification found the message by recipient + subject.
-
-The public claim is therefore:
-
-**4 SEND ACCEPTED + SENT-FOLDER VERIFIED**
-
-It is **not** upgraded to delivery, read, reply or revenue.
+- On 2026-10-09 the company detected and retracted one of its own false production findings
+  before acting on it — the correction is preserved in the record.
+- Governance, evidence and corrections are treated as production requirements rather than
+  presentation layers.
 
 ## Product commercialization
 
 Two commercial engines are active in the architecture:
 
-- **MetaCall** — services and near-term cash generation;
+- **MetaCall** — bookkeeping, QuickBooks cleanup, reconciliation and CFO-support services;
+  near-term cash generation.
 - **MetaBot** — digital workforce / Autonomous Company OS / licensing / enterprise value.
 
 ## What is not yet proven publicly
@@ -59,9 +81,12 @@ The build history has preserved incidents where:
 - a scheduler appeared healthy while work was not completing;
 - model routing selected an unusable route;
 - internal measurements overstated or misclassified reality;
+- a capability was reported broken and later found already repaired — the false finding was
+  retracted and preserved;
 - legacy automation created duplicate control-plane risk;
 - current integration status drifted from historical capability claims.
 
 Those failures generated production controls and evidence discipline.
 
-For this project, **the ability to detect, correct and preserve a false claim is itself part of the operating proof**.
+For this project, **the ability to detect, correct and preserve a false claim is itself part of
+the operating proof**.

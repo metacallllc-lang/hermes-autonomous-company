@@ -1,6 +1,6 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-09  
+**Last public reconciliation:** 2026-10-10  
 **Scope:** sanitized operating facts suitable for public release.
 
 ## Classification
@@ -104,3 +104,10 @@ The standing business objective remains **$55M personal liquidity within 12 mont
 2. self-generated revenue and enterprise value.
 
 The public repository does **not** claim that objective has been achieved.
+
+
+## Live operations observation — 2026-10-10
+
+The Command Center's read-only canonical SSE projection and its five operations sections are now production-verified. It distinguishes scheduled wakes from terminal cycle results, preserves UNKNOWN measurements and exposes machine-readable degraded reasons. See [the verified live operations addendum](evidence/COMMAND_CENTER_LIVE_OPERATIONS_2026-10-10.md).
+
+The current observation window reports **BLOCKED**, including a newer scheduled wake without a terminal cycle record and a C-Suite convergence/open-work conflict. Successful autonomous unresolved-work re-drive remains **NOT LIVE PROVEN**. The earlier successful-cycle evidence above remains dated historical evidence and is not a claim that the current runtime is healthy.

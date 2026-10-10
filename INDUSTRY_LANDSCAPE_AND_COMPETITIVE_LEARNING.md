@@ -175,3 +175,24 @@ We intend to publish increasingly strong evidence around:
 If another system demonstrates a better pattern, the correct response is to learn from it, test it and improve.
 
 **Target:** category-leading verified performance — not category-leading claims.
+
+
+### 8. Bounded discussions, durable missions
+
+A useful multi-agent discussion should be bounded. Company continuity should not depend on keeping one conversation open forever.
+
+MetaBot's target operating principle is:
+
+```text
+bounded executive discussion
+        ↓
+decision / delegated work / evidence
+        ↓
+durable company state
+        ↓
+persistent CEO loop wakes again
+        ↓
+continue only if material unresolved work remains
+```
+
+This separates conversation safety from company persistence. A discussion cap is not a company stop condition, and continuity should not be achieved merely by inflating message limits.

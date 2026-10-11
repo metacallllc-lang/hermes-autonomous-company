@@ -62,6 +62,43 @@ The CEO and lower layers may **not** autonomously redefine:
 
 > **The loop may optimize execution. It may not optimize or expand its own authority.**
 
+## Delegated authority
+
+MetaBot treats delegation as a bounded transfer of existing authority, not as a way to create new authority.
+
+The intended runtime chain is:
+
+```text
+root principal
+→ agent identity
+→ parent grant
+→ delegated child grant
+→ attenuated scope
+→ action/resource/destination constraints
+→ policy decision
+→ execution
+→ verified outcome
+```
+
+Rules:
+
+- every consequential actor should identify the principal it represents;
+- every delegated consequential action should be traceable to a parent grant;
+- a child delegation must never exceed the parent grant;
+- the CEO cannot manufacture authority by delegation;
+- C-suite executives cannot manufacture authority for workers;
+- conversational confidence is not authorization;
+- external protocols, gateways and remote peers do not become sources of constitutional authority;
+- owner root/veto remains protected across every delegation hop.
+
+Within existing authority, the expected behavior is **execute and report**, not **ask for redundant approval**. A conversational surface such as Telegram must not recreate a human approval checkpoint for work already authorized to the CEO or C-suite.
+
+### Destination constraints
+
+For network-capable tools and agent protocols, authorization should include the remote destination as part of the decision.
+
+An otherwise permitted action does not imply permission to send credentials, requests or agent traffic to arbitrary discovery URLs, loopback/internal metadata targets, credential endpoints or unregistered remote peers.
+
 ## Fail-closed behavior
 
 If authority for a consequential action is:

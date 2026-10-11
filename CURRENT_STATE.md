@@ -1,6 +1,6 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-10  
+**Last public reconciliation:** 2026-10-11  
 **Scope:** sanitized operating facts suitable for public release.
 
 ## Classification
@@ -106,8 +106,23 @@ The standing business objective remains **$55M personal liquidity within 12 mont
 The public repository does **not** claim that objective has been achieved.
 
 
-## Live operations observation — 2026-10-10
+## Historical live operations observation — 2026-10-10
 
 The Command Center's read-only canonical SSE projection and its five operations sections are now production-verified. It distinguishes scheduled wakes from terminal cycle results, preserves UNKNOWN measurements and exposes machine-readable degraded reasons. See [the verified live operations addendum](evidence/COMMAND_CENTER_LIVE_OPERATIONS_2026-10-10.md).
 
 The current observation window reports **BLOCKED**, including a newer scheduled wake without a terminal cycle record and a C-Suite convergence/open-work conflict. Successful autonomous unresolved-work re-drive remains **NOT LIVE PROVEN**. The earlier successful-cycle evidence above remains dated historical evidence and is not a claim that the current runtime is healthy.
+
+
+## Latest recovery verification — 2026-10-11
+
+**Current autonomous recovery: NOT ESTABLISHED.** The Core v1 production classification remains unchanged.
+
+The canonical scheduler continued firing overnight and persisted terminal cycle records. The latest independently inspected scheduled wake at 5:06 AM America/Guatemala finished at 5:09 AM with a valid fail-closed refusal: no model route passed unattended qualification. Its recorded gateway count was one and canonical state was fresh at execution; independent host-wide process inventory remains unavailable.
+
+An earlier scheduled attempt reached a governed executive child but ended unverified. Runtime evidence showed a provider handoff mismatch: a child intended for Nous inherited its parent's OpenRouter endpoint. A narrow production repair now carries provider and model together through the existing child-construction boundary, retains budgets, read-only child tools and no paid fallback, and refuses mismatched routes. Focused offline tests passed, including the installed runtime consumer in an isolated fixture. A later natural scheduled child completion has not yet proved this repair live.
+
+Qualification remains unresolved: refused wakes make no model call and cannot produce successful route evidence; the existing qualification probe also requires genuine dispatchable work. Neither ordinary interactive chat responses nor passing fixture tests have been relabeled as unattended success. No qualification threshold or protected authority was relaxed.
+
+The earlier missing-terminal and snapshot-writer failures are historical observations. Subsequent inspected wakes persisted terminal records, and the repaired snapshot writer ran through the canonical scheduler. A snapshot fresh at wake time can truthfully become stale later under its freshness rule.
+
+The remaining acceptance sequence is genuine bounded route qualification, then a natural scheduled wake selecting actionable work if present, governed child execution, independently verified result, successful terminal persistence, fresh projection and no duplicate consequential effect. No current recovery, recipient delivery/read, revenue or cash claim is made. Full regression acceptance remains incomplete.

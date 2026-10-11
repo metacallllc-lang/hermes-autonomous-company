@@ -8,6 +8,17 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
+### 0. Restore autonomous continuity, then harden delegated authority
+
+Immediate production order:
+
+1. restore the unattended CEO loop so repairable precondition failures trigger diagnosis, delegated remediation, verification and retry rather than repeated `REFUSED_PRECONDITIONS`;
+2. prove CEO → C-suite → worker continuation on the actual production path without redundant owner confirmation for already-authorized Tier-A work;
+3. preserve fail-closed behavior for genuine owner-reserved boundaries;
+4. then implement the next governance maturity layer: first-class delegated identity, attenuated scope and destination-aware authorization across consequential hops.
+
+This is an operations-first sequence: restore economic execution before starting a broad new control-plane refactor.
+
 ### 1. Convert capability into money
 
 Primary goal:

@@ -1,5 +1,5 @@
 # Industry Landscape & Competitive Learning
-**Updated:** 2026-10-09
+**Updated:** 2026-10-11
 
 MetaBot's public build record now includes a standing competitive-learning program.
 
@@ -39,6 +39,67 @@ See:
 This is useful external validation that Hermes is becoming an execution substrate inside a broader autonomous-organization ecosystem.
 
 MetaBot is **not** adopting Paperclip as a second production authority/control plane. We are studying its mechanisms as an external benchmark and may use disposable compatibility tests where useful.
+
+## October 11, 2026 — identity, delegation and agent-to-business interoperability
+
+A material competitive delta emerged around agent identity, delegated authority and control-plane enforcement.
+
+### ADOPT — explicit delegated identity across consequential hops
+
+Sierra's draft Personal Agent Protocol ("Poppy") is notable less as a protocol dependency than as an architectural signal: an agent identifies itself, identifies whom it represents, receives explicitly scoped authority and carries that identity/authorization across website, API, MCP and agent-to-agent interactions.
+
+MetaBot's corresponding maturity target is to make this chain first-class runtime evidence rather than reconstructing it later:
+
+```text
+human/root principal
+→ CEO/agent identity
+→ delegation
+→ attenuated scope
+→ normalized action
+→ approved resource/destination
+→ execution
+→ verified outcome
+```
+
+This strengthens owner-root authority; it does not replace it.
+
+Reference: https://sierra.ai/blog/poppy
+
+### ADOPT — destination is part of authorization
+
+AWS's October 2 Loom security bulletin documents concrete control-plane risks involving unauthenticated administrative control, manipulated OAuth discovery capable of leaking credentials, and MCP/A2A connection handling that could be directed at internal endpoints.
+
+MetaBot's lesson is that action-class authorization is necessary but insufficient. Networked consequential policy should include:
+
+```text
+allowed_action + allowed_identity + allowed_resource + allowed_destination
+```
+
+MCP/A2A/tool-registration paths should reject arbitrary discovery URLs, loopback/internal metadata targets, credential endpoints and unregistered peers unless separately authorized.
+
+Reference: https://aws.amazon.com/de/security/security-bulletins/2026-124-aws/
+
+### ADOPT — gateway enforcement with richer evidence
+
+PlainID's October 6 agentic gateway work independently reinforces the direction of non-bypassable runtime enforcement while distinguishing human identity, agent identity, intent and parameter-aware authorization.
+
+MetaBot should keep constitutional authority outside the gateway while making gateway evidence richer: principal identity, agent identity, delegated authority, policy decision, normalized action parameters and destination should travel together.
+
+Reference: https://www.plainid.com/news/plainid-turns-any-gateway-into-an-agentic-ready-control-plane/
+
+### WATCH / TEST — Poppy as a future external-agent adapter
+
+MetaBot should not place the draft protocol in its core authority model. It is better treated as a possible narrow enterprise interoperability adapter once the standard and reference implementations mature.
+
+The rule remains:
+
+> External protocols may authenticate or transport requests; MetaBot decides whether those requests have authority.
+
+### WATCH — Hermes local-hardware direction
+
+Nous Research's continued local-hardware and token-efficient model work reinforces MetaBot's model-independent, local/self-hosted direction. It does not justify coupling company architecture to one model or hardware vendor.
+
+Reference: https://nousresearch.com/
 
 ## Lessons MetaBot is incorporating
 

@@ -122,6 +122,69 @@ The useful doctrine survives:
 
 But no external memory provider is allowed to silently outrank canonical company state.
 
+## Verifiable delegated authority
+
+MetaBot is evolving from simple action authorization toward a first-class delegated-authority model.
+
+The target evidence chain is:
+
+```text
+human/root principal
+→ CEO or agent identity
+→ delegation
+→ attenuated scope
+→ normalized action
+→ approved resource
+→ approved destination
+→ execution
+→ verified outcome
+```
+
+A consequential hop should be able to answer, from durable runtime evidence:
+
+- which principal the agent represents;
+- which agent identity performed the work;
+- which parent grant authorized the delegation;
+- what scope was delegated;
+- which normalized action was requested;
+- which resource was in scope;
+- which destination or remote peer was authorized;
+- which policy decision was made;
+- what executed;
+- and what independently verifiable result followed.
+
+Delegation must be attenuating: a child grant may be narrower than its parent grant, but never broader.
+
+### Destination-aware authorization
+
+Action class alone is insufficient for networked agents.
+
+For MCP, A2A, tool registration, OAuth discovery and other remote interactions, the authorization decision should evaluate:
+
+```text
+allowed_action
++ allowed_identity
++ allowed_resource
++ allowed_destination
++ normalized_parameters
+```
+
+Arbitrary discovery URLs, loopback or internal-only targets, metadata or credential-vending endpoints, and unregistered remote peers should be rejected unless separately and explicitly authorized.
+
+### Gateway role
+
+Gateways are enforcement points, not sources of constitutional authority.
+
+They should enforce the existing MetaBot authority model and persist richer evidence including principal identity, agent identity, delegated authority, policy decision, normalized parameters and destination.
+
+External interoperability protocols may authenticate, describe or transport a request. They do not become authority.
+
+### Future external-agent interoperability
+
+Emerging delegated-agent protocols such as Sierra's draft Personal Agent Protocol (Poppy) are a WATCH / TEST surface, not a core dependency.
+
+MetaBot's future enterprise edge should be able to expose a narrow adapter for standards of this class without changing internal CEO/C-suite sovereignty, owner root/veto, delegation limits or company-state authority.
+
 ## Model independence
 
 The design goal is:

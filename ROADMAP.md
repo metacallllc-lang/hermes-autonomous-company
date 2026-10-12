@@ -35,22 +35,53 @@ After the current scheduled CEO → executive → reconciliation → commercial-
 
 Hermes v0.21.7 evaluation should include update-channel pinning, resume behavior, model-router interaction with MetaBot route policy, command-ledger compatibility, memory-plugin boundaries and voice-bridge relevance.
 
-### 1. Convert capability into money
+### 1. Run multiple money engines and produce verified economic proof
 
-Primary goal:
+The company should not wait on one commercial funnel.
+
+Operate concurrently across:
+
+- marketplace / Fiverr-style fast-cash services;
+- MetaCall recurring services;
+- MetaBot pilots / licensing / enterprise-value work;
+- private investors / angels / venture capital;
+- strategic acquirers / licensing partners;
+- sponsors / model credits / cloud credits / hardware / grants.
+
+The CEO should allocate attention dynamically according to expected cash, probability, speed, margin, strategic value and effort.
+
+Near-zero cash increases the weight on fast-cash opportunities, but does not shut down strategic capital, acquisition or sponsorship pipelines.
+
+The strongest near-term proof is:
 
 ```text
-conversation
-→ qualified buyer
-→ agreement
-→ invoice
-→ collection
-→ delivery
-→ reconciliation
-→ retention / expansion
+market opportunity
+→ offer
+→ external buyer / investor / sponsor response
+→ C-suite execution
+→ verified economic outcome
 ```
 
-The first external signed and collected customer matters more than another large batch of architecture work.
+For paid-service work, the target is:
+
+```text
+demand
+→ order
+→ C-suite / workforce production
+→ owner performs only irreducible delivery/platform step
+→ cash
+→ repeat / upsell
+```
+
+Initial cash milestones:
+
+1. first new paid transaction;
+2. $500 verified cash;
+3. $1,000 cumulative;
+4. $5,000 cumulative;
+5. repeatable profitable channel.
+
+See [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md).
 
 ### 2. Increase CEO economic focus
 
@@ -58,14 +89,20 @@ Technical repairs should be production interrupts delegated to the appropriate e
 
 The default operating workload should increasingly prioritize:
 
+- ACTIVE PAID ORDER / CUSTOMER
+- INBOUND BUYER / INVESTOR / SPONSOR / ACQUIRER RESPONSE
 - SELL
 - CLOSE
 - COLLECT
 - DELIVER
 - RETAIN
+- MARKETPLACE OFFER OPTIMIZATION
 - PARTNER
 - LICENSE
+- INVESTMENT / SPONSORSHIP
 - ACQUISITION / ENTERPRISE VALUE
+
+Engineering that does not directly support continuity, revenue, delivery, capital, diligence or economic verification should not automatically outrank commercial work.
 
 ### 3. Public evidence hardening
 

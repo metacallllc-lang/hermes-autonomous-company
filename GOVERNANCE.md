@@ -62,6 +62,52 @@ The CEO and lower layers may **not** autonomously redefine:
 
 > **The loop may optimize execution. It may not optimize or expand its own authority.**
 
+## Optimization authority
+
+Optimization is subordinate to existing operating authority.
+
+An agent, executive or optimization loop may improve execution tactics only inside an already-enacted authority envelope. Optimization does not create authority.
+
+Permitted optimization targets can include:
+
+- models and routing;
+- prompts;
+- routines;
+- cost allocation;
+- retry / recovery tactics;
+- worker selection;
+- execution sequencing;
+- bounded tool usage.
+
+The optimization loop may not autonomously alter:
+
+- constitutional authority;
+- owner root / veto;
+- root grants;
+- protected destinations or resources;
+- delegation ceilings;
+- protected audit requirements;
+- mechanisms that expand the optimizer's own authority.
+
+A consequential optimization is not accepted merely because its author reports improvement. The intended governance contract is:
+
+```text
+before state / metrics
+→ proposed bounded change
+→ authority check
+→ protected invariants
+→ change
+→ independent re-verification
+→ accept / reject / rollback
+→ durable evidence
+```
+
+The verifier should be able to establish both the intended improvement and the absence of material regression in protected invariants.
+
+This extends the load-bearing rule:
+
+> **The loop may optimize execution. It may not optimize or expand its own authority.**
+
 ## Delegated authority
 
 MetaBot treats delegation as a bounded transfer of existing authority, not as a way to create new authority.

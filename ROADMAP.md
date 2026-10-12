@@ -48,6 +48,27 @@ After the current scheduled CEO → executive → reconciliation → commercial-
 
 Hermes v0.21.7 evaluation should include update-channel pinning, resume behavior, model-router interaction with MetaBot route policy, command-ledger compatibility, memory-plugin boundaries and voice-bridge relevance.
 
+### 0B. Make real executive work visible and commercially capable
+
+Hermes Desktop now exposes the existing company projection and exact session correlation.
+
+Do not spend the next phase polishing presentation.
+
+The next high-value technical proof is:
+
+```text
+CEO selects real economic work
+→ executive receives role-appropriate bounded tools
+→ executive performs the actual work in its isolated Hermes profile
+→ Desktop shows the real execution
+→ CEO independently verifies
+→ assignment reconciles exactly once
+→ retirement
+→ next economic action
+```
+
+The current commercial executive tool envelope is still too narrow for some real CRO/CMO/CFO/COO research/write missions. Repair that capability without expanding constitutional authority or allowing unrestricted consequential actions.
+
 ### 1. Run multiple money engines and produce verified economic proof
 
 The company should not wait on one commercial funnel.

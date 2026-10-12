@@ -36,11 +36,16 @@ This is **not** upgraded to delivery, read, reply, contract or revenue.
 
 ## Revenue proof
 
-- **Human replies received: 0.** (Reply detection runs every CEO cycle and is verified
-  operational; the only inbound matches on record are an autoresponder, not a human.)
-- **Signed external customers: 0.**
-- **Cash collected: $0.00.**
-- **Credits or capital secured: $0.00.**
+The public evidence standard does not infer zero from missing financial measurement.
+
+Current supportable statements are:
+
+- No verified new human reply, signed customer, customer payment, investment, sponsorship or acquisition proceeds from the October 12 multi-engine mission are claimed here.
+- **Recognized revenue: UNKNOWN** unless an authoritative ledger exposes a recognized amount.
+- **Treasury / available cash: UNKNOWN** in the public evidence record unless independently measured.
+- **Credits or capital secured: NOT YET PROVEN** in the public evidence record.
+
+Historical outbound activity must not be upgraded to revenue merely because a provider accepted a send or a message appears in Sent.
 
 ## Technical / operating proof
 
@@ -50,22 +55,27 @@ Publicly supportable current facts include:
 - Human owner remains root + veto.
 - One canonical CEO loop is the company operating loop.
 - Scheduled unattended CEO execution has been demonstrated.
-- A 2026-10-09 repair restored CEO-cycle preconditions to **10/10 passing**.
-- A fresh post-repair CEO cycle completed and delegated executive work.
-- The child result was persisted and its artifact hash matched its recorded sidecar.
-- A later idle cycle avoided unnecessary model use.
-- On 2026-10-09 the company detected and retracted one of its own false production findings
-  before acting on it — the correction is preserved in the record.
-- Governance, evidence and corrections are treated as production requirements rather than
-  presentation layers.
+- On 2026-10-12 a natural scheduled wake completed with `PENDING_DELEGATION` and rc=0 after successful real CEO inference.
+- That wake selected admitted work and invoked governed executive delegation.
+- Exactly one isolated CTO-home native attempt/session was launched and was absent from the default CEO-home session store.
+- The CTO technical repair itself failed: required writes did not materialize and tests did not execute.
+- No successful repair/reconciliation/commercial continuation is claimed from that failed attempt.
+- Earlier false or overstated findings have been corrected and preserved rather than silently rewritten.
+- Governance, evidence and corrections are treated as production requirements rather than presentation layers.
 
 ## Product commercialization
 
-Two commercial engines are active in the architecture:
+The operating model now uses a **multi-engine economic portfolio**:
 
-- **MetaCall** — bookkeeping, QuickBooks cleanup, reconciliation and CFO-support services;
-  near-term cash generation.
-- **MetaBot** — digital workforce / Autonomous Company OS / licensing / enterprise value.
+- **marketplace / Fiverr-style fast-cash services**;
+- **MetaCall** recurring bookkeeping / finance services;
+- **MetaBot** pilots, licensing and enterprise-value work;
+- **investor / acquirer** outreach;
+- **sponsorship / non-dilutive resources**.
+
+The latest CEO operating report states that this mission was persisted and that CRO work was dispatched around Fiverr economics, MetaCall diversification and strategic-capital targeting. That is operating activity, not revenue proof.
+
+See [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md).
 
 ## What is not yet proven publicly
 

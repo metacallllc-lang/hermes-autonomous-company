@@ -231,6 +231,41 @@ Emerging delegated-agent protocols such as Sierra's draft Personal Agent Protoco
 
 MetaBot's future enterprise edge should be able to expose a narrow adapter for standards of this class without changing internal CEO/C-suite sovereignty, owner root/veto, delegation limits or company-state authority.
 
+## Agent OS presentation layer
+
+The owner-facing product is intentionally separated from execution and company truth.
+
+The current target topology is:
+
+```text
+Hermes Desktop
+(primary owner Agent OS shell)
+        │
+        ├── native agent chats / sessions / profiles
+        │
+        └── METABOT COMPANY
+            (embedded Command Center projection)
+                    │
+                    ▼
+                 AI-OS
+       canonical company / governance /
+             economic state
+                    │
+                    ▼
+              Hermes runtime
+            execution + sessions
+```
+
+The Desktop surface may navigate to an exact stored executive or CEO session, but navigation does not make the UI authoritative.
+
+The Command Center may summarize lifecycle, mission and economic state, but projection does not create company truth.
+
+The design rule is:
+
+> **Background execution is acceptable. Invisible or unauditable execution is not.**
+
+The owner should be able to move from company-level state to the exact Hermes execution context without inspecting raw SQLite, JSON or shell state.
+
 ## Model independence
 
 The design goal is:

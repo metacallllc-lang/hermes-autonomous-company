@@ -8,6 +8,29 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
+### 0. Convert batch autonomy into continuous company operation
+
+The company must not depend on multi-hour scheduled gaps between executive completion and CEO continuation.
+
+Implement and prove the **Continuous Company Loop**:
+
+1. terminal executive events wake the CEO immediately;
+2. CEO reconciles/verifies and selects next work without waiting for the watchdog schedule;
+3. fresh economic work has a first-class durable admission path separate from failed-work replacement;
+4. CFO/COO/CRO/CMO/CTO receive separate bounded execution lanes;
+5. at most one active assignment per executive lane initially;
+6. consequential resources retain stricter independent locks;
+7. at least two independent executive lanes can operate concurrently;
+8. Hermes Desktop / METABOT COMPANY projects the real event-driven state;
+9. the existing two-hour wake becomes watchdog/recovery rather than operating cadence;
+10. no tight polling or continuous model burn when no eligible work exists.
+
+Acceptance must use real economic work and demonstrate continuation between scheduled wakes.
+
+See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
+
+
+
 ### 0. Close the remaining production continuation gap
 
 The ordinary production path has now demonstrated:

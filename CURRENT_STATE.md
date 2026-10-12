@@ -49,6 +49,27 @@ No successful repair, reconciliation or commercial continuation is claimed from 
 
 The current production gap is therefore narrower than before: scheduler firing, CEO inference, work selection, governed delegation and CTO isolation are now demonstrated in production, while successful bounded technical repair → verification → reconciliation → commercial continuation remains incomplete.
 
+## Hermes Desktop / Command Center integration
+
+A local standalone Hermes Desktop plugin now exposes the existing MetaBot Command Center under **METABOT COMPANY**.
+
+Verified properties include:
+
+- Hermes remains the execution runtime;
+- AI-OS remains canonical company/governance/economic state;
+- the Command Center remains read-only projection rather than authority;
+- executive links validate the recorded assignment/profile/job/attempt/session tuple before opening the exact local Hermes session;
+- parent links can open the recorded CEO session;
+- focused Hermes sessions can display correlated company context and return navigation;
+- stale or mismatched session identities are refused rather than guessed;
+- GET/SSE observation remains separate from mutating execution.
+
+During the observed October 12 ordinary cycle, the passive projection saw a real CTO assignment progress through dispatch, running execution with increasing counters, and terminal failure. Native Desktop evidence confirmed the installed session/context integration after terminal completion.
+
+This establishes **live executive observability and exact session correlation, scoped**.
+
+It does **not** establish a successful repair cycle, economic result, or full commercial autonomy.
+
 ## Commercial execution
 
 The 2026-10-08 post-enactment verifier recorded:

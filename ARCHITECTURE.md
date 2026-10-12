@@ -66,6 +66,52 @@ WAKE
 → CONTINUE
 ```
 
+## Evidence-gated optimization loop
+
+The ordinary operating loop can propose changes to execution tactics, but a proposed improvement does not become production truth on self-report alone.
+
+The target improvement contract is:
+
+```text
+OBSERVE OUTCOME
+→ MEASURE
+→ DIAGNOSE
+→ PROPOSE CHANGE
+→ VERIFY AUTHORITY
+→ PRESERVE BASELINE
+→ APPLY BOUNDED CHANGE
+→ INDEPENDENTLY RE-VERIFY
+→ ACCEPT / REJECT / ROLLBACK
+→ PERSIST LESSON
+```
+
+The optimization record should eventually make the following machine-visible:
+
+- objective and before metrics;
+- protected invariants;
+- authorized change surface;
+- before/after hashes or versions;
+- after metrics;
+- independent verifier result;
+- acceptance or rollback state;
+- durable lesson.
+
+Optimization is therefore a child of governance, not a way around governance.
+
+A loop may optimize models, routing, prompts, routines, cost and execution tactics inside its existing envelope. It may not optimize constitutional authority, owner root/veto, root grants, protected resources/destinations or its own delegation ceiling.
+
+This architecture intentionally separates:
+
+```text
+operating authority
+≠
+optimization authority
+≠
+verification authority
+```
+
+The exact implementation remains an operations roadmap item; this section defines the contract, not a claim of completed production proof.
+
 ## C-suite
 
 The executive layer gives the CEO specialized perspectives:

@@ -1,6 +1,6 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-11  
+**Last public reconciliation:** 2026-10-12  
 **Scope:** sanitized operating facts suitable for public release.
 
 ## Classification
@@ -21,17 +21,33 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 
 ## Autonomous operation
 
-A 2026-10-09 production repair corrected a model-route suitability defect, a stale authorized cron-consumer fingerprint and an incorrect Command Center route projection.
+The latest production proof boundary moved materially on 2026-10-12.
 
-After that repair:
+A natural Windows-scheduled CEO wake at approximately 09:06 Guatemala time:
 
-- CEO-cycle preconditions reported **10/10 passing**.
-- A fresh real CEO cycle completed.
-- The delegated executive child reported **SUCCEEDED**.
-- The resulting artifact hash matched its recorded sidecar.
-- A subsequent cycle correctly idled when no useful work item was selected and did not call a model.
+- fired through the ordinary production scheduler;
+- completed its parent cycle with raw status `PENDING_DELEGATION` and wrapper rc=0;
+- made successful real CEO inference calls through Hermes;
+- selected already-admitted repair work;
+- invoked the governed executive-delegation path;
+- created exactly one new CTO assignment / native attempt;
+- launched an isolated CTO-home Hermes session that was absent from the default CEO-home session store.
 
-This is evidence of a working production loop after repair. It is **not** a claim that every future cycle will succeed or that every delegated conclusion is correct.
+This is production evidence for the chain:
+
+```text
+ordinary scheduled wake
+→ real CEO inference
+→ work selection
+→ governed executive delegation
+→ isolated CTO execution
+```
+
+The delegated CTO repair itself **did not succeed**. The worker's bounded write contract required complete prior reads; only partial reads occurred, so the intended production writes did not materialize and the approved tests did not execute.
+
+No successful repair, reconciliation or commercial continuation is claimed from that attempt.
+
+The current production gap is therefore narrower than before: scheduler firing, CEO inference, work selection, governed delegation and CTO isolation are now demonstrated in production, while successful bounded technical repair → verification → reconciliation → commercial continuation remains incomplete.
 
 ## Commercial execution
 
@@ -95,6 +111,26 @@ For example, the 2026-10-08 verifier recorded QuickBooks refresh/read returning 
 Green guard checks are not treated as a whole-system clean bill of health.
 
 This project records failures and measurement defects as part of the evidence trail rather than deleting them when repaired.
+
+## Commercial mission update — 2026-10-12
+
+The operating mission now uses a **multi-engine economic portfolio** rather than a single commercial funnel.
+
+The authoritative operating direction is to pursue in parallel:
+
+- marketplace / Fiverr-style fast-cash services;
+- MetaCall recurring services;
+- MetaBot pilots / licensing / enterprise-value work;
+- investors / strategic acquirers;
+- sponsorship / non-dilutive resources.
+
+Near-zero cash increases the priority of fast-cash marketplace work, while strategic capital, acquisition and sponsorship continue in parallel.
+
+The latest CEO status report records that the mission amendment was persisted and that a CRO economic-work assignment was dispatched to analyze Fiverr economics, MetaCall channel diversification and strategic-capital targets. That executive work is **not** treated here as economic success until its result and any resulting external action are independently verified.
+
+Recognized revenue and treasury state remain **UNKNOWN unless measured by authoritative financial evidence**. A pipeline, send count, listing, target list or worker result is not cash.
+
+See [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md).
 
 ## Business objective
 

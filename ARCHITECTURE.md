@@ -43,6 +43,35 @@ Supporting schedulers may:
 
 They should not independently become competing CEOs.
 
+## Continuous event-driven company
+
+The CEO remains singular and authoritative, but company progression should not depend primarily on a slow wall-clock cadence.
+
+The target operating model is event-driven:
+
+```text
+durable event
+→ wake CEO
+→ reconcile / verify
+→ update canonical state
+→ rank eligible work
+→ dispatch executive lanes
+→ executive result / new opportunity
+→ durable event
+→ wake CEO again
+↺
+```
+
+Executive completion, failure, external replies, payment events, deadlines, discovered opportunities and material blockers should be able to wake the CEO immediately.
+
+The scheduled CEO wake remains as a watchdog / missed-event recovery mechanism rather than the desired normal operating cadence.
+
+The initial concurrency target is one active assignment per executive role (CFO, COO, CRO, CMO, CTO), while consequential external resources retain stricter independent locks.
+
+Fresh economic opportunities should be represented separately from failed-work replacement semantics and should flow through the normal governed dispatch constructor so role-specific scopes, toolsets and provenance are created correctly.
+
+See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
+
 ## Operating loop
 
 The intended production loop is:

@@ -23,6 +23,7 @@ The system can route between models, but stronger reasoning models and more reli
 
 Infrastructure support can therefore directly fund:
 
+- migration of production CEO/C-suite critical work away from unreliable free inference where paid capacity is justified;
 - better executive reasoning;
 - larger-context analysis;
 - commercial research;
@@ -64,6 +65,12 @@ Sponsorship does not automatically grant:
 - permission to weaken governance.
 
 Any additional rights require a separate explicit agreement.
+
+## Near-term resource objective
+
+A near-term practical goal is enough model/API capacity or credits to run production CEO/C-suite critical work on stronger, more reliable paid reasoning routes while retaining economical models for low-value bulk work.
+
+The company should seek this support in parallel with earned revenue, strategic investment and acquisition conversations.
 
 ## Use of support
 

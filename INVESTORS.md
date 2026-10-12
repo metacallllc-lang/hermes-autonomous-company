@@ -90,20 +90,36 @@ It is the accumulated operating system:
 
 ## What still needs to be proven
 
-The most important remaining proof is economic:
+The most important remaining proof is economic.
 
+MetaBot is deliberately testing multiple economic engines rather than waiting on one enterprise-sales funnel.
+
+Evidence targets include:
+
+- marketplace / fast-cash orders;
 - repeatable customer acquisition;
 - signed customers;
 - cash collection;
 - customer ROI;
 - retention;
 - margin;
-- scalable delivery;
+- scalable C-suite/workforce fulfillment;
+- MetaCall recurring revenue;
+- paid MetaBot pilots / licensing;
+- investor / acquirer replies and meetings;
+- diligence;
+- sponsorship / model / infrastructure commitments;
 - enterprise willingness to pay.
+
+A particularly strong proof would be an autonomous commercial loop in which the system identifies demand, creates an offer, coordinates fulfillment through the C-suite/workforce and produces verified external cash.
 
 ## What strategic capital would accelerate
 
-- stronger paid models;
+The immediate infrastructure bottleneck is reliable high-quality inference for production CEO/C-suite work.
+
+Strategic capital or non-dilutive credits can accelerate:
+
+- stronger paid models and provider redundancy;
 - infrastructure;
 - productization;
 - security;

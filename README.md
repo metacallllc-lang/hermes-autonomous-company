@@ -67,19 +67,19 @@ A claim is not upgraded merely because the next state would be convenient.
 
 ## Current public status
 
-As of the latest preserved 2026-10-09 records:
+As of the latest preserved 2026-10-12 operating record:
 
 - Core v1 remains **BUILT / PRODUCTION**.
 - Human owner remains **root + veto**; execution improvements cannot expand protected authority.
 - One canonical Hermes-native CEO loop remains the company operating loop.
-- A fresh scheduled CEO wake completed successfully after a production repair and passed its operating preconditions.
-- C-suite / Bot Chat is being used as an executive deliberation surface, not as a second control plane.
-- Real outbound commercial sends have been **provider accepted and Sent-folder verified**.
-- Recipient delivery, signed customer revenue and cash collection are **not yet proven** in the public record.
-- Several production issues remain open, including memory-provider residue, scheduler-topology reconciliation and social brand-routing separation.
-- The system has recorded and preserved earlier failed wakes and incorrect claims rather than deleting them.
+- A natural scheduled CEO wake has now demonstrated real CEO inference, work selection, governed executive delegation and isolated CTO-home execution on the ordinary production path.
+- The delegated technical repair itself failed; successful repair → verification → reconciliation → commercial continuation remains incomplete.
+- The commercial mission is now explicitly **multi-engine**: marketplace/Fiverr fast cash, MetaCall services, MetaBot pilots/licensing, investors/acquirers, and sponsorship/resources.
+- Recognized revenue and treasury state remain **UNKNOWN unless independently measured**; the public record does not convert missing measurement into $0.
+- Real outbound commercial activity exists, but recipient delivery, signed-customer revenue and cash collection are not yet proven.
+- Failures and corrections remain part of the public evidence trail rather than being rewritten as success.
 
-See [CURRENT_STATE.md](CURRENT_STATE.md) and [TRACTION.md](TRACTION.md).
+See [CURRENT_STATE.md](CURRENT_STATE.md), [TRACTION.md](TRACTION.md) and [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md).
 
 ## Product direction
 

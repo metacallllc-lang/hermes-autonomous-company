@@ -70,6 +70,22 @@ This establishes **live executive observability and exact session correlation, s
 
 It does **not** establish a successful repair cycle, economic result, or full commercial autonomy.
 
+## Continuous-company evolution
+
+The observed production system can wake, infer, delegate and execute isolated executive work, but long inactive gaps have shown that scheduled wakes still carry too much responsibility for reconciliation and continuation.
+
+The next operating evolution is therefore a **continuous event-driven company loop**:
+
+- executive terminal events should wake the CEO immediately;
+- fresh economic work should use its own canonical admission path rather than failed-work replacement semantics;
+- CFO/COO/CRO/CMO/CTO should gain independent bounded execution lanes;
+- consequential resources should retain narrower resource-level locks;
+- the existing scheduled wake should remain as watchdog / recovery.
+
+This direction is being implemented and is **not yet claimed as fully production-proven**.
+
+See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
+
 ## Commercial execution
 
 The 2026-10-08 post-enactment verifier recorded:

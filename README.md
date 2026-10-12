@@ -81,6 +81,22 @@ As of the latest preserved 2026-10-12 operating record:
 
 See [CURRENT_STATE.md](CURRENT_STATE.md), [TRACTION.md](TRACTION.md) and [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md).
 
+## Continuous company direction
+
+The intended end state is not a company that wakes every few hours.
+
+It is a **continuous event-driven autonomous company** in which meaningful events wake the CEO immediately, independent C-suite lanes can work concurrently, terminal executive results trigger reconciliation/continuation, and the scheduled wake acts mainly as a watchdog.
+
+The system should be:
+
+> **Always available, not always consuming inference.**
+
+When authorized useful work exists, the company should keep moving. When nothing useful exists, it may sleep cheaply until an event or watchdog wake occurs.
+
+This continuous-company layer is now an active implementation priority and is not yet claimed as fully production-proven.
+
+See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
+
 ## Why this is an ambitious bet
 
 The project is not trying to win by making a prettier chatbot.
@@ -214,6 +230,7 @@ See [SPONSORSHIP.md](SPONSORSHIP.md), [INVESTORS.md](INVESTORS.md) and [ROADMAP.
 - [PRODUCT.md](PRODUCT.md) — product hierarchy and customer value
 - [BUSINESS_MODEL.md](BUSINESS_MODEL.md) — paths to revenue and enterprise value
 - [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md) — multi-engine revenue, capital and resource-acquisition operating model
+- [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md) — event-driven 24/7 CEO/C-suite operating model
 - [TRACTION.md](TRACTION.md) — demonstrated commercial and operating progress
 - [ROADMAP.md](ROADMAP.md) — next milestones
 - [SPONSORSHIP.md](SPONSORSHIP.md) — sponsorship and infrastructure support

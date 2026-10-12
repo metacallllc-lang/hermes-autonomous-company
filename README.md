@@ -81,6 +81,59 @@ As of the latest preserved 2026-10-12 operating record:
 
 See [CURRENT_STATE.md](CURRENT_STATE.md), [TRACTION.md](TRACTION.md) and [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md).
 
+## Why this is an ambitious bet
+
+The project is not trying to win by making a prettier chatbot.
+
+The bet is that the next valuable layer above individual AI agents is a **governed autonomous economic operating system**: a system that can carry durable authority, company state, executive roles, tools, verification, recovery and commercial objectives across models and sessions.
+
+The credible version of that idea must survive real failure.
+
+That is why the public record deliberately preserves failed repairs, stale state, refused actions, unknown measurements and incorrect prior claims instead of polishing them away.
+
+The target proof is stronger than agent orchestration:
+
+```text
+economic objective
+→ authorized CEO decision
+→ delegated executive work
+→ real tool execution
+→ independently verified outcome
+→ durable company state
+→ next autonomous decision
+→ external economic result
+```
+
+If that loop becomes repeatable, the value is not the prompt or the model. The value is the operating system around them.
+
+## Hermes Desktop / Agent OS surface
+
+On October 12, 2026 the existing MetaBot Command Center was integrated into Hermes Desktop as a standalone local plugin surface named **METABOT COMPANY**.
+
+The integration preserves the chosen architecture:
+
+```text
+Hermes runtime
+= agent execution
+
+AI-OS
+= canonical company / governance / economic state
+
+MetaBot Command Center
+= read-only company projection
+
+Hermes Desktop
+= primary owner Agent OS shell
+```
+
+The company surface can correlate executive assignments with exact Hermes profiles, jobs, attempts and stored sessions, and can navigate between the company-level view and the owning Hermes session.
+
+The integration does not create a second scheduler, second authority plane or second source of company truth.
+
+A real ordinary CTO cycle was observed through dispatch, running activity and terminal failure with changing model/tool counters. The UI preserved the failure rather than promoting process completion to success.
+
+Full successful repair → verification → reconciliation → continuation remains unproven.
+
 ## Product direction
 
 The commercial product has evolved from individual AI agents into a hierarchy:

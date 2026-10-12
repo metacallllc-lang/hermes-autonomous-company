@@ -9,6 +9,14 @@ The standing objective is to create substantial personal liquidity for the owner
 
 The architecture is therefore expected to create economic outcomes, not merely technical proofs.
 
+## Portfolio principle
+
+The company is not limited to one revenue or capital source.
+
+It operates a portfolio of concurrent economic engines and reallocates effort toward the opportunities with the strongest combination of expected cash, probability, speed, margin and strategic value.
+
+See [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md).
+
 ## Revenue layers
 
 ### Paid discovery
@@ -61,18 +69,38 @@ Potential partnership models include:
 
 If the technology, evidence, customer base or platform becomes valuable to a larger company, acquisition or strategic investment is an explicit acceptable path.
 
-## Two-company portfolio
+## Multi-engine economic portfolio
+
+### Marketplace / fast-cash services
+
+Marketplace channels such as Fiverr can provide a short feedback loop between demand discovery and cash.
+
+The CEO/C-suite should research current buyer demand, pricing, saturation, delivery requirements and margin; create offers the workforce can substantially fulfill; measure real marketplace response; and stop or redesign weak offers.
+
+The target proof is:
+
+```text
+demand
+→ offer
+→ order
+→ C-suite / workforce fulfillment
+→ owner performs only irreducible platform/delivery step
+→ verified cash
+→ repeat / upsell / optimize
+```
 
 ### MetaCall Solutions
 
-Near-term cash engine:
+Recurring-service engine:
 
 - bookkeeping;
 - QuickBooks;
 - cleanup;
 - reporting;
 - reconciliation;
-- CFO support.
+- CFO support;
+- financial dashboards;
+- finance-process automation.
 
 ### MetaBot Solutions
 
@@ -85,6 +113,28 @@ Technology / enterprise-value engine:
 - licensing;
 - partnerships;
 - strategic transactions.
+
+### Strategic capital / acquisition
+
+The company should continuously maintain qualified pipelines for:
+
+- private investors;
+- angels;
+- venture capital;
+- family offices;
+- strategic corporate investors;
+- potential acquirers;
+- licensing partners.
+
+Outreach is not success. Replies, meetings, diligence, written indications of interest, term sheets and closed transactions are the evidence ladder.
+
+### Sponsorship / resources
+
+Non-dilutive resource acquisition is an operating engine, not an afterthought.
+
+Priority resources include paid-model/inference credits, cloud/API credits, hardware, startup programs, grants, technical sponsorship and research partnerships.
+
+A current practical objective is to reduce dependence on unreliable free inference for production CEO/C-suite work by obtaining stronger paid-model capacity or equivalent credits.
 
 ## Capital efficiency
 

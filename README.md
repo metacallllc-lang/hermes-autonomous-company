@@ -105,13 +105,23 @@ The historical product thesis remains:
 
 See [PRODUCT.md](PRODUCT.md) and [product/PRICING.md](product/PRICING.md).
 
-## Two-company operating model
+## Multi-engine commercial operating model
 
-**MetaCall Solutions** is the near-term cash engine: bookkeeping, QuickBooks, cleanup, reconciliation, reporting and CFO-support services.
+MetaBot / MetaCall is not relying on one commercial funnel.
 
-**MetaBot Solutions** is the technology and enterprise-value engine: digital workforces, autonomous-company infrastructure, enterprise deployment, licensing, partnerships and strategic transactions.
+The governed company operating system supports multiple parallel economic engines:
 
-The same governed company operating system can support both, while brand, customer, accounting, legal and commercial attribution remain separate.
+- **marketplace / fast-cash services** — including Fiverr-style service offers where current demand can be measured quickly;
+- **MetaCall Solutions** — bookkeeping, QuickBooks, cleanup, reconciliation, reporting and CFO-support services;
+- **MetaBot Solutions** — digital workforces, autonomous-company infrastructure, pilots, licensing, partnerships and strategic transactions;
+- **investment / acquisition** — strategic investors, angels, venture capital, potential acquirers and licensing partners;
+- **sponsorship / non-dilutive resources** — model credits, cloud/API credits, hardware, startup programs, grants and research partnerships.
+
+The CEO is expected to allocate effort dynamically toward the highest expected economic value rather than treating every channel equally.
+
+The strongest near-term proof is not another internal architecture milestone. It is externally verified economic progress: a paid order, cash received, a serious investor/acquirer meeting, diligence, a sponsor commitment, model credits, hardware/resources, or another measurable transaction advance.
+
+See [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md).
 
 ## Public evidence policy
 
@@ -150,6 +160,7 @@ See [SPONSORSHIP.md](SPONSORSHIP.md), [INVESTORS.md](INVESTORS.md) and [ROADMAP.
 - [GOVERNANCE.md](GOVERNANCE.md) — human authority and autonomous execution boundaries
 - [PRODUCT.md](PRODUCT.md) — product hierarchy and customer value
 - [BUSINESS_MODEL.md](BUSINESS_MODEL.md) — paths to revenue and enterprise value
+- [COMMERCIAL_OPERATING_STRATEGY.md](COMMERCIAL_OPERATING_STRATEGY.md) — multi-engine revenue, capital and resource-acquisition operating model
 - [TRACTION.md](TRACTION.md) — demonstrated commercial and operating progress
 - [ROADMAP.md](ROADMAP.md) — next milestones
 - [SPONSORSHIP.md](SPONSORSHIP.md) — sponsorship and infrastructure support

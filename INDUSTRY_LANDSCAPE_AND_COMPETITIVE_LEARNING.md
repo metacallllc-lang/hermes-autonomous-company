@@ -1,5 +1,5 @@
 # Industry Landscape & Competitive Learning
-**Updated:** 2026-10-11
+**Updated:** 2026-10-12
 
 MetaBot's public build record now includes a standing competitive-learning program.
 
@@ -257,3 +257,150 @@ continue only if material unresolved work remains
 ```
 
 This separates conversation safety from company persistence. A discussion cap is not a company stop condition, and continuity should not be achieved merely by inflating message limits.
+
+
+## October 12, 2026 — evidence-gated optimization, incident coverage and market category
+
+Today's competitive-learning delta reinforces MetaBot's existing architecture rather than reopening it.
+
+### ADOPT — optimization must end in independent re-verification
+
+Kore.ai's Autoloop work describes a production-agent improvement lifecycle organized around build, evaluate, diagnose, optimize and re-verify. The important lesson for MetaBot is not the product dependency; it is the control contract: an optimization should not become the new operating state merely because the optimizer claims improvement.
+
+MetaBot's target optimization contract is therefore:
+
+```text
+observed outcome
+→ objective metric
+→ diagnosis
+→ proposed change
+→ authority check
+→ preserve baseline
+→ bounded change
+→ independent re-verification
+→ accept / reject / rollback
+→ durable lesson
+```
+
+Every consequential optimization should eventually carry machine-visible evidence for:
+
+- optimization ID;
+- before metrics;
+- intended improvement;
+- protected invariants;
+- authorized change surface;
+- baseline hash / version;
+- changed hash / version;
+- after metrics;
+- independent verifier result;
+- accept / reject / rollback disposition;
+- durable lesson for later loops.
+
+This is an architectural doctrine. It is **not yet a claim that MetaBot has implemented a complete autonomous optimization engine**.
+
+Reference: https://kore.ai/blog/autoloop-continuous-ai-agent-optimization-for-production/
+
+### ADOPT — optimization authority is below operating authority
+
+An optimizer may improve execution tactics only inside authority that already exists.
+
+Permitted optimization targets can include:
+
+- models and routing;
+- prompts;
+- routines;
+- cost allocation;
+- retry/recovery tactics;
+- worker selection;
+- execution sequencing;
+- bounded tool usage.
+
+Non-optimizable surfaces include:
+
+- constitutional authority;
+- owner root / veto;
+- root grants;
+- protected destinations/resources;
+- delegation ceilings;
+- audit requirements;
+- mechanisms that expand the optimizer's own authority.
+
+This makes the standing MetaBot rule operational:
+
+> **The loop may optimize execution. It may not optimize or expand its own authority.**
+
+### WATCH — the enterprise agent-control-plane category is becoming mainstream
+
+TCS has publicly described an enterprise governance layer intended to coordinate internally built, customer and third-party agents across systems such as SAP, ServiceNow and Oracle, with security and cost efficiency treated as control-plane concerns.
+
+This is commercially important but does not justify copying another control plane.
+
+MetaBot's intended differentiation is stronger than generic orchestration:
+
+> **a governed autonomous economic operating system that can prove objective → delegated authority → economic action → external result → independent verification → durable company state → next autonomous decision.**
+
+Reference: https://www.financialexpress.com/business/news/tcs-bets-on-governance-layer-to-scale-enterprise-ai/4358841/
+
+### TEST — map real-world agent incidents to MetaBot control coverage
+
+The Agent Incident Registry (AIR) is a useful evaluation-scope asset because it catalogs source-linked agent incidents/events while distinguishing realized harm, demonstrations, causal roles and missing evidence.
+
+MetaBot should not treat AIR as a deployment failure-rate estimate.
+
+A future control-coverage artifact should instead map:
+
+```text
+observed incident class
+→ MetaBot control
+→ regression / production test
+→ evidence
+→ covered / partial / untested
+```
+
+That would provide a stronger claim than "our tests pass": it would show which known real-world agent failure surfaces the governance system actually addresses.
+
+Reference: https://arcxiv.org/abs/2609.11030
+
+### WATCH / TEST — Hermes Agent v0.21.7 is officially released
+
+The previous watch conclusion that no sufficiently verified new Hermes release was available is now superseded.
+
+NousResearch published **Hermes Agent v0.21.7** as an official GitHub release on October 12, 2026.
+
+Relevant items include:
+
+- stable tagged update channels for source installs;
+- desktop update-channel selection;
+- resumed-session reasoning preservation;
+- additional plugin/runtime ecosystem changes;
+- community plugins including command-ledger, Model Router, memory-shield, Memoria and wyoming-voice-bridge.
+
+MetaBot should **not upgrade the production Hermes runtime during the current recovery proof**. The correct next step is an isolated compatibility/evaluation track after the current production continuation chain closes.
+
+Evaluation topics should include:
+
+1. update-channel pinning and rollback;
+2. session-resume behavior;
+3. model-router behavior against MetaBot's own route admission policy;
+4. command-ledger compatibility with MetaBot evidence/provenance;
+5. memory plugins against canonical-state and authority boundaries;
+6. voice bridge suitability for the longer-term company voice interface.
+
+Reference: https://github.com/NousResearch/hermes-agent/releases/tag/v0.21.7
+
+### Net competitive delta
+
+The architectural conclusion is:
+
+```text
+governed autonomy
++ delegated authority
++ economic execution
++ independent verification
++ evidence-gated self-improvement
++ reversible optimization
+```
+
+MetaBot should compete beyond the increasingly crowded "agent control plane" category by proving autonomous economic operation whose **improvements themselves are governed, independently re-verified and reversible**.
+
+Nothing in today's external delta warrants changing the one-CEO architecture, allowing agents to manufacture authority, weakening protected owner root/veto, or interrupting the current production-recovery proof with a broad runtime migration.

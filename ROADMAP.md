@@ -8,16 +8,29 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
-### 0. Restore autonomous continuity, then harden delegated authority
+### 0. Close the remaining production continuation gap
 
-Immediate production order:
+The ordinary production path has now demonstrated:
 
-1. restore the unattended CEO loop so repairable precondition failures trigger diagnosis, delegated remediation, verification and retry rather than repeated `REFUSED_PRECONDITIONS`;
-2. prove CEO → C-suite → worker continuation on the actual production path without redundant owner confirmation for already-authorized Tier-A work;
-3. preserve fail-closed behavior for genuine owner-reserved boundaries;
-4. then implement the next governance maturity layer: first-class delegated identity, attenuated scope and destination-aware authorization across consequential hops.
+```text
+scheduled wake
+→ real CEO inference
+→ work selection
+→ governed executive delegation
+→ isolated CTO execution
+```
 
-This is an operations-first sequence: restore economic execution before starting a broad new control-plane refactor.
+The immediate remaining production order is:
+
+1. complete a real bounded executive repair successfully;
+2. independently verify the production bytes / behavior;
+3. reconcile exactly once and retire the assignment correctly;
+4. continue into real commercial work without manual owner middleware;
+5. preserve fail-closed behavior for genuine owner-reserved boundaries.
+
+Do not reopen scheduler, routing or executive-isolation architecture unless new evidence shows those surfaces are failing.
+
+The main engineering target is now **successful repair completion and commercial continuation**, not rediscovery of already-proven wake/delegation mechanics.
 
 ### 0A. After current recovery: evidence-gated optimization
 

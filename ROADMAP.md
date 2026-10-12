@@ -19,6 +19,22 @@ Immediate production order:
 
 This is an operations-first sequence: restore economic execution before starting a broad new control-plane refactor.
 
+### 0A. After current recovery: evidence-gated optimization
+
+Do not interrupt the active production-continuity/commercial recovery with a broad optimization-engine refactor.
+
+After the current scheduled CEO → executive → reconciliation → commercial-action chain is proven, implement the next operating maturity layer:
+
+1. formal evaluate → diagnose → change → independently re-verify lifecycle;
+2. before/after metrics and protected invariants;
+3. accept / reject / rollback dispositions;
+4. durable optimization lessons;
+5. explicit rule that optimization authority cannot expand operating authority;
+6. real-world incident coverage mapping against the Agent Incident Registry;
+7. isolated Hermes v0.21.7 compatibility evaluation before any production upgrade.
+
+Hermes v0.21.7 evaluation should include update-channel pinning, resume behavior, model-router interaction with MetaBot route policy, command-ledger compatibility, memory-plugin boundaries and voice-bridge relevance.
+
 ### 1. Convert capability into money
 
 Primary goal:

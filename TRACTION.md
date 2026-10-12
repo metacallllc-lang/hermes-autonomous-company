@@ -63,6 +63,26 @@ Publicly supportable current facts include:
 - Earlier false or overstated findings have been corrected and preserved rather than silently rewritten.
 - Governance, evidence and corrections are treated as production requirements rather than presentation layers.
 
+## Agent OS / observability proof
+
+On 2026-10-12 the existing MetaBot Command Center was integrated into Hermes Desktop as a local standalone plugin surface.
+
+Supportable scoped proof includes:
+
+- a first-class **METABOT COMPANY** surface in Hermes Desktop;
+- exact navigation from company executive/assignment context to the recorded local Hermes profile/session;
+- parent CEO-session correlation where recorded;
+- session-side company context with return navigation;
+- read-only GET/SSE projection semantics;
+- rejection of stale/mismatched session identities;
+- a real ordinary CTO assignment observed through DISPATCHED → RUNNING → FAILED;
+- model/tool counters changing during live execution;
+- failure preserved as failure rather than upgraded from process exit.
+
+The installed integration passed its bounded local verification harnesses and did not require a Hermes core-source patch.
+
+This is **not** proof of successful autonomous commercial execution. The observed natural repair failed and no successful new repair → verification → reconciliation → continuation chain is claimed.
+
 ## Product commercialization
 
 The operating model now uses a **multi-engine economic portfolio**:

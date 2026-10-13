@@ -1,6 +1,29 @@
 # Hermes Autonomous Company
 
-**A public evidence, architecture, product and commercialization record for the MetaBot Autonomous Company OS.**
+**MetaBot: one Hermes-native AI CEO, a governed executive team, and an evidence trail for what the company actually did.**
+
+The human owner retains **root + veto**. The CEO selects authorized work; executives execute; independent verification determines what can be recorded as an outcome.
+
+**Start here:** [60-second evidence walkthrough](DEMO.md) · [Current proof and limits](CURRENT_STATE.md) · [Claim-by-claim evidence](PUBLIC_EVIDENCE_INDEX.md)
+
+![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
+
+### What you can inspect today
+
+| Observed in the preserved October 12 evidence | Proof boundary |
+|---|---|
+| Ordinary scheduled wake → real CEO inference → governed CTO delegation → isolated executive session | The CTO repair failed; launch is not successful completion. |
+| Terminal failure → CEO wake in 2 seconds → failure disposition | Event-driven failure continuation, within that observation window. |
+| CFO and CMO execution overlapped for **213.47 seconds** | That pair of native profiles/jobs/sessions, not universal concurrency. |
+| Three follow-ups: **SEND ACCEPTED + SENT-FOLDER VERIFIED** | Matching pipeline updates and zero duplicates in the bounded run; delivery, replies, customers and cash are not established. |
+
+**Continuous operation: PARTIAL / PROVEN-SCOPED.** The complete successful executive → verification → reconciliation → next economic work chain remains unproven. Public revenue and cash measurements remain **UNKNOWN** unless authoritatively measured. These are dated observations, not a live health claim.
+
+Built on [Nous Research's Hermes Agent](https://github.com/NousResearch/hermes-agent). This public repository contains sanitized evidence and architecture; implementation remains private.
+
+For technical review, start with [the walkthrough](DEMO.md). For pilots, research support or infrastructure sponsorship, see [SPONSORSHIP.md](SPONSORSHIP.md) and [INVESTORS.md](INVESTORS.md).
+
+---
 
 This repository documents an operating experiment in **human-governed autonomous companies**: one AI CEO coordinates an executive layer and digital workforce to pursue real business objectives while the human owner retains root authority, veto power and reserved decisions.
 

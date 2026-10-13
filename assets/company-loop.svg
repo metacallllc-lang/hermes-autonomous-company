@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="460" viewBox="0 0 1120 460" role="img" aria-labelledby="title desc">
+  <title id="title">MetaBot autonomous company operating model</title>
+  <desc id="desc">Human owner retains root and veto authority. One Hermes CEO selects authorized work and delegates to executives. Independent verification supports canonical company state. A read-only Command Center observes. Architecture illustration, not live proof.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10" fill="#67e8f9"/></marker></defs>
+  <rect width="1120" height="460" rx="20" fill="#101b2e"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="40" y="49" font-size="27" font-weight="700" fill="#f8fafc">MetaBot / Hermes CEO</text>
+    <text x="40" y="79" font-size="16" fill="#cbd5e1">One operating loop. Explicit authority. Evidence before outcomes.</text>
+    <rect x="40" y="111" width="1040" height="60" rx="12" fill="#24334b" stroke="#94a3b8"/>
+    <text x="560" y="149" text-anchor="middle" font-size="21" fill="#f8fafc">Human owner — root + veto</text>
+    <g fill="#1e304b" stroke="#67e8f9" stroke-width="1.5">
+      <rect x="40" y="216" width="230" height="110" rx="12"/>
+      <rect x="310" y="216" width="230" height="110" rx="12"/>
+      <rect x="580" y="216" width="230" height="110" rx="12"/>
+      <rect x="850" y="216" width="230" height="110" rx="12"/>
+    </g>
+    <g font-size="20" text-anchor="middle" fill="#f8fafc" font-weight="600">
+      <text x="155" y="251">Hermes-native CEO</text><text x="425" y="251">C-suite / workers</text>
+      <text x="695" y="251">Independent verifier</text><text x="965" y="251">Canonical state</text>
+    </g>
+    <g font-size="16" text-anchor="middle" fill="#cbd5e1">
+      <text x="155" y="283">Select authorized work</text><text x="425" y="283">Execute bounded tasks</text>
+      <text x="695" y="283">Accept or reject proof</text><text x="965" y="283">Persist evidenced results</text>
+      <text x="155" y="306">Decide and delegate</text><text x="425" y="306">Propose results</text>
+      <text x="695" y="306">Preserve UNKNOWN</text><text x="965" y="306">Inform the next decision</text>
+    </g>
+    <g stroke="#67e8f9" stroke-width="2" fill="none" marker-end="url(#arrow)">
+      <path d="M270 271 H300"/><path d="M540 271 H570"/><path d="M810 271 H840"/>
+      <path d="M965 327 V365 H155 V337"/>
+      <path d="M155 172 V205"/>
+    </g>
+    <text x="560" y="399" text-anchor="middle" font-size="17" fill="#cbd5e1">Command Center: read-only observation of company state</text>
+    <text x="560" y="434" text-anchor="middle" font-size="14" fill="#94a3b8">Architecture illustration • PARTIAL / PROVEN-SCOPED • Full successful continuity remains unproven</text>
+  </g>
+</svg>

@@ -1,7 +1,8 @@
 # Continuous Company Loop
 
-**Updated:** 2026-10-12  
-**Status:** architectural target / implementation in progress; full 24/7 event-driven production proof is not yet claimed.
+**Updated:** 2026-10-13
+
+**Status:** PARTIAL / PROVEN-SCOPED — real event-driven failure continuation and CFO/CMO concurrency have evidence; full 24/7 successful operation is not claimed. See [CURRENT_STATE.md](CURRENT_STATE.md) for the dated proof boundary.
 
 ## Thesis
 
@@ -81,8 +82,8 @@ EVENT
 → persist
 → wake CEO
 → load canonical state
-→ reconcile affected work
 → independently verify
+→ reconcile affected work
 → update company state
 → rank eligible opportunities
 → dispatch executive lanes
@@ -134,9 +135,11 @@ Examples:
 
 The CEO remains the allocator and decision-maker within enacted authority.
 
+Multiple authorized choices are an operating decision for the CEO, not an owner escalation. Execute safe independent branches concurrently within lane and resource constraints.
+
 ## Economic opportunity queue
 
-Fresh economic work should have a first-class durable queue separate from failed-work replacement semantics.
+Fresh economic work uses the existing canonical durable opportunity queue separately from failed-work replacement semantics. Keep one CEO and one canonical company state; no new architecture layer is required.
 
 A fresh opportunity record should be able to represent:
 
@@ -183,6 +186,8 @@ The initial target is one active assignment per executive role:
 
 This permits multiple independent lanes to work concurrently.
 
+Real CFO/CMO execution overlapped for 213.47 seconds in the preserved October 12 evidence. This proves that pair within scope, not unrestricted concurrency across all roles or payment/publication effects.
+
 Concurrency must not imply unrestricted parallel consequential actions.
 
 ## Resource-level locks
@@ -202,9 +207,7 @@ Research, internal analysis and bounded artifact creation should not serialize t
 
 ## Watchdog schedule
 
-The existing scheduled CEO wake remains valuable, but its role changes.
-
-It should become a **watchdog / dead-man recovery mechanism**, not the normal cadence of the company.
+The existing **two-hour scheduled CEO wake is watchdog / dead-man recovery only**. It is not the normal cadence or a reason to delay eligible work.
 
 The watchdog should detect:
 
@@ -229,7 +232,9 @@ The target is:
 
 > **Always available, not always consuming inference.**
 
-When no eligible work or meaningful event exists, the company may sleep cheaply.
+An empty event inbox alone is insufficient for idle. The CEO must also evaluate eligible economic work, due follow-ups, pipeline review/requalification, due discovery and capability repairs that unblock higher-value economic action. If ordinary queues are exhausted, run bounded economic discovery when due and admit evidence-backed opportunities through the existing queue.
+
+The company may sleep cheaply only when none of those actions is eligible or due and no unprocessed event requires attention. Open pipeline rows alone do not establish eligibility; unknown inputs remain UNKNOWN. Discovery must be bounded and economically useful, without tight polling or work manufactured merely to stay busy.
 
 When something relevant changes, it should wake immediately.
 
@@ -309,6 +314,8 @@ The owner should not become routine message bus, dispatcher or reconciliation wo
 ## Proof standard
 
 The continuous-company architecture is not considered production-proven merely because event schemas or queues exist.
+
+Real event-driven failure continuation is proven within scope: durable terminal events woke the existing CEO task between watchdog runs, failure disposition was preserved and next economic work was selected. Failed work was not promoted to success. Successful executive completion through immediate verified reconciliation/retirement and next work remains a separate acceptance requirement; later reconciled dashboard rows alone do not prove it.
 
 Strong proof requires a real chain such as:
 

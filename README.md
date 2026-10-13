@@ -67,13 +67,14 @@ A claim is not upgraded merely because the next state would be convenient.
 
 ## Current public status
 
-As of the latest preserved 2026-10-12 operating record:
+As of the 2026-10-13 public reconciliation of preserved operating evidence:
 
 - Core v1 remains **BUILT / PRODUCTION**.
-- Human owner remains **root + veto**; execution improvements cannot expand protected authority.
+- Human owner remains **root + veto**, not routine dispatcher or option selector; execution improvements cannot expand protected authority.
 - One canonical Hermes-native CEO loop remains the company operating loop.
 - A natural scheduled CEO wake has now demonstrated real CEO inference, work selection, governed executive delegation and isolated CTO-home execution on the ordinary production path.
-- The delegated technical repair itself failed; successful repair → verification → reconciliation → commercial continuation remains incomplete.
+- The earlier CTO attempt remains failed. Later evidence proves real event-driven failure continuation and CFO/CMO concurrency; full continuous operation remains **PARTIAL / PROVEN-SCOPED**, not fully proven.
+- The follow-up routing repair passed independent acceptance; three bounded follow-up sends were **SEND ACCEPTED + SENT-FOLDER VERIFIED**, with matching pipeline updates and no duplicate sends. This does not prove delivery, reading, replies, customers, revenue or cash.
 - The commercial mission is now explicitly **multi-engine**: marketplace/Fiverr fast cash, MetaCall services, MetaBot pilots/licensing, investors/acquirers, and sponsorship/resources.
 - Recognized revenue and treasury state remain **UNKNOWN unless independently measured**; the public record does not convert missing measurement into $0.
 - Real outbound commercial activity exists, but recipient delivery, signed-customer revenue and cash collection are not yet proven.
@@ -85,15 +86,15 @@ See [CURRENT_STATE.md](CURRENT_STATE.md), [TRACTION.md](TRACTION.md) and [COMMER
 
 The intended end state is not a company that wakes every few hours.
 
-It is a **continuous event-driven autonomous company** in which meaningful events wake the CEO immediately, independent C-suite lanes can work concurrently, terminal executive results trigger reconciliation/continuation, and the scheduled wake acts mainly as a watchdog.
+It is a **continuous event-driven autonomous company** in which meaningful events wake the CEO immediately, independent C-suite lanes can work concurrently, and terminal executive results trigger verification/reconciliation/continuation. The two-hour schedule is watchdog/recovery only.
 
 The system should be:
 
 > **Always available, not always consuming inference.**
 
-When authorized useful work exists, the company should keep moving. When nothing useful exists, it may sleep cheaply until an event or watchdog wake occurs.
+When authorized useful work exists, the company should keep moving. An empty event inbox alone does not justify idle: review eligible opportunities, due follow-ups, pipeline review, due discovery and economically useful capability repair. When those checks find nothing due or eligible, it may sleep cheaply until an event or watchdog wake occurs.
 
-This continuous-company layer is now an active implementation priority and is not yet claimed as fully production-proven.
+The existing loop has scoped production evidence; the priority is proactive economic execution and remaining acceptance, without new architecture layers. Successful executive completion → immediate event wake → independent verification → reconciliation/retirement → next economic work remains a proof requirement; later reconciled dashboard rows alone do not establish that chain.
 
 See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
 
@@ -148,7 +149,7 @@ The integration does not create a second scheduler, second authority plane or se
 
 A real ordinary CTO cycle was observed through dispatch, running activity and terminal failure with changing model/tool counters. The UI preserved the failure rather than promoting process completion to success.
 
-Full successful repair → verification → reconciliation → continuation remains unproven.
+That failed October 12 attempt remains historical evidence. Later event-driven failure continuation and CFO/CMO concurrency are proven within scope; full successful executive continuation and full 24/7 operation are not claimed.
 
 ## Product direction
 

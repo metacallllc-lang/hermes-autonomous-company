@@ -8,58 +8,40 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
-### 0. Convert batch autonomy into continuous company operation
+### 0. Operate the existing loop proactively and close scoped acceptance
 
 The company must not depend on multi-hour scheduled gaps between executive completion and CEO continuation.
 
-Implement and prove the **Continuous Company Loop**:
+The **Continuous Company Loop** is **PARTIAL / PROVEN-SCOPED**: real event-driven failure continuation and 213.47 seconds of CFO/CMO concurrency have evidence. Preserve the existing doctrine and close remaining acceptance:
 
 1. terminal executive events wake the CEO immediately;
-2. CEO reconciles/verifies and selects next work without waiting for the watchdog schedule;
-3. fresh economic work has a first-class durable admission path separate from failed-work replacement;
-4. CFO/COO/CRO/CMO/CTO receive separate bounded execution lanes;
+2. CEO independently verifies, reconciles and selects next work without waiting for the watchdog schedule;
+3. preserve fresh economic work admission separately from failed-work replacement;
+4. preserve separate bounded CFO/COO/CRO/CMO/CTO execution lanes;
 5. at most one active assignment per executive lane initially;
 6. consequential resources retain stricter independent locks;
-7. at least two independent executive lanes can operate concurrently;
+7. preserve proven CFO/CMO concurrency without generalizing it to all roles or consequential effects;
 8. Hermes Desktop / METABOT COMPANY projects the real event-driven state;
-9. the existing two-hour wake becomes watchdog/recovery rather than operating cadence;
-10. no tight polling or continuous model burn when no eligible work exists.
+9. the existing two-hour wake is watchdog/recovery only;
+10. proactively rank eligible economic work and perform bounded discovery when due; idle only when no eligible work, unprocessed event, follow-up, pipeline review, discovery or economically useful repair is due.
 
-Acceptance must use real economic work and demonstrate continuation between scheduled wakes.
+Remaining acceptance must establish successful executive completion → immediate event wake → independent verification → reconciliation/retirement exactly once → next economic work, using real work between watchdog wakes. Failure continuation is already proven within scope. Later reconciled dashboard rows alone do not prove the successful chain.
 
 See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
 
 
 
-### 0. Close the remaining production continuation gap
+### 0A. Keep engineering tied to concrete economic blockers
 
-The ordinary production path has now demonstrated:
+The earlier failed CTO attempt remains history. Independent acceptance later closed the follow-up routing defect: three sends were **SEND ACCEPTED + SENT-FOLDER VERIFIED**, with matching pipeline updates and zero duplicates. Delivery, reading, replies, customers, revenue and cash are not proven by those sends.
 
-```text
-scheduled wake
-→ real CEO inference
-→ work selection
-→ governed executive delegation
-→ isolated CTO execution
-```
+Do not reopen scheduler, routing or executive-isolation architecture unless new evidence shows a specific defect. Do not create new architecture layers. Engineering must name the economic action it unblocks, make the smallest authorized repair and independently verify it. Owner remains root + veto, not routine dispatcher or branch selector; safe independent authorized work proceeds concurrently within resource locks.
 
-The immediate remaining production order is:
-
-1. complete a real bounded executive repair successfully;
-2. independently verify the production bytes / behavior;
-3. reconcile exactly once and retire the assignment correctly;
-4. continue into real commercial work without manual owner middleware;
-5. preserve fail-closed behavior for genuine owner-reserved boundaries.
-
-Do not reopen scheduler, routing or executive-isolation architecture unless new evidence shows those surfaces are failing.
-
-The main engineering target is now **successful repair completion and commercial continuation**, not rediscovery of already-proven wake/delegation mechanics.
-
-### 0A. After current recovery: evidence-gated optimization
+### 0B. Evidence-gated operating improvements
 
 Do not interrupt the active production-continuity/commercial recovery with a broad optimization-engine refactor.
 
-After the current scheduled CEO → executive → reconciliation → commercial-action chain is proven, implement the next operating maturity layer:
+Only when a concrete operating need justifies it, improve existing routines within the current architecture:
 
 1. formal evaluate → diagnose → change → independently re-verify lifecycle;
 2. before/after metrics and protected invariants;
@@ -71,7 +53,7 @@ After the current scheduled CEO → executive → reconciliation → commercial-
 
 Hermes v0.21.7 evaluation should include update-channel pinning, resume behavior, model-router interaction with MetaBot route policy, command-ledger compatibility, memory-plugin boundaries and voice-bridge relevance.
 
-### 0B. Make real executive work visible and commercially capable
+### 0C. Make real executive work commercially effective
 
 Hermes Desktop now exposes the existing company projection and exact session correlation.
 
@@ -90,7 +72,7 @@ CEO selects real economic work
 → next economic action
 ```
 
-The current commercial executive tool envelope is still too narrow for some real CRO/CMO/CFO/COO research/write missions. Repair that capability without expanding constitutional authority or allowing unrestricted consequential actions.
+Repair a commercial executive capability only when current evidence shows that its bounded tools block a specific economic mission. Do not infer that every role remains incapable from an older failed cohort. Preserve constitutional authority and consequential resource locks.
 
 ### 1. Run multiple money engines and produce verified economic proof
 

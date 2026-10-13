@@ -1,6 +1,7 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-12  
+**Last public reconciliation:** 2026-10-13
+
 **Scope:** sanitized operating facts suitable for public release.
 
 ## Classification
@@ -13,7 +14,7 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 
 ## Authority
 
-- Human owner retains **root authority + veto**.
+- Human owner retains **root authority + veto**, not routine dispatch or selection of authorized branches.
 - Protected authority cannot be expanded by the CEO, C-suite, workers or optimization loops.
 - One canonical Hermes-native CEO loop remains the company operating loop.
 - C-suite / Bot Chat is an executive deliberation surface and must converge on canonical company state.
@@ -21,7 +22,7 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 
 ## Autonomous operation
 
-The latest production proof boundary moved materially on 2026-10-12.
+The earlier October 12 scheduled-wake proof is preserved below as history; later evidence advances the boundary to scoped event-driven operation.
 
 A natural Windows-scheduled CEO wake at approximately 09:06 Guatemala time:
 
@@ -47,7 +48,7 @@ The delegated CTO repair itself **did not succeed**. The worker's bounded write 
 
 No successful repair, reconciliation or commercial continuation is claimed from that attempt.
 
-The current production gap is therefore narrower than before: scheduler firing, CEO inference, work selection, governed delegation and CTO isolation are now demonstrated in production, while successful bounded technical repair → verification → reconciliation → commercial continuation remains incomplete.
+This attempt does not define the current primary gap. Later independent acceptance closed the follow-up routing defect and verified bounded sends. Real event-driven failure continuation and CFO/CMO concurrency have evidence; full successful executive continuation and repeatable economic outcomes remain unproven.
 
 ## Hermes Desktop / Command Center integration
 
@@ -72,17 +73,19 @@ It does **not** establish a successful repair cycle, economic result, or full co
 
 ## Continuous-company evolution
 
-The observed production system can wake, infer, delegate and execute isolated executive work, but long inactive gaps have shown that scheduled wakes still carry too much responsibility for reconciliation and continuation.
+**Continuous operation: PARTIAL / PROVEN-SCOPED.** The preserved October 12 runtime report establishes:
 
-The next operating evolution is therefore a **continuous event-driven company loop**:
+- a real CRO failure at 18:06:20 Guatemala time emitted a durable event, woke the existing CEO task at 18:06:22 and received failure disposition at 18:06:25, between watchdog wakes;
+- CFO/CMO native execution overlapped for **213.47 seconds** in separate profiles/jobs/sessions;
+- a later terminal event at 18:42:33 woke the CEO at 18:42:36; failure retirement and selection of next economic work followed at 18:42:39;
+- fresh economic opportunity admission is separate from failed-work replacement; per-role lanes and consequential resource locks remain bounded;
+- the existing **two-hour schedule is watchdog/recovery only**.
 
-- executive terminal events should wake the CEO immediately;
-- fresh economic work should use its own canonical admission path rather than failed-work replacement semantics;
-- CFO/COO/CRO/CMO/CTO should gain independent bounded execution lanes;
-- consequential resources should retain narrower resource-level locks;
-- the existing scheduled wake should remain as watchdog / recovery.
+Failed executives remain failed. The report's cohort did not prove successful executive completion → immediate event wake → independent verification → reconciliation/retirement → next work. Later CFO/COO/CMO dashboard rows show reconciliation, but do not alone establish that full successful event-driven chain or current runtime health.
 
-This direction is being implemented and is **not yet claimed as fully production-proven**.
+The operating priority is proactive economic work through the existing loop. An empty inbox is insufficient for idle: evaluate eligible opportunities, due follow-ups, pipeline review, due discovery and capability repairs tied to economic action. When queues are exhausted, perform bounded discovery when due; idle only when no eligible work, unprocessed event or discovery/review/follow-up/repair is due. Open pipeline counts alone prove neither eligibility nor revenue.
+
+Full 24/7 continuity, successful executive continuation, real payment/publication parallel-effect exclusion and full consequential restart coverage remain unproven. Native Desktop visual verification was not independently established in this later loop report; Command Center read-only projection was verified.
 
 See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
 
@@ -98,6 +101,8 @@ The 2026-10-08 post-enactment verifier recorded:
 Public wording is deliberately limited to:
 
 **SEND ACCEPTED + SENT-FOLDER VERIFIED**
+
+The later October 12 follow-up repair passed live dry-run acceptance: eight eligible touch-2 drafts resolved correctly, zero first-touch substitutions occurred, two max-touch refusals remained intact and the dry run had zero external effects. The bounded execution then recorded **three provider-accepted follow-up sends**, independently matched in Sent, three matching pipeline updates and zero duplicate sends. This is scoped send evidence, not a successful executive-result or economic-outcome claim.
 
 This does **not** prove:
 
@@ -183,12 +188,12 @@ The public repository does **not** claim that objective has been achieved.
 
 The Command Center's read-only canonical SSE projection and its five operations sections are now production-verified. It distinguishes scheduled wakes from terminal cycle results, preserves UNKNOWN measurements and exposes machine-readable degraded reasons. See [the verified live operations addendum](evidence/COMMAND_CENTER_LIVE_OPERATIONS_2026-10-10.md).
 
-The current observation window reports **BLOCKED**, including a newer scheduled wake without a terminal cycle record and a C-Suite convergence/open-work conflict. Successful autonomous unresolved-work re-drive remains **NOT LIVE PROVEN**. The earlier successful-cycle evidence above remains dated historical evidence and is not a claim that the current runtime is healthy.
+That October 10 observation window reported **BLOCKED**, including a newer scheduled wake without a terminal cycle record and a C-Suite convergence/open-work conflict. Successful autonomous unresolved-work re-drive was **NOT LIVE PROVEN** in that window. These are dated observations, not the current loop classification.
 
 
-## Latest recovery verification — 2026-10-11
+## Historical recovery verification — 2026-10-11
 
-**Current autonomous recovery: NOT ESTABLISHED.** The Core v1 production classification remains unchanged.
+**Autonomous recovery in that window: NOT ESTABLISHED.** The Core v1 production classification remains unchanged. The following records retain their October 11 scope; the current public proof boundary is stated above.
 
 The canonical scheduler continued firing overnight and persisted terminal cycle records. The latest independently inspected scheduled wake at 5:06 AM America/Guatemala finished at 5:09 AM with a valid fail-closed refusal: no model route passed unattended qualification. Its recorded gateway count was one and canonical state was fresh at execution; independent host-wide process inventory remains unavailable.
 
@@ -198,4 +203,4 @@ Qualification remains unresolved: refused wakes make no model call and cannot pr
 
 The earlier missing-terminal and snapshot-writer failures are historical observations. Subsequent inspected wakes persisted terminal records, and the repaired snapshot writer ran through the canonical scheduler. A snapshot fresh at wake time can truthfully become stale later under its freshness rule.
 
-The remaining acceptance sequence is genuine bounded route qualification, then a natural scheduled wake selecting actionable work if present, governed child execution, independently verified result, successful terminal persistence, fresh projection and no duplicate consequential effect. No current recovery, recipient delivery/read, revenue or cash claim is made. Full regression acceptance remains incomplete.
+The remaining acceptance sequence at that time was genuine bounded route qualification, then a natural scheduled wake selecting actionable work if present, governed child execution, independently verified result, successful terminal persistence, fresh projection and no duplicate consequential effect. That record did not claim recovery, recipient delivery/read, revenue or cash. Full regression acceptance was incomplete in that window; it is not the current primary roadmap.

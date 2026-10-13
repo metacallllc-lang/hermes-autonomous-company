@@ -1,6 +1,6 @@
 # Multi-Engine Commercial Operating Strategy
 
-**Updated:** 2026-10-12
+**Updated:** 2026-10-13
 
 ## Purpose
 
@@ -113,6 +113,7 @@ The evidence ladder is:
 ```text
 qualified target
 → named decision-maker
+→ provider accepted + Sent-folder verified
 → outreach delivered
 → human reply
 → meeting
@@ -123,6 +124,8 @@ qualified target
 ```
 
 Sent outreach is not investor interest.
+
+Delivery is a separate evidence requirement, not implied by provider acceptance or a Sent-folder match. The preserved October 12 bounded follow-up execution established **three SEND ACCEPTED + SENT-FOLDER VERIFIED** sends, matching pipeline updates and zero duplicates. It did not establish delivery, reading, replies, customers, revenue or cash.
 
 ### 5. Sponsorship / non-dilutive resources
 
@@ -191,7 +194,7 @@ Owns revenue-enabling tooling, automation and technical delivery. Engineering th
 
 ## Economic wake priority
 
-On each normal CEO wake, the preferred ordering is:
+On each event-driven CEO decision or watchdog recovery, the preferred ordering is:
 
 1. paying customer / active order;
 2. inbound buyer, investor, sponsor or acquirer response;
@@ -204,7 +207,9 @@ On each normal CEO wake, the preferred ordering is:
 9. engineering directly blocking the above;
 10. nonessential engineering.
 
-If no external action is immediately eligible, the CEO should generate legitimate internal economic work rather than repeatedly idling.
+The two-hour schedule is watchdog/recovery only. Do not wait for it while useful authorized work exists. The existing loop has scoped event-driven failure-continuation and CFO/CMO concurrency evidence; this is not full 24/7 or economic-outcome proof.
+
+If no external action is immediately eligible, evaluate legitimate internal economic work and bounded discovery when due. Idle is permitted only when no eligible work, unprocessed event, due follow-up, pipeline review/requalification, discovery or economically useful capability repair is due. An empty inbox or a pipeline count alone does not establish idle eligibility.
 
 Examples include:
 
@@ -281,6 +286,7 @@ If there is no concrete economic answer, commercial work should generally outran
 This strategy does not weaken the existing authority model.
 
 - owner remains root + veto;
+- CEO chooses routine authorized work; safe independent branches proceed concurrently within resource locks without asking the owner to dispatch or select options;
 - external platforms do not create authority;
 - CEO/C-suite act inside enacted authority;
 - irreducible human platform steps remain human;

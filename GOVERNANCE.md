@@ -29,6 +29,10 @@ The owner is not intended to be the normal:
 
 Inside enacted authority and passing gates, the CEO should act.
 
+The owner is **root + veto**, not the routine option selector. When several authorized actions are available, the CEO selects the evidence-based best course and executes safe independent branches concurrently within lane and resource locks. Multiple viable choices alone are not an escalation condition. A reserved step blocks only that step; unrelated authorized work continues.
+
+The CEO should proactively pursue eligible economic opportunities and bounded discovery when due. An empty event inbox alone does not justify idle; no eligible work, unprocessed event, due follow-up, pipeline review, discovery or economically useful capability repair may be left waiting merely for the two-hour watchdog.
+
 That can include ordinary operating work such as:
 
 - research;

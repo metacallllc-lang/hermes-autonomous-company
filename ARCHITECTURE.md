@@ -39,7 +39,7 @@ Supporting schedulers may:
 - monitor;
 - collect events;
 - trigger deterministic checks;
-- update canonical state.
+- request canonical-state updates through the authorized writer boundary.
 
 They should not independently become competing CEOs.
 
@@ -169,6 +169,8 @@ A worker result is not automatically company truth. Results are expected to be c
 
 The architecture treats durable company records as more authoritative than conversational narrative.
 
+CEO/C-suite/Bot Chat output proposes state; only the existing authorized canonical-state writer may commit it after provenance, evidence, authority and admission checks. Independent verification accepts or rejects the committed outcome/convergence before it is treated as established in the next loop. See [GOVERNANCE.md](GOVERNANCE.md#durable-state-propose--commit--audit) for the required contract, mutable-surface classes and verifier regression rules; this adds no state plane or architecture layer and is not a claim of completed runtime enforcement.
+
 Typical categories include:
 
 - company state;
@@ -208,7 +210,7 @@ human/root principal
 → CEO or agent identity
 → delegation
 → attenuated scope
-→ normalized action
+→ normalized action/tool + arguments
 → approved resource
 → approved destination
 → execution

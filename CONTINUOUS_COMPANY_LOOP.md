@@ -236,6 +236,8 @@ An empty event inbox alone is insufficient for idle. The CEO must also evaluate 
 
 The company may sleep cheaply only when none of those actions is eligible or due and no unprocessed event requires attention. Open pipeline rows alone do not establish eligibility; unknown inputs remain UNKNOWN. Discovery must be bounded and economically useful, without tight polling or work manufactured merely to stay busy.
 
+`IDLE` is a proposed state transition, not an executive assertion of truth. The existing authorized canonical-state writer must refuse it unless fresh eligibility/exhaustion evidence covers unprocessed events, eligible economic work, due follow-ups, pipeline review/requalification, due bounded discovery and economically useful capability repair. Record the checks, evidence, reasons for ineligibility and next event/deadline/watchdog wake condition. Missing or ambiguous evidence cannot establish exhaustion. Independent verification accepts or rejects the committed idle outcome under [the state-commit contract](GOVERNANCE.md#durable-state-propose--commit--audit). This is required doctrine; production enforcement remains to be demonstrated.
+
 When something relevant changes, it should wake immediately.
 
 ## Economic search loops

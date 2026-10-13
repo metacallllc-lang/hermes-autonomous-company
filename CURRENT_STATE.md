@@ -17,7 +17,7 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 - Human owner retains **root authority + veto**, not routine dispatch or selection of authorized branches.
 - Protected authority cannot be expanded by the CEO, C-suite, workers or optimization loops.
 - One canonical Hermes-native CEO loop remains the company operating loop.
-- C-suite / Bot Chat is an executive deliberation surface and must converge on canonical company state.
+- C-suite / Bot Chat is an executive deliberation surface whose output is proposal only; authorized writers commit with provenance/evidence/admission and independent verifiers establish outcome/convergence. See [GOVERNANCE.md](GOVERNANCE.md#durable-state-propose--commit--audit). Complete enforcement of this contract, including evidence-gated `IDLE` and verifier regression, is not established by the scoped proof below.
 - A missing or stale authority record blocks only the affected action rather than silently expanding permission.
 
 ## Autonomous operation
@@ -126,7 +126,10 @@ canonical state
   → CEO decides
   → CEO delegates
   → company acts
-  → result persists
+  → result proposed with evidence
+  → authorized writer validates / commits
+  → independent verifier accepts / rejects outcome
+  → evidence-backed state informs next loop
 ```
 
 A persisted executive decision exists showing CEO-led C-suite deliberation. Native role-binding proof and end-to-end execution proof remain narrower than the architectural claim and are not overstated.

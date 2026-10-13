@@ -112,6 +112,32 @@ This extends the load-bearing rule:
 
 > **The loop may optimize execution. It may not optimize or expand its own authority.**
 
+## Durable state: Propose → Commit → Audit
+
+> **Agents may propose. Authorized writers commit. Independent verifiers establish outcome. Only evidence-backed state survives into the next loop.**
+
+CEO, C-suite and Bot Chat output is proposal only; conversation text cannot directly become canonical company truth. A CEO decision within enacted authority may authorize work, but does not establish that the work succeeded.
+
+The existing canonical-state writer must validate its write authority, the intended mutation, source identity/session and timestamp, evidence references, authority/delegation context and admission criteria before committing. It must record provenance and the admission result, and refuse missing, stale, contradictory or insufficient support. Rejected proposals may be retained as audit evidence, never as accepted facts.
+
+An independent verifier accepts or rejects the committed outcome and convergence against supporting evidence and acceptance criteria. Commit alone is not outcome acceptance. Pending, rejected or ambiguous outcomes retain their explicit status; the authorized writer records any correction or rollback with its evidence trail. The next loop consumes only admitted state, preserving UNKNOWN and historical scope rather than inheriting unsupported executive claims.
+
+These are permission boundaries within the existing loop and canonical state, not new agents, a second CEO, scheduler, queue or state plane. This is required doctrine, not a claim that every production write path has already demonstrated enforcement.
+
+### Mutable surfaces
+
+| Class | Surfaces and admission rule |
+| --- | --- |
+| `MUTABLE` | Operational state, opportunity ranking and non-protected prompts/configuration within enacted authority. Canonical-state writes still require the writer/evidence contract above. |
+| `MUTABLE_WITH_ADMISSION` | Tool/model routing, harness/workflow/selector logic, state writers and verifiers. Require a recorded cause, bounded authorized scope, baseline/version, tests, independent verification and accept/reject/rollback admission before production acceptance. |
+| `SEALED` | Constitutional authority/charter, owner root/veto, root grants/authentication/recovery, delegation ceilings, protected resource/destination boundaries and protected audit requirements. Ordinary agents and self-improvement loops cannot mutate these; changes require the existing reserved authority process. |
+
+A mutable classification never permits weakening a sealed boundary or expanding the actor's authority.
+
+### Verifier-of-verifier regression
+
+Verifiers must receive recurring regression fixtures and regression checks before a verifier change is admitted: `KNOWN_GOOD` must be accepted, `KNOWN_BAD` rejected, and `AMBIGUOUS/UNKNOWN` must remain unresolved rather than be promoted to success. Fixtures must cover evidence sufficiency, authority, committed-state convergence and idle eligibility. Preserve expected versus observed decisions and independent review of failures; a verifier cannot certify its own adequacy solely by self-report.
+
 ## Delegated authority
 
 MetaBot treats delegation as a bounded transfer of existing authority, not as a way to create new authority.
@@ -124,7 +150,8 @@ root principal
 → parent grant
 → delegated child grant
 → attenuated scope
-→ action/resource/destination constraints
+→ normalized action/tool + arguments
+→ authorized resource/destination
 → policy decision
 → execution
 → verified outcome

@@ -6,7 +6,7 @@ All figures below are dated and reconciled against the company's canonical evide
 (`outbound_ledger.jsonl`, `delivery_verification.jsonl`). They are restated only when the
 underlying evidence changes, never to inflate a claim.
 
-## Commercial activity
+## Commercial activity — October 9 snapshot
 
 **Reconciled 2026-10-09 against canonical ledgers.**
 
@@ -82,6 +82,42 @@ Supportable scoped proof includes:
 The installed integration passed its bounded local verification harnesses and did not require a Hermes core-source patch.
 
 This is **not** proof of successful autonomous commercial execution. The observed natural repair failed and no successful new repair → verification → reconciliation → continuation chain is claimed.
+
+## Later scoped operating proof — October 12 evidence, reconciled October 13
+
+**Public reconciliation: 2026-10-13.** The later preserved 2026-10-12 operating evidence,
+summarized in [CURRENT_STATE.md](CURRENT_STATE.md), supports these bounded claims:
+
+- **Failure-event wake and disposition:** a real CRO terminal failure at 18:06:20 Guatemala
+  time emitted a durable event, woke the existing CEO task at 18:06:22 and received failure
+  disposition at 18:06:25, between watchdog runs. A later terminal event at 18:42:33 woke
+  the CEO at 18:42:36; failure retirement and selection of next economic work followed at
+  18:42:39. Failed work remained failed.
+- **CFO/CMO native concurrency:** execution overlapped for **213.47 seconds** in separate
+  native profiles/jobs/sessions. This supports that pair within scope, not universal
+  C-suite concurrency.
+- **Bounded follow-up routing repair acceptance:** the later repair passed independent
+  live dry-run acceptance. Eight eligible touch-2 drafts resolved correctly, zero
+  first-touch substitutions occurred, two max-touch refusals remained intact and the
+  dry run had zero external effects.
+- **Bounded follow-up sends:** three follow-up sends were **SEND ACCEPTED + SENT-FOLDER
+  VERIFIED**, with independent Sent-folder matches, three matching pipeline updates and
+  **zero duplicate sends** in that bounded execution.
+
+These three later sends are reported separately. The **20 sends / 18 distinct messages**
+above remain the reconciled **2026-10-09 snapshot**; no fresh canonical-ledger aggregation
+is claimed here and the three follow-ups are not added to those totals.
+
+The earlier October 12 CTO attempt and its observability evidence remain historical
+failure evidence. Later follow-up routing repair acceptance does not turn that failed
+attempt into a success or establish the full successful executive-completion chain.
+
+This later evidence does **not** prove recipient delivery, reading, human replies, signed
+customers, revenue or cash. It also does **not** prove successful executive completion →
+immediate event wake → independent verification → reconciliation/retirement → next
+economic work, or full 24/7 continuous autonomous company operation. Those claims remain
+**NOT PROVEN**; public recognized revenue and treasury/cash measurements remain **UNKNOWN**
+unless independently established by authoritative evidence.
 
 ## Product commercialization
 

@@ -12,7 +12,7 @@ The core build is not being reopened.
 
 The company must not depend on multi-hour scheduled gaps between executive completion and CEO continuation.
 
-The **Continuous Company Loop** is **PARTIAL / PROVEN-SCOPED**: real event-driven failure continuation and 213.47 seconds of CFO/CMO concurrency have evidence. Preserve the existing doctrine and close remaining acceptance:
+The **Continuous Company Loop** is **PARTIAL / PROVEN-SCOPED**: real event-driven failure continuation and 213.47 seconds of CFO/CMO concurrency have evidence. The [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) additionally establishes scoped reconciliation, terminal-event handling, executive retirement and autonomous post-terminal economic continuation. Preserve the existing doctrine and close remaining acceptance:
 
 1. terminal executive events wake the CEO immediately;
 2. CEO independently verifies, reconciles and selects next work without waiting for the watchdog schedule;
@@ -25,7 +25,7 @@ The **Continuous Company Loop** is **PARTIAL / PROVEN-SCOPED**: real event-drive
 9. the existing two-hour wake is watchdog/recovery only;
 10. proactively rank eligible economic work and perform bounded discovery when due; idle only when no eligible work, unprocessed event, follow-up, pipeline review, discovery or economically useful repair is due.
 
-Remaining acceptance must establish successful executive completion → immediate event wake → independent verification → reconciliation/retirement exactly once → next economic work, using real work between watchdog wakes. Failure continuation is already proven within scope. Later reconciled dashboard rows alone do not prove the successful chain.
+October 14 closes the latest `health_fresh` deadlock and proves the successful reconciliation/retirement → next internal economic work chain within a bounded lineage. The first recovery wake was expedited by a test notification; later ordinary continuation is separately evidenced. Remaining acceptance is repeatable unattended continuity, broader immediate-wake coverage, unresolved restart-child retirement, and external economic conversion. Global health remains DEGRADED; fixture and projection defects remain open. Later reconciled dashboard rows alone do not prove a chain.
 
 See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
 
@@ -59,7 +59,7 @@ Hermes Desktop now exposes the existing company projection and exact session cor
 
 Do not spend the next phase polishing presentation.
 
-The next high-value technical proof is:
+October 14 provides scoped runtime evidence for the lifecycle below. Prioritize real economic conversion and repair concrete blockers; broad unattended repeatability remains to be measured:
 
 ```text
 CEO selects real economic work

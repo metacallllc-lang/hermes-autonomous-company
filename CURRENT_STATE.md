@@ -22,9 +22,13 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 
 ## Latest scoped evidence — October 14
 
+**Event-driven reconciliation, terminal-event handling, executive retirement and autonomous post-terminal economic continuation: PROVEN-SCOPED.** The [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) records the 90s → existing 300s health-collector timeout repair after a successful scan required 160.5s. Freshness and verifier requirements were preserved. All times here are Guatemala (UTC−06:00): the original CRO result was independently verified/reconciled and retired at **15:29:25**; its original terminal event was acknowledged at **15:31:07** without deletion; distinct CRO work started at **15:31:11**, completed and was independently reconciled/retired at **15:34:20**. Another `sponsorship-outreach-prep` cycle selected work at **15:36:51** and launched a fresh CRO attempt at **15:38:07**. This proves continued internal economic preparation, not sponsor contact or conversion.
+
+The first recovery wake was expedited by a test notification; subsequent ordinary CEO continuation needed no further engineering wake. No original-job replay, duplicate reconciliation, evidence loss or live process restart was observed in this repair. The two-hour watchdog and routing were unchanged; `paid_model_budget_usd=0`, free-only routes and empty fallback lists remain recorded. No paid-model spend was observed in this scoped record; total model cost remains unmeasured. Global health remains **DEGRADED**; existing async-fixture failures and UI projection semantics remain disclosed.
+
 The [dated economic-coverage and recovery record](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) advances the evidence without rewriting earlier attempts: an invalid IDLE exposed missing social, marketplace/Fiverr and sponsorship coverage; repairs extended the existing selector/idle/continuation paths. Three MetaBot posts have independent feed verification; a fourth has ledger/provider-response evidence and reaches the UTC 4/day cap. The CEO selected and dispatched sponsorship preparation without owner work selection; the later repeat failed verification and remains failed.
 
-Post-Windows-reboot scheduled-path continuity is **PROVEN-SCOPED**: ordinary wake resumed with retained state and selector/idle checks. After a native Hermes gateway restart, fresh behavior reached governed reconciliation dispatch and a hash-matched, recorded RECONCILED child. Retirement and subsequent economic continuation remain unestablished, so restart recovery is **not fully closed**. Full 24/7 operation and the complete successful event-driven chain remain unproven.
+Post-Windows-reboot scheduled-path continuity is **PROVEN-SCOPED**: ordinary wake resumed with retained state and selector/idle checks. After a native Hermes gateway restart, fresh behavior reached governed reconciliation dispatch and a hash-matched, recorded RECONCILED child. Retirement and subsequent economic continuation for that specific restart child were unestablished in the earlier snapshot, so that restart recovery remains **not fully closed**. The later reconciliation proof concerns a distinct CRO assignment lineage and does not silently close the restart-child boundary. Full 24/7 operation remains unproven.
 
 Fiverr final publish, personal-account/identity startup-program submission and the MetaCall social surface remain owner-gated or unresolved. Publication, preparation and Sent-folder verification do not establish demand, delivery, customers, sponsorship awards or cash.
 
@@ -56,7 +60,7 @@ The delegated CTO repair itself **did not succeed**. The worker's bounded write 
 
 No successful repair, reconciliation or commercial continuation is claimed from that attempt.
 
-This attempt does not define the current primary gap. Later independent acceptance closed the follow-up routing defect and verified bounded sends. Real event-driven failure continuation and CFO/CMO concurrency have evidence; full successful executive continuation and repeatable economic outcomes remain unproven.
+This attempt does not define the current primary gap. Later independent acceptance closed the follow-up routing defect and verified bounded sends. Real event-driven failure continuation and CFO/CMO concurrency have evidence; October 14 adds scoped successful reconciliation/retirement and autonomous economic continuation. Universal successful continuation and repeatable external economic outcomes remain unproven.
 
 ## Hermes Desktop / Command Center integration
 
@@ -93,7 +97,7 @@ Failed executives remain failed. The report's cohort did not prove successful ex
 
 The operating priority is proactive economic work through the existing loop. An empty inbox is insufficient for idle: evaluate eligible opportunities, due follow-ups, pipeline review, due discovery and capability repairs tied to economic action. When queues are exhausted, perform bounded discovery when due; idle only when no eligible work, unprocessed event or discovery/review/follow-up/repair is due. Open pipeline counts alone prove neither eligibility nor revenue.
 
-Full 24/7 continuity, successful executive continuation, real payment/publication parallel-effect exclusion and full consequential restart coverage remain unproven. Native Desktop visual verification was not independently established in this later loop report; Command Center read-only projection was verified.
+The later October 14 proof advances successful executive continuation within its specific lineage. Full 24/7 continuity, universal successful continuation, real payment/publication parallel-effect exclusion and full consequential restart coverage remain unproven. Native Desktop visual verification was not independently established in this later loop report; Command Center read-only projection was verified.
 
 See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
 
@@ -160,6 +164,8 @@ Historical capability proof is not treated as permanent connectivity proof.
 For example, the 2026-10-08 verifier recorded QuickBooks refresh/read returning `invalid_grant` at that time. A later dashboard or historical success is not enough to silently upgrade that to current live access without a fresh authoritative probe.
 
 ## Health language
+
+Global health remained **DEGRADED** after the October 14 refresh. Existing guard/harness findings and unmodified async-lifecycle fixture failures remain visible; passing focused repair checks do not establish whole-system health. The later Command Center snapshot also retained projection inconsistencies (`0 open assignments` alongside an active executive, and a generic/stale next-action label). These do not override canonical lifecycle evidence.
 
 Green guard checks are not treated as a whole-system clean bill of health.
 

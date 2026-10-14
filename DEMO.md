@@ -38,6 +38,8 @@ This is **SEND ACCEPTED + SENT-FOLDER VERIFIED**. It does not establish recipien
 
 It shows why governed delegation, honest failure handling, profile isolation, event-driven failure continuation and independent send verification matter to an autonomous-company experiment.
 
-It does **not** combine separate observations into a single successful end-to-end run. Successful executive completion → immediate event wake → independent verification → reconciliation/retirement → next economic work remains **NOT PROVEN**, as does full 24/7 continuity. Public revenue and treasury measurements remain **UNKNOWN** unless independently established.
+It does **not** combine separate observations into a single successful end-to-end run. Within that October 12 evidence window, successful executive completion → immediate event wake → independent verification → reconciliation/retirement → next economic work remains **NOT PROVEN**, as does full 24/7 continuity. Public revenue and treasury measurements remain **UNKNOWN** unless independently established.
+
+**Later evidence — October 14:** the [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) now establishes scoped successful reconciliation/retirement and autonomous post-terminal economic continuation. The October 12 walkthrough above retains its original evidence window; the first October 14 recovery-wake test caveat and the remaining 24/7/economic limits are documented separately.
 
 For each claim's status, see [PUBLIC_EVIDENCE_INDEX.md](PUBLIC_EVIDENCE_INDEX.md). To review the architecture or explore research/infrastructure support, see [ARCHITECTURE.md](ARCHITECTURE.md) and [SPONSORSHIP.md](SPONSORSHIP.md).

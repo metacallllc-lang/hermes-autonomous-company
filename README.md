@@ -17,7 +17,7 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 | CFO and CMO execution overlapped for **213.47 seconds** | That pair of native profiles/jobs/sessions, not universal concurrency. |
 | Three follow-ups: **SEND ACCEPTED + SENT-FOLDER VERIFIED** | Matching pipeline updates and zero duplicates in the bounded run; delivery, replies, customers and cash are not established. |
 
-**Continuous operation: PARTIAL / PROVEN-SCOPED.** The complete successful executive → verification → reconciliation → next economic work chain remains unproven. Public revenue and cash measurements remain **UNKNOWN** unless authoritatively measured. These are dated observations, not a live health claim.
+**Continuous operation: PARTIAL / PROVEN-SCOPED.** The [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) establishes event-driven reconciliation, terminal-event handling, executive retirement and autonomous post-terminal economic continuation as **PROVEN-SCOPED**. The first recovery wake was expedited by a test notification; subsequent ordinary CEO continuation is separately evidenced. Full 24/7 operation remains unproven. Public revenue and cash measurements remain **UNKNOWN** unless authoritatively measured. These are dated observations, not a live health claim.
 
 Built on [Nous Research's Hermes Agent](https://github.com/NousResearch/hermes-agent). This public repository contains sanitized evidence and architecture; implementation remains private.
 
@@ -90,6 +90,8 @@ A claim is not upgraded merely because the next state would be convenient.
 
 ## Current public status
 
+The later [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) closes the `health_fresh` reconciliation deadlock: event wakes used a 90-second health-collector timeout, while the successful scan needed 160.5 seconds. The repair uses the existing 300-second bound without weakening freshness or verifier requirements. The original result and a distinct successor were independently reconciled and retired; another CRO sponsorship-preparation run followed. Global health remains **DEGRADED**, the two-hour watchdog is unchanged, and `paid_model_budget_usd=0` with free-only routing remains the recorded constraint. No paid-model spend was observed in this scoped repair/continuation record; model cost remains unmeasured.
+
 The [October 14 economic-coverage and recovery addendum](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) adds scoped social execution, CEO-selected sponsorship preparation and scheduled-path reboot continuity. Fresh post-Hermes-restart reconciliation progressed, but full restart recovery remains open. The overall classification remains **PARTIAL / PROVEN-SCOPED**.
 
 The following preserves the 2026-10-13 public reconciliation of operating evidence:
@@ -119,7 +121,7 @@ The system should be:
 
 When authorized useful work exists, the company should keep moving. An empty event inbox alone does not justify idle: review eligible opportunities, due follow-ups, pipeline review, due discovery and economically useful capability repair. When those checks find nothing due or eligible, it may sleep cheaply until an event or watchdog wake occurs.
 
-The existing loop has scoped production evidence; the priority is proactive economic execution and remaining acceptance, without new architecture layers. Successful executive completion → immediate event wake → independent verification → reconciliation/retirement → next economic work remains a proof requirement; later reconciled dashboard rows alone do not establish that chain.
+The existing loop has scoped production evidence; the priority is proactive economic execution and remaining acceptance, without new architecture layers. Scoped successful reconciliation/retirement and next economic work are now evidenced by the [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md); repeatable unattended operation and immediate wake latency across all successful completions remain acceptance requirements. Reconciled dashboard rows alone do not establish that chain.
 
 See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
 
@@ -174,7 +176,7 @@ The integration does not create a second scheduler, second authority plane or se
 
 A real ordinary CTO cycle was observed through dispatch, running activity and terminal failure with changing model/tool counters. The UI preserved the failure rather than promoting process completion to success.
 
-That failed October 12 attempt remains historical evidence. Later event-driven failure continuation and CFO/CMO concurrency are proven within scope; full successful executive continuation and full 24/7 operation are not claimed.
+That failed October 12 attempt remains historical evidence. Later event-driven failure continuation and CFO/CMO concurrency are proven within scope. October 14 adds scoped successful reconciliation/retirement and autonomous economic continuation; universal successful executive continuation and full 24/7 operation are not claimed.
 
 ## Product direction
 

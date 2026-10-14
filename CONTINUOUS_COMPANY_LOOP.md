@@ -317,7 +317,7 @@ The owner should not become routine message bus, dispatcher or reconciliation wo
 
 The continuous-company architecture is not considered production-proven merely because event schemas or queues exist.
 
-Real event-driven failure continuation is proven within scope: durable terminal events woke the existing CEO task between watchdog runs, failure disposition was preserved and next economic work was selected. Failed work was not promoted to success. Successful executive completion through immediate verified reconciliation/retirement and next work remains a separate acceptance requirement; later reconciled dashboard rows alone do not prove it.
+Real event-driven failure continuation is proven within scope: durable terminal events woke the existing CEO task between watchdog runs, failure disposition was preserved and next economic work was selected. Failed work was not promoted to success. The [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) now proves event-driven reconciliation, terminal-event handling, retirement and autonomous post-terminal economic continuation for a bounded successful CRO lineage. The first recovery wake was expedited by a test notification; the successor completed and was independently reconciled/retired by the next ordinary CEO pass, followed by fresh economic dispatch. Universal immediate-wake coverage and full 24/7 continuity remain unproven; later reconciled dashboard rows alone do not prove a chain.
 
 Strong proof requires a real chain such as:
 

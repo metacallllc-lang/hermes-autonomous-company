@@ -201,6 +201,12 @@ Build a clean data room around:
 - deployment proof;
 - acquisition / licensing pathways.
 
+## Future tests — identity and bounded procurement (October 14)
+
+**Direction only; not implemented or runtime proof.** Test durable organizational agent identity separately from ephemeral process/session identity, and attach a versioned capability manifest to delegation as an authorization artifact. Evaluate chain-of-trust evidence using [SPIFFE workload identity](https://spiffe.io/docs/latest/spiffe-about/overview/) and [AP2 verifiable authorization/mandates](https://ap2-protocol.org/). External protocols cannot replace charter authority, expand grants or create another CEO/state plane.
+
+Consider [Hermes Kiwi](https://hermes-agent.nousresearch.com/docs/plugins/kiwi) only for a future bounded procurement discovery/RFQ/negotiation test under existing governance. The catalog documents no payments or order placement and approval gates for agreement/handoff. Any trial must prohibit payments and binding commitments; no production deployment or test success is claimed.
+
 ## Long-term direction
 
 The eventual ambition is broader public access to the technology.

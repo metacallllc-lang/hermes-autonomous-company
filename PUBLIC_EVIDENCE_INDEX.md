@@ -2,7 +2,7 @@
 
 This index maps major public claims to the level of evidence currently available.
 
-**Public reconciliation: 2026-10-13.** Later scoped October 12 evidence is summarized in
+**Public reconciliation: 2026-10-14.** The [October 14 addendum](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) records economic coverage, social execution, reboot continuity and the open restart boundary. Later scoped October 12 evidence is summarized in
 [CURRENT_STATE.md](CURRENT_STATE.md) and [TRACTION.md](TRACTION.md). Earlier October 9
 and October 12 records remain dated evidence; later repair acceptance does not rewrite
 the failed CTO attempt or aggregate later sends into the October 9 totals.
@@ -24,6 +24,12 @@ the failed CTO attempt or aggregate later sends into the October 9 totals.
 | Three later October 12 follow-up sends were provider accepted + Sent-folder verified, with matching pipeline updates and zero duplicates | **SUPPORTED, SCOPED** | three independent Sent-folder matches + three matching pipeline updates + zero duplicate sends in bounded execution; reported separately from the October 9 snapshot |
 | Those three follow-ups were delivered/read/replied to | **NOT PROVEN** | provider acceptance and Sent-folder matches do not establish recipient delivery, reading or human reply |
 | Successful executive completion → immediate event wake → independent verification → reconciliation/retirement → next economic work is proven end-to-end | **NOT PROVEN** | full successful executive-completion chain remains incomplete; scoped failure continuation, later routing repair acceptance and reconciled dashboard rows do not establish it |
+| Missing social/Fiverr/sponsorship selector and idle coverage was repaired in place | **SUPPORTED, SCOPED** | dated audit, preserved files, live selection/idle refusal; existing selector/continuation paths, no new operating plane; baseline guard failures remain |
+| Three MetaBot posts published with independent feed verification; fourth reached UTC 4/day cap | **SUPPORTED, SCOPED** | three preserved Graph API feed matches plus ledger rows; fourth has ledger/HTTP 200/provider identifier, not the same independent feed proof |
+| CEO selected and dispatched sponsorship preparation without owner work selection | **SUPPORTED, SCOPED** | 05:12:32 selection/governed dispatch and recorded retirement; later repair-verification wake dispatched again but that execution failed verification; no sponsor submission or award inferred |
+| Scheduled-path continuity survived the October 14 Windows reboot | **SUPPORTED, SCOPED / PROVEN-SCOPED** | measured boot, task fire, persisted post-boot cycle and idle refusal; aggregate collector pass=false; not whole-system recovery |
+| Fresh native behavior after Hermes restart reached CRO reconciliation | **SUPPORTED, SCOPED** | replacement-process attempt, PENDING_DELEGATION, canonical child RECONCILED and independently matching terminal hash; retired_at remains null |
+| Hermes restart recovery is fully closed | **NOT PROVEN** | child retirement and subsequent autonomous economic continuation remain unestablished |
 | Full 24/7 continuous autonomous company operation is proven | **NOT PROVEN** | continuous operation remains PARTIAL / PROVEN-SCOPED |
 | Four post-normalization sends were provider accepted + Sent-folder verified | **SUPPORTED** | outbound ledger + independent provider folder read |
 | Those four sends were delivered/read | **NOT PROVEN** | no public delivery/read evidence |

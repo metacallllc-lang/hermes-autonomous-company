@@ -1,6 +1,6 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-13
+**Last public reconciliation:** 2026-10-14
 
 **Scope:** sanitized operating facts suitable for public release.
 
@@ -19,6 +19,14 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 - One canonical Hermes-native CEO loop remains the company operating loop.
 - C-suite / Bot Chat is an executive deliberation surface whose output is proposal only; authorized writers commit with provenance/evidence/admission and independent verifiers establish outcome/convergence. See [GOVERNANCE.md](GOVERNANCE.md#durable-state-propose--commit--audit). Complete enforcement of this contract, including evidence-gated `IDLE` and verifier regression, is not established by the scoped proof below.
 - A missing or stale authority record blocks only the affected action rather than silently expanding permission.
+
+## Latest scoped evidence — October 14
+
+The [dated economic-coverage and recovery record](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) advances the evidence without rewriting earlier attempts: an invalid IDLE exposed missing social, marketplace/Fiverr and sponsorship coverage; repairs extended the existing selector/idle/continuation paths. Three MetaBot posts have independent feed verification; a fourth has ledger/provider-response evidence and reaches the UTC 4/day cap. The CEO selected and dispatched sponsorship preparation without owner work selection; the later repeat failed verification and remains failed.
+
+Post-Windows-reboot scheduled-path continuity is **PROVEN-SCOPED**: ordinary wake resumed with retained state and selector/idle checks. After a native Hermes gateway restart, fresh behavior reached governed reconciliation dispatch and a hash-matched, recorded RECONCILED child. Retirement and subsequent economic continuation remain unestablished, so restart recovery is **not fully closed**. Full 24/7 operation and the complete successful event-driven chain remain unproven.
+
+Fiverr final publish, personal-account/identity startup-program submission and the MetaCall social surface remain owner-gated or unresolved. Publication, preparation and Sent-folder verification do not establish demand, delivery, customers, sponsorship awards or cash.
 
 ## Autonomous operation
 

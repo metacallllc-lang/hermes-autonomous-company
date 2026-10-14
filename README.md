@@ -90,7 +90,9 @@ A claim is not upgraded merely because the next state would be convenient.
 
 ## Current public status
 
-As of the 2026-10-13 public reconciliation of preserved operating evidence:
+The [October 14 economic-coverage and recovery addendum](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) adds scoped social execution, CEO-selected sponsorship preparation and scheduled-path reboot continuity. Fresh post-Hermes-restart reconciliation progressed, but full restart recovery remains open. The overall classification remains **PARTIAL / PROVEN-SCOPED**.
+
+The following preserves the 2026-10-13 public reconciliation of operating evidence:
 
 - Core v1 remains **BUILT / PRODUCTION**.
 - Human owner remains **root + veto**, not routine dispatcher or option selector; execution improvements cannot expand protected authority.

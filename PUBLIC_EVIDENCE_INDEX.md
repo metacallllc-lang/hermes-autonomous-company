@@ -2,13 +2,19 @@
 
 This index maps major public claims to the level of evidence currently available.
 
-**Public reconciliation: 2026-10-14.** The [October 14 addendum](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) records economic coverage, social execution, reboot continuity and the open restart boundary. The later [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) advances scoped reconciliation/retirement and autonomous economic continuation, with the first-wake test caveat retained. Scoped October 12 evidence is summarized in
+**Public reconciliation: 2026-10-15.** The [October 15 migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) establishes the exact-pin runtime cutover and scoped recovery tests, with served-profile convergence and Command Center execution identity still outstanding. The [October 14 addendum](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) records economic coverage, social execution, reboot continuity and the open restart boundary. The later [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) advances scoped reconciliation/retirement and autonomous economic continuation, with the first-wake test caveat retained. Scoped October 12 evidence is summarized in
 [CURRENT_STATE.md](CURRENT_STATE.md) and [TRACTION.md](TRACTION.md). Earlier October 9
 and October 12 records remain dated evidence; later repair acceptance does not rewrite
 the failed CTO attempt or aggregate later sends into the October 9 totals.
 
 | Claim | Public status | Evidence level |
 |---|---|---|
+| October 15 production runs exact Hermes v0.22.1 commit `297552a9d646119871391d202509822cd86330df` | **PROVEN-SCOPED** | [Migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md): git HEAD + runtime identity, dependency/config migration and independently verified checkpoint |
+| October 15 synthetic idle/in-flight restart recovery | **PROVEN-SCOPED** | one owner after recovery; `claimed → running → unknown`, one execution row, no replay; separate from older business-lineage retirement |
+| Pre-existing automatic paid fallback chain removed | **SUPPORTED, SCOPED** | root + six profiles cleared; explicit escalation alias retained; no total-cost claim |
+| Served-profile convergence completed | **NOT PROVEN / OUTSTANDING** | 18 executives still use temporary standalone compatibility arrangement |
+| Command Center distinguishes stale/current execution by canonical identity | **PARTIAL** | reads canonical stores; payload lacks execution id, owner epoch, generation and receipt fields |
+| Canonical receipts settled during cutover | **UNKNOWN** | no settling receipt observed in the verification window |
 | Core v1 is treated as production baseline | **SUPPORTED** | persisted current-state records |
 | Human owner retains root + veto | **SUPPORTED** | governing architecture + current-state records |
 | One canonical CEO loop is intended | **SUPPORTED** | operating architecture + current-state records |

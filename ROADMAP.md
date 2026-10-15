@@ -8,6 +8,16 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
+### October 15 migration follow-through
+
+The [Hermes v0.22.1 exact-pin production cutover](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) is **PASS / PROVEN-SCOPED**. Keep the verified runtime milestone separate from these outstanding acceptance items:
+
+- Move the 18 executives from the temporary standalone compatibility arrangement to served profiles, with independent lifecycle, restart and scheduler/supervisor verification under one canonical owner.
+- Expose canonical `execution_id`, `owner_epoch`, `generation` and receipt state in Command Center, then verify stale/current execution discrimination. Canonical ledger/session reads already exist.
+- Verify receipt settlement and reconcile stale install metadata through a supported path; do not substitute metadata edits for runtime identity evidence.
+
+Preserve one CEO, one canonical company state, owner root + veto and watchdog-only scheduling. This docs milestone changes no runtime or scheduler and establishes no economic outcome.
+
 ### 0. Operate the existing loop proactively and close scoped acceptance
 
 The company must not depend on multi-hour scheduled gaps between executive completion and CEO continuation.
@@ -49,9 +59,9 @@ Only when a concrete operating need justifies it, improve existing routines with
 4. durable optimization lessons;
 5. explicit rule that optimization authority cannot expand operating authority;
 6. real-world incident coverage mapping against the Agent Incident Registry;
-7. isolated Hermes v0.21.7 compatibility evaluation before any production upgrade.
+7. isolated compatibility evaluation before any future production upgrade.
 
-Hermes v0.21.7 evaluation should include update-channel pinning, resume behavior, model-router interaction with MetaBot route policy, command-ledger compatibility, memory-plugin boundaries and voice-bridge relevance.
+The October 15 v0.22.1 cutover supersedes the earlier v0.21.7 evaluation priority. Future upgrades must separately verify the exact target, resume/recovery behavior, model-route policy, command-ledger compatibility and relevant plugin boundaries; the migration-window stable channel resolved to v0.22.2, outside the verified target.
 
 ### 0C. Make real executive work commercially effective
 

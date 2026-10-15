@@ -1,6 +1,6 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-14
+**Last public reconciliation:** 2026-10-15
 
 **Scope:** sanitized operating facts suitable for public release.
 
@@ -20,7 +20,13 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 - C-suite / Bot Chat is an executive deliberation surface whose output is proposal only; authorized writers commit with provenance/evidence/admission and independent verifiers establish outcome/convergence. See [GOVERNANCE.md](GOVERNANCE.md#durable-state-propose--commit--audit). Complete enforcement of this contract, including evidence-gated `IDLE` and verifier regression, is not established by the scoped proof below.
 - A missing or stale authority record blocks only the affected action rather than silently expanding permission.
 
-## Latest scoped evidence — October 14
+## Latest scoped evidence — October 15
+
+**Hermes v0.22.1 runtime cutover: PASS / PROVEN-SCOPED.** The [migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) summarizes production migration from `b23600860f82bd66d345c0a1baefd0f264605955` to the exact detached pin `297552a9d646119871391d202509822cd86330df`, verified by git HEAD and runtime identity. Dependencies were synchronized; root and 18 executive configurations migrated to schema 51. The independently verified checkpoint passed 8/8 database integrity checks and 23,622 manifest entries with no missing files or hash mismatches. Scoped production tests observed one gateway owner, governance hooks, durable cron admission, and idle/in-flight recovery; owner loss left one execution `unknown` without replay. Pre-existing automatic paid fallbacks were cleared; explicit escalation remains deliberate.
+
+**Architectural convergence: outstanding.** All 18 executives remain in the runtime's "standalone by config (temporary compatibility shim)" arrangement; no served-profile migration occurred. Command Center already reads canonical execution/session stores, but does not expose `execution_id`, `owner_epoch`, `generation` or receipt state. Receipt settlement remains **UNKNOWN**; install metadata still records the old commit. Production deny-before-effect was not re-exercised against business tools; that proof belongs to the isolated stage. These synthetic recovery tests do not close the older October 14 restart-child retirement/continuation boundary, prove full architectural convergence, or establish economic outcomes.
+
+## Preserved scoped evidence — October 14
 
 **Event-driven reconciliation, terminal-event handling, executive retirement and autonomous post-terminal economic continuation: PROVEN-SCOPED.** The [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) records the 90s → existing 300s health-collector timeout repair after a successful scan required 160.5s. Freshness and verifier requirements were preserved. All times here are Guatemala (UTC−06:00): the original CRO result was independently verified/reconciled and retired at **15:29:25**; its original terminal event was acknowledged at **15:31:07** without deletion; distinct CRO work started at **15:31:11**, completed and was independently reconciled/retired at **15:34:20**. Another `sponsorship-outreach-prep` cycle selected work at **15:36:51** and launched a fresh CRO attempt at **15:38:07**. This proves continued internal economic preparation, not sponsor contact or conversion.
 

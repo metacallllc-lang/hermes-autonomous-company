@@ -63,6 +63,19 @@ Only when a concrete operating need justifies it, improve existing routines with
 
 The October 15 v0.22.1 cutover supersedes the earlier v0.21.7 evaluation priority. Future upgrades must separately verify the exact target, resume/recovery behavior, model-route policy, command-ledger compatibility and relevant plugin boundaries; the migration-window stable channel resolved to v0.22.2, outside the verified target.
 
+
+### October 15 external-learning follow-through
+
+Treat the following as bounded follow-through, not a new architecture program:
+
+- Design and test **single-use effect permits** for externally consequential actions: exact normalized action/resource/destination → atomic claim/consume → dispatch → receipt → verification. Start with one synthetic surface before any live email, payment, purchase or campaign integration.
+- Separate **durable organizational identity** from **ephemeral execution identity** in evidence and authorization. A restarted CEO remains CEO, but a new process/session must receive fresh execution authority tied to the current delegation/permit.
+- Make Hermes upgrades pass an explicit **compatibility admission gate**: exact target, isolated gateway/profile test, plugin/model-route regression, CEO-cycle test, governance ALLOW/DENY test, persistence/restart proof, admit-or-hold. The October 15 v0.22.1 cutover is the reference procedure.
+- Set and verify an explicit session-pruning policy; canonical company evidence must not depend on Hermes conversation retention.
+- Keep MCP/connectivity as an integration surface rather than the product moat. MetaBot's differentiator remains governed authority, economic admission, durable missions, evidence, recovery and verified outcomes.
+
+These are **ADOPT / TEST directions**, not claims of completed production enforcement.
+
 ### 0C. Make real executive work commercially effective
 
 Hermes Desktop now exposes the existing company projection and exact session correlation.

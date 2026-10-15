@@ -170,6 +170,34 @@ Rules:
 
 Within existing authority, the expected behavior is **execute and report**, not **ask for redundant approval**. A conversational surface such as Telegram must not recreate a human approval checkpoint for work already authorized to the CEO or C-suite.
 
+
+### Single-use consequential authority (target)
+
+For externally consequential actions, scope validation alone is not the final target. The intended control is a **single-use effect permit** bound to the exact normalized action, resource and destination.
+
+```text
+parent grant
+→ exact normalized action
+→ authorized resource / destination
+→ single-use effect permit
+→ atomic claim / consume
+→ dispatch
+→ target receipt
+→ independently verified outcome
+```
+
+The permit must not widen the parent grant. It should be consumed atomically before dispatch so concurrent reuse, mutation-after-approval and replay-after-uncertain-response cannot manufacture a second authorized effect.
+
+This is a governance target, not a claim that every production tool already implements consumable permits. Priority surfaces are email sends, payments, purchases, campaign actions and other externally consequential API calls.
+
+### Durable role identity vs ephemeral execution identity
+
+Organizational identity and execution identity should remain distinct.
+
+A durable role such as `CEO` may survive restarts, while each process/session/attempt receives a fresh execution identity derived from the current delegation and, for consequential work, the current effect permit.
+
+A restarted process therefore does not inherit open-ended authority merely because it represents the same organizational role. Execution authority must be re-established from durable grants and current evidence.
+
 ### Destination constraints
 
 For network-capable tools and agent protocols, authorization should include the remote destination as part of the decision.

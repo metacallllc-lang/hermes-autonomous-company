@@ -207,14 +207,20 @@ The target evidence chain is:
 
 ```text
 human/root principal
-→ CEO or agent identity
+→ durable CEO / agent identity
 → delegation
 → attenuated scope
-→ normalized action/tool + arguments
+→ capability surface
+→ exact normalized action/tool + arguments
 → approved resource
 → approved destination
+→ single-use effect permit
+→ ephemeral execution identity
+→ atomic claim / consume
 → execution
-→ verified outcome
+→ target receipt
+→ independent verification
+→ canonical state
 ```
 
 A consequential hop should be able to answer, from durable runtime evidence:
@@ -231,6 +237,37 @@ A consequential hop should be able to answer, from durable runtime evidence:
 - and what independently verifiable result followed.
 
 Delegation must be attenuating: a child grant may be narrower than its parent grant, but never broader.
+
+
+### Consumable effect authority
+
+For consequential external effects, the target architecture treats authorization as a consumable capability rather than a reusable boolean decision.
+
+The effect permit is bound to the exact normalized action, resource and destination and is consumed atomically before dispatch. This is intended to prevent three distinct replay classes:
+
+- concurrent reuse of one otherwise-valid authorization;
+- mutation of an approved action between decision and dispatch;
+- a second dispatch after the first response is lost or becomes unverifiable.
+
+A target receipt and independent verification then bind the consumed permit to the observed result. UNKNOWN remains possible when the outside world cannot be proven; UNKNOWN must not silently mint a fresh permit.
+
+This extends, rather than replaces, ordinary idempotency.
+
+### Organizational identity and execution identity
+
+The durable company role and the live execution principal are separate concepts.
+
+```text
+durable organizational identity (for example CEO)
+→ current delegation
+→ current effect permit where consequential
+→ ephemeral execution identity
+→ one bounded attempt
+```
+
+Restarts may preserve the organizational role while requiring a new execution identity. That makes process/session authority short-lived and keeps restart recovery from becoming implicit authorization reuse.
+
+These sections define target architecture. They are not claims that all production effect surfaces have already adopted single-use permits.
 
 ### Destination-aware authorization
 

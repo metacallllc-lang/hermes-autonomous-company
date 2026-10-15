@@ -1,5 +1,5 @@
 # Industry Landscape & Competitive Learning
-**Updated:** 2026-10-12
+**Updated:** 2026-10-15
 
 MetaBot's public build record now includes a standing competitive-learning program.
 
@@ -404,3 +404,113 @@ governed autonomy
 MetaBot should compete beyond the increasingly crowded "agent control plane" category by proving autonomous economic operation whose **improvements themselves are governed, independently re-verified and reversible**.
 
 Nothing in today's external delta warrants changing the one-CEO architecture, allowing agents to manufacture authority, weakening protected owner root/veto, or interrupting the current production-recovery proof with a broad runtime migration.
+
+## October 15, 2026 — single-use effect authority, execution identity and upgrade admission
+
+Today's external-learning delta reinforces the October 15 v0.22.1 production migration rather than reopening the company architecture.
+
+### ADOPT — Hermes' gateway/session shift strengthens the durable-state doctrine
+
+Hermes Agent v0.22.0 ("The Threshold Release") changed several assumptions underneath long-running agent deployments: one multiplexed gateway per machine became the default topology, idle/daily session resets were retired, old-session auto-pruning became a default behavior, managed Python moved to 3.14, and the old plugin compatibility layer was removed.
+
+MetaBot's lesson is not to weaken the one-gateway invariant. It is to make the compatibility admission gate explicit and to ensure company evidence never depends on a chat session surviving runtime pruning.
+
+The operating doctrine is:
+
+> **Missions and canonical company state are durable; conversations are disposable.**
+
+For future Hermes releases, MetaBot should preserve the same admission sequence used for the v0.22.1 cutover:
+
+```text
+new Hermes release
+→ isolated compatibility audit
+→ exact target verification
+→ gateway/profile tests
+→ plugin + model-route tests
+→ CEO-cycle test
+→ governance ALLOW / DENY regression
+→ persistence + restart / owner-loss test
+→ admit or hold
+```
+
+Reference: https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0
+
+### ADOPT — consequential authority should be consumable, not merely valid
+
+KedgeFlow proposes a useful refinement for consequential agent actions: bind authorization to the exact normalized action, make the allowance single-consumption, and retain target-side outcome evidence. Its reported synthetic concurrency tests are external research results, not MetaBot runtime proof, but the failure model is directly relevant: the same otherwise-valid permission must not be reusable concurrently, mutated after approval, or retried into a second effect after a lost response.
+
+MetaBot's target chain therefore extends from scoped delegation into a consumable effect permit:
+
+```text
+human root
+→ durable agent identity
+→ delegation
+→ attenuated scope
+→ capability surface
+→ exact normalized action / resource / destination
+→ single-use effect permit
+→ ephemeral execution identity
+→ atomic claim / consume
+→ dispatch
+→ external effect
+→ target receipt
+→ independent verification
+→ canonical state
+```
+
+This is especially relevant for email sends, payments, purchases, campaign actions and other externally consequential API calls.
+
+Idempotency keys remain useful. The stronger target is that a retry cannot manufacture a second authorized effect because the authority itself has already been consumed.
+
+Reference: https://arxiv.org/abs/2610.14810
+
+### TEST — separate durable organizational identity from ephemeral execution identity
+
+A restarted CEO can remain organizationally `CEO` while each process/session receives a fresh execution identity derived from the current delegation and effect permit.
+
+That separation should make restart and recovery evidence stronger:
+
+```text
+durable organizational identity
+≠
+ephemeral process / session / execution authority
+```
+
+The execution identity should be short-lived, scope-bound and causally linked to the exact permit it consumes. A process restart therefore does not inherit open-ended authorization merely because it represents the same durable executive role.
+
+Reference: https://arxiv.org/abs/2605.15228
+
+### ADOPT — future Hermes upgrades require explicit compatibility admission
+
+The October 15 migration proved why runtime upgrades cannot be treated as ordinary package refreshes. The stable channel had moved beyond the tested target, while the verified production cutover required an exact pin, rollback checkpoint, governance regression, restart testing and model-route reconciliation.
+
+That process is now the target upgrade doctrine, not a one-off migration ritual.
+
+An upstream release may improve the runtime without automatically being admissible to the company.
+
+### WATCH — enterprise MCP is moving into existing API gateways
+
+Google's Apigee hybrid MCP support is another signal that customers may increasingly bring their own agent connectivity layer.
+
+MetaBot therefore should not compete as merely "an MCP gateway." Its differentiation remains above connectivity:
+
+```text
+authority
++ delegation
++ economic admission
++ durable missions
++ evidence
++ recovery
++ verified outcomes
+```
+
+Reference: https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/
+
+### Net October 15 learning delta
+
+The strongest architectural refinement is:
+
+> **Authority should not only be scoped; consequential authority should be single-use and causally bound to the resulting effect.**
+
+Nothing in this delta creates a second CEO, a second state plane or broader autonomous authority. It makes the existing root → delegation → execution → verification chain stricter.
+

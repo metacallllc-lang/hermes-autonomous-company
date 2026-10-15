@@ -61,7 +61,7 @@ Only when a concrete operating need justifies it, improve existing routines with
 6. real-world incident coverage mapping against the Agent Incident Registry;
 7. isolated compatibility evaluation before any future production upgrade.
 
-The October 15 v0.22.1 cutover supersedes the earlier v0.21.7 evaluation priority. Future upgrades must separately verify the exact target, resume/recovery behavior, model-route policy, command-ledger compatibility and relevant plugin boundaries; the migration-window stable channel resolved to v0.22.2, outside the verified target.
+The October 15 v0.22.1 cutover is the historical migration/rollback milestone; [current production is v0.22.2 with preserved local repairs](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md). Its admission remains qualified: `max_iterations` is a hard bound, while `run_budget_seconds` is not a hard wall-clock kill. Ordinary paid admission remains `CLOSED_PENDING_RECOVERY_BOUND`; proving the recovery/close bound remains necessary. Future upgrades must separately verify the exact target, resume/recovery behavior, model-route policy, command-ledger compatibility and relevant plugin boundaries.
 
 
 ### October 15 external-learning follow-through

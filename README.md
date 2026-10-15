@@ -10,14 +10,15 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ### What you can inspect today
 
-| Observed in the preserved October 12 evidence | Proof boundary |
+| Observed in the October 15 production evidence | Proof boundary |
 |---|---|
-| Ordinary scheduled wake → real CEO inference → governed CTO delegation → isolated executive session | The CTO repair failed; launch is not successful completion. |
-| Terminal failure → CEO wake in 2 seconds → failure disposition | Event-driven failure continuation, within that observation window. |
-| CFO and CMO execution overlapped for **213.47 seconds** | That pair of native profiles/jobs/sessions, not universal concurrency. |
-| Three follow-ups: **SEND ACCEPTED + SENT-FOLDER VERIFIED** | Matching pipeline updates and zero duplicates in the bounded run; delivery, replies, customers and cash are not established. |
+| Production is pinned to **Hermes v0.22.1** at exact commit `297552a9d646119871391d202509822cd86330df` | Git HEAD and runtime `code_sha` agree; this proves the verified cutover target, not future-update compatibility. |
+| Rollback checkpoint independently verified before cutover | **8/8** database integrity checks passed; git bundle + HEAD matched; **23,622** manifest entries had zero missing files or hash mismatches. |
+| Governance loaded in production and synthetic cron admission/recovery passed | One owner; governance hook evidence advanced during the synthetic session; in-flight restart produced `claimed → running → unknown` with one execution row and no replay. |
+| Pre-existing automatic paid fallbacks were removed | Free routes remain the default and explicit `escalate` remains deliberate; this is route-policy proof, not a total model-cost measurement. |
+| Earlier event-driven company evidence remains preserved | October 12–14 evidence still documents CEO wake/delegation, terminal handling, concurrency and bounded outreach verification; it is historical context, not the latest milestone. |
 
-**Continuous operation: PARTIAL / PROVEN-SCOPED.** The [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) establishes event-driven reconciliation, terminal-event handling, executive retirement and autonomous post-terminal economic continuation as **PROVEN-SCOPED**. The first recovery wake was expedited by a test notification; subsequent ordinary CEO continuation is separately evidenced. Full 24/7 operation remains unproven. Public revenue and cash measurements remain **UNKNOWN** unless authoritatively measured. These are dated observations, not a live health claim.
+**Current status: runtime migration PASS / PROVEN-SCOPED; full company convergence remains PARTIAL.** The [October 15 migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) establishes the exact-pin cutover, governance activity, durable cron admission and scoped restart recovery. The 18 executives still use Hermes' temporary standalone compatibility arrangement, Command Center does not yet surface `execution_id` / `owner_epoch` / `generation` / receipt state, canonical receipt settlement was not observed in the cutover window, and no economic outcome is claimed. Full 24/7 autonomous operation therefore remains unproven. Public revenue and cash measurements remain **UNKNOWN** unless authoritatively measured.
 
 Built on [Nous Research's Hermes Agent](https://github.com/NousResearch/hermes-agent). This public repository contains sanitized evidence and architecture; implementation remains private.
 

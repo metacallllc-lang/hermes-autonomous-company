@@ -12,7 +12,7 @@ After the funding rollout, native gateway ownership and the current guard's sour
 
 ## Funding activation
 
-Production verification as of **2026-10-15T21:24:16.619336+00:00**:
+Production verification as of **2026-10-15T21:34:58.238140+00:00**:
 
 | Measurement | Observation / boundary |
 |---|---|
@@ -38,7 +38,7 @@ The authenticated Nous portal confirmed cancellation **at the end of the current
 
 ## Acceptance and nonclaims
 
-**14/14 grouped acceptance cases passed** using redirected state, temporary SQLite stores, inert credentials, denied outbound sockets and a mocked provider, including a run on the production Python **3.14.7** environment. Coverage includes aggregate concurrent reservations, reserve crossing, account depletion, stale/invalid evidence, CEO calls without executive assignments, physical SDK retries, sync/async auxiliary coverage, thread identity propagation, local refusal, crash retention, duplicate/refund/expiry accounting, estimated/default-zero boundaries, five funding statuses, explicit per-job free selection and six-config/fallback preservation. Production paths were refused for test writes. No test mail, social, payment or customer effects occurred.
+**15/15 grouped acceptance cases passed** using redirected state, temporary SQLite stores, inert credentials, denied outbound sockets and a mocked provider, including a run on the production Python **3.14.7** environment. Coverage includes aggregate concurrent reservations, reserve crossing, account depletion, stale/invalid evidence, CEO calls without executive assignments, physical SDK retries, sync/async auxiliary coverage, thread identity propagation, local refusal, crash retention, duplicate/refund/expiry accounting, estimated/default-zero boundaries, five funding statuses, explicit per-job free selection and six-config/fallback preservation. Production paths were refused for test writes. No test mail, social, payment or customer effects occurred.
 
 Synthetic positive paid-admission fixtures use explicit inert price/billing/recovery evidence. They do **not** establish those missing production bounds, settle real provider spend, prove economic return or authorize paid production work. The production state correctly remains closed for paid admission. Historical sessions were not cleared, replayed or assumed stopped by age. Existing historical nonclaims remain intact.
 

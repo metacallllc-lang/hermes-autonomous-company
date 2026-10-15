@@ -256,3 +256,66 @@ The public classification through October 13 is **PARTIAL / PROVEN-SCOPED**. Pre
 Full successful executive completion → immediate event wake → independent verification → reconciliation/retirement → next economic work remains **NOT PROVEN**, as does full 24/7 continuity. Complete enforcement of the state-commit, idle and verifier-regression contracts is not established by those observations.
 
 Provider acceptance plus Sent-folder verification does not imply recipient delivery, reading, replies, customers, revenue or cash. Financial measurements remain **UNKNOWN** unless independently established. [CURRENT_STATE.md](../CURRENT_STATE.md), [TRACTION.md](../TRACTION.md), [PUBLIC_EVIDENCE_INDEX.md](../PUBLIC_EVIDENCE_INDEX.md), [DEMO.md](../DEMO.md) and [README.md](../README.md) define the public evidence boundary; the [dated case-study continuation](../case-study/FROM_AGENT_TO_AUTONOMOUS_COMPANY.md#phase-7--event-driven-continuation-and-evidence-gated-idle) records the reported debugging separately.
+
+## 14. Runtime admission and consequential authority — October 15, 2026
+
+**Runtime cutover: PASS / PROVEN-SCOPED. Architectural convergence: outstanding.** Section 13 remains the October 13 snapshot. This continuation separates the observations in the [October 15 migration record](../evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md), covering the window ending 10:05 America/Guatemala, from target controls in [ARCHITECTURE.md](../ARCHITECTURE.md), [GOVERNANCE.md](../GOVERNANCE.md) and [ROADMAP.md](../ROADMAP.md). Publishing this paper does not rerun production verification.
+
+The intervening [October 14 record](../evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) established reconciliation/retirement and autonomous continuation into internal economic work for a scoped CRO lineage. Its first recovery wake was expedited by a test notification; later ordinary continuation was separately evidenced. That result advances the earlier snapshot without establishing universal wake latency, full unattended continuity or external economic conversion.
+
+### Exact-pin migration as an admission result
+
+Production moved from `b23600860f82bd66d345c0a1baefd0f264605955` to **Hermes v0.22.1**, detached at `297552a9d646119871391d202509822cd86330df`, with agreement between git HEAD and runtime `code_sha`. Supported dependency synchronization completed; root and all 18 executive profiles migrated from schema 50 to 51. During this window the stable channel selected v0.22.2, outside the tested target, so normal update was not run. Exact target verification, rather than channel naming, defined the admitted version.
+
+The rollback checkpoint was independently verified before cutover: **8/8 SQLite integrity checks**, matching git bundle/HEAD, **23,622 manifest entries**, zero missing files and zero hash mismatches. A broken initial backup attempt was rejected and re-made. Rollback remained available and unused; checkpoint integrity does not establish that a production rollback was exercised.
+
+| Evidence surface | Observed result | Limit |
+| --- | --- | --- |
+| Isolated stage | **Gate A PASS; Gate B PASS; governance negative matrix PASS**. Deny-before-effect and hook error/timeout fail-closed behavior measured with a redirected staged home and loopback mock provider. | Host isolation, not a VM boundary; partial epoch/generation/lineage coverage; delegated subagents not exercised. |
+| Production probe | **12/12 checks passed**, including one gateway owner, governance-plugin hook evidence in a synthetic session, durable cron admission, state integrity and reachable Command Center. | Production business-tool DENY cases were not re-exercised; probe success does not imply all architecture criteria passed. |
+| Production owner-loss recovery | Idle owner count one → zero → one; in-flight synthetic attempt retained one row through `claimed → running → unknown`, without replay or duplicate row, and one owner after recovery. Supervisor honored operator pause and recovered. | No canonical receipt settlement observed; no universal exactly-once effect guarantee or closure of the separate older October 14 restart-child boundary. |
+| Model-route correction | Pre-existing automatic fallbacks to two paid models cleared after backups in root plus six profiles; free routes and explicit `escalate` alias retained. | Deliberate paid escalation remains available; total model cost and universal budget enforcement were not measured. |
+
+This recovery result preserves uncertainty as company state. An interrupted attempt becoming `unknown` does not establish success or failure of an outside effect and does not authorize replay.
+
+### Separate runtime cutover from convergence acceptance
+
+The 18 executives remained **standalone by config (temporary compatibility shim)**; no served-profile migration occurred. The existing CEO adapter already used native cron admission. Compatibility checks and absence of idle-exit gateway debris do not establish served-profile convergence.
+
+Command Center already reads canonical execution/session stores, but its payload lacks `execution_id`, `owner_epoch`, `generation` and receipt fields. Execution identity and receipt visibility remain partial; stale/current execution discrimination remains unverified. Receipt settlement is **UNKNOWN**. The old install stamp remains disclosed metadata drift; git/runtime agreement supplies the pinned identity. Wrapper `rc=0` and `idle_refused` do not establish useful work or correct idle eligibility.
+
+### Single-use effect permits — architecture direction
+
+For consequential actions, the target extends scoped delegation into consumable authority:
+
+```text
+root principal → durable organizational identity → delegation → attenuated scope
+→ exact normalized action / resource / destination → single-use effect permit
+→ ephemeral execution identity → atomic claim / consume → dispatch
+→ target receipt → independent verification → canonical state
+```
+
+The permit must not widen its parent grant. Atomic consumption before dispatch is intended to prevent concurrent reuse, mutation after approval and a second effect after an uncertain response. Target receipt and independent verification bind the consumed authority to the observed result. **UNKNOWN must not silently mint a fresh permit.** This extends ordinary idempotency rather than replacing it.
+
+Email sends, payments, purchases, campaign actions and other consequential API calls are candidate surfaces. These are **ADOPT / TEST directions**, not claims that all production tools implement single-use permits or that receipt settlement has been demonstrated. The synthetic no-replay recovery observation is narrower than this target control.
+
+### Durable organizational identity and ephemeral execution identity
+
+The organizational role, such as CEO, may persist across restarts. Each process/session/attempt must receive fresh, bounded execution authority derived from current delegation and, for consequential actions, the current effect permit. A restarted executive does not inherit open-ended authorization from its role name or an earlier session.
+
+Missions, grants, evidence and canonical company state must survive independently of disposable conversations. Identity separation remains architecture direction; partial epoch/generation/lineage test coverage and missing Command Center fields do not establish complete production enforcement.
+
+### Explicit compatibility-admission gate for future Hermes upgrades
+
+The [upgrade doctrine](../ROADMAP.md#october-15-external-learning-follow-through) requires a separate admit-or-hold decision for each future target:
+
+```text
+new release → isolated compatibility audit → exact target verification
+→ gateway/profile tests → plugin + model-route regression → CEO-cycle test
+→ governance ALLOW / DENY regression → persistence + restart / owner-loss proof
+→ admit or hold
+```
+
+Resume/recovery behavior, command-ledger compatibility and relevant plugin boundaries require explicit verification. The October 15 exact-pin cutover and independently verified rollback checkpoint are the reference procedure. An upstream release or update-channel selection cannot substitute for compatibility evidence; this doctrine is not a claim that future versions have already passed.
+
+One CEO, one canonical company state, owner **root + veto** and watchdog-only scheduling remain governing constraints. **Full 24/7 autonomy, receipt settlement and complete architectural convergence remain unproven.** No mail, social, payment or customer/prospect action was taken to prove cutover; no delivery, reply, customer, conversion, sponsor award, revenue or cash outcome follows from these runtime observations. Unmeasured outcomes remain **UNKNOWN**, not zero.

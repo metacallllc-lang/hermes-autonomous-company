@@ -167,3 +167,47 @@ The architecture remains one CEO and one canonical company state, with the owner
 **Public proof boundary through October 13: PARTIAL / PROVEN-SCOPED.** Full successful executive completion → immediate event wake → independent verification → reconciliation/retirement → next economic work remains **NOT PROVEN**, as does full 24/7 continuity. Revenue and cash remain **UNKNOWN** unless authoritatively measured. [PUBLIC_EVIDENCE_INDEX.md](../PUBLIC_EVIDENCE_INDEX.md) remains the claim-by-claim reference.
 
 > **The loop may optimize execution. It may not optimize or expand its own authority.**
+
+## Phase 8 — Exact-pin migration and bounded recovery
+
+**Dated continuation: October 15, 2026. Runtime cutover: PASS / PROVEN-SCOPED. Architectural convergence: outstanding.** Earlier phases retain their dated evidence boundaries. This continuation draws on the [October 15 migration record](../evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md), whose verification window ended at 10:05 America/Guatemala; it is not a fresh production test or live health claim.
+
+The intervening [October 14 reconciliation record](../evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) established independent reconciliation/retirement and autonomous continuation into internal economic work for a bounded CRO lineage. Its first recovery wake was expedited by a test notification; later ordinary continuation was separately observed. That advances the October 13 snapshot without proving universal continuity or closing the distinct older restart-child boundary.
+
+### Exact target, verified rollback and scoped safety gates
+
+Production migrated from `b23600860f82bd66d345c0a1baefd0f264605955` to **Hermes v0.22.1**, detached at exact commit `297552a9d646119871391d202509822cd86330df`. Git HEAD and runtime `code_sha` agreed. Supported dependency synchronization completed, and root plus all 18 executive profiles moved from configuration schema 50 to 51.
+
+The stable update channel had already selected v0.22.2, beyond the tested target. Normal update was not run; verified tag resolution and exact checkout preserved the admitted version. The install stamp still named the old commit, a disclosed metadata drift rather than evidence against the independently observed runtime identity.
+
+Before cutover, an independently verified rollback checkpoint passed **8/8 SQLite backup integrity checks**, with matching git bundle/HEAD and **23,622 manifest entries**, zero missing files and zero hash mismatches. An initial broken backup attempt was rejected and re-made. Rollback remained available and unused; this proves checkpoint verification, not a completed production rollback exercise.
+
+**Gate A PASS, Gate B PASS and governance negative matrix PASS** were established in a redirected staged home using a loopback mock provider. Deny-before-effect and hook error/timeout fail-closed behavior were measured there. This was host isolation, not a VM boundary; epoch/generation/lineage coverage remained partial and delegated subagents were not exercised. Production's separate Phase 8 probe passed **12/12 checks**, including one gateway owner, governance-hook evidence during a synthetic session, durable cron admission, company-state integrity and reachable Command Center. Production business-tool DENY cases were not re-exercised.
+
+### Owner loss preserves uncertainty rather than replaying work
+
+An idle restart observed one gateway owner → zero → one. In-flight synthetic production work retained one execution row through:
+
+```text
+claimed → running → unknown
+```
+
+There was no replay or duplicate execution row, and one owner remained after recovery. The supervisor honored the operator pause and recovered. **UNKNOWN remained UNKNOWN**: the test did not establish a settled receipt, a successful business effect, universal exactly-once effects or retirement of the separate older October 14 restart child.
+
+The migration also found a pre-existing automatic fallback chain to two paid models in root plus six profile configurations. Those fallbacks were cleared after backups. Free routes and the explicit `escalate` alias remained, preserving deliberate paid escalation. This is scoped route-policy correction, not proof of total model cost or universal budget enforcement.
+
+### Runtime cutover is not full architectural convergence
+
+All 18 executives still used Hermes' **standalone by config (temporary compatibility shim)** arrangement. No profile moved to served execution during cutover; the CEO adapter's existing native cron admission did not establish that migration.
+
+Command Center already read canonical execution/session stores, but its payload lacked `execution_id`, `owner_epoch`, `generation` and receipt fields. Execution identity and receipt visibility therefore remained partial, with stale/current discrimination unverified. **Canonical receipt settlement was UNKNOWN** in the cutover window. Wrapper `rc=0`, `idle_refused` and reachable UI do not independently establish useful work, correct idle eligibility or settled outcomes.
+
+### Architectural direction: consumable authority and fresh execution identity
+
+The [architecture](../ARCHITECTURE.md#consumable-effect-authority) and [governance](../GOVERNANCE.md#single-use-consequential-authority-target) now distinguish an ordinary scoped grant from a **single-use effect permit**. The target binds the permit to the exact normalized action, resource and destination, consumes it atomically before dispatch, then links target receipt and independent verification to canonical state. Concurrent reuse, mutation after approval and retry after an uncertain response must not manufacture a second authorized effect; UNKNOWN must not silently mint a fresh permit. This extends idempotency and remains target architecture, not completed enforcement across production tools.
+
+Durable organizational identity, such as CEO, survives a restart; ephemeral process/session/attempt identity must derive fresh execution authority from the current delegation and, where consequential, the current permit. The same role name does not authorize reuse of an earlier attempt's authority. Missions and canonical company evidence must remain durable independently of conversation retention.
+
+Future Hermes upgrades require the explicit [compatibility-admission gate](../ROADMAP.md#october-15-external-learning-follow-through): isolated compatibility audit, exact target verification, gateway/profile tests, plugin/model-route regression, CEO-cycle test, governance ALLOW/DENY regression, persistence/restart/owner-loss proof, then **admit or hold**. The verified rollback checkpoint is part of the cutover reference procedure; an upstream release or update-channel selection does not itself establish compatibility.
+
+These directions preserve one CEO, one canonical company state, owner **root + veto** and watchdog-only scheduling. They introduce no new authority plane. The October 15 result establishes scoped runtime migration and recovery, **not full 24/7 autonomy, receipt settlement, complete architectural convergence or economic outcomes**. No mail, social, payment or customer/prospect action was taken to prove cutover. Delivery, replies, customers, revenue and cash are not inferred; unmeasured outcomes remain **UNKNOWN**, not zero.

@@ -2,14 +2,20 @@
 
 This index maps major public claims to the level of evidence currently available.
 
-**Public reconciliation: 2026-10-15.** The [October 15 migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) establishes the exact-pin runtime cutover and scoped recovery tests, with served-profile convergence and Command Center execution identity still outstanding. The [October 14 addendum](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) records economic coverage, social execution, reboot continuity and the open restart boundary. The later [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) advances scoped reconciliation/retirement and autonomous economic continuation, with the first-wake test caveat retained. Scoped October 12 evidence is summarized in
+**Public reconciliation: 2026-10-15.** Current production is v0.22.2; the [current runtime and self-funding record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md) supersedes active-version wording while preserving dated migration evidence. The [October 15 migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) establishes the exact-pin runtime cutover and scoped recovery tests, with served-profile convergence and Command Center execution identity still outstanding. The [October 14 addendum](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) records economic coverage, social execution, reboot continuity and the open restart boundary. The later [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) advances scoped reconciliation/retirement and autonomous economic continuation, with the first-wake test caveat retained. Scoped October 12 evidence is summarized in
 [CURRENT_STATE.md](CURRENT_STATE.md) and [TRACTION.md](TRACTION.md). Earlier October 9
 and October 12 records remain dated evidence; later repair acceptance does not rewrite
 the failed CTO attempt or aggregate later sends into the October 9 totals.
 
 | Claim | Public status | Evidence level |
 |---|---|---|
-| October 15 production runs exact Hermes v0.22.1 commit `297552a9d646119871391d202509822cd86330df` | **PROVEN-SCOPED** | [Migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md): git HEAD + runtime identity, dependency/config migration and independently verified checkpoint |
+| Current production runs Hermes v0.22.2 base `d923a5eb487a17c0a68801bba9ef0f56c81040a8` with local repairs | **PROVEN-SCOPED / QUALIFIED** | git/runtime identity; preserved repair overlay; [dated record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md) |
+| `max_iterations` is a hard bound; replacement lineage and D20 fixed | **PROVEN-SCOPED** | completed owner-supplied repair report; this funding task preserves those changes |
+| `run_budget_seconds` is a hard wall-clock kill | **NO** | soft/per-call budget; never represented as a hard kill |
+| Self-funding inference enforcement activated | **RESTRICTIVE / PROVEN-SCOPED** | isolated matrix and physical request guard; ordinary paid admission CLOSED while full recovery reserve is UNKNOWN |
+| Existing credit is newly earned replenishment / company is self-sustaining | **NO / UNKNOWN** | runway excluded from replenishment; realized value, aligned paid spend and net delta not comprehensively verified |
+| Next owner-funded Super renewal prevented through the existing provider control | **SUPPORTED, SCOPED** | portal confirms cancellation at current-period end, access through November 14 and reversible undo; no purchase |
+| Historical October 15 migration/rollback milestone used exact Hermes v0.22.1 commit `297552a9d646119871391d202509822cd86330df` | **PROVEN-SCOPED** | [Migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md): git HEAD + runtime identity, dependency/config migration and independently verified checkpoint |
 | October 15 synthetic idle/in-flight restart recovery | **PROVEN-SCOPED** | one owner after recovery; `claimed → running → unknown`, one execution row, no replay; separate from older business-lineage retirement |
 | Pre-existing automatic paid fallback chain removed | **SUPPORTED, SCOPED** | root + six profiles cleared; explicit escalation alias retained; no total-cost claim |
 | Served-profile convergence completed | **NOT PROVEN / OUTSTANDING** | 18 executives still use temporary standalone compatibility arrangement |

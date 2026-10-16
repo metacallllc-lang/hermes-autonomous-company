@@ -8,7 +8,15 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
-### What you can inspect today
+## Current state / next milestone — October 16, 2026
+
+**Company OS operational, scoped; routine lifecycle maintenance no longer requires owner intervention in the accepted recovery window.** Gateway CLI detection, reload and self-maintenance are repaired; the retained reload receipt identifies gateway **PID 16396** and healthy supervisors. Production executives now use the canonical free **Laguna** route; one post-reload CRO assignment succeeded and normal cleanup/continuation followed. Email transport/monitoring and suppression ingest operate; the social chain produced independently verified live Facebook posts. Fiverr inbound remains **UNKNOWN** because its seller mailbox is not connected. See the [dated repairs, hashes and limits](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md).
+
+**299 opportunities; $0.00 verified revenue; cash UNKNOWN.** Five proposals are drafted and zero sent; the new human reply was an opt-out, not buyer demand. Model cost is **$0.00 observed on current free routes**, with provider-side billing watermark **UNKNOWN**. Paid admission remains closed. Social publication does not establish commercial success; recognized accounting revenue, full 24/7 continuity and self-funding remain unproven or UNKNOWN.
+
+**Next milestone:** [complete the autonomous revenue loop](ROADMAP.md#next-milestone--autonomous-revenue-loop-october-16): opportunity → qualification → CEO decision → outreach/follow-up → reply → meeting → proposal → close → invoice/payment → verified cash, with the next action scheduled automatically. Repair post-contact state, aging fields, CEO follow-up decisions, suppression consumption and proposal capacity through existing paths. Accepted runtime repairs stay closed unless new regression evidence requires action. The [current state](CURRENT_STATE.md) records remaining channel and owner-only boundaries.
+
+### Preserved October 15 production evidence
 
 | Observed in the October 15 production evidence | Proof boundary |
 |---|---|
@@ -18,7 +26,7 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 | Pre-existing automatic paid fallbacks were removed | All six approved paid primaries remain configured; housekeeping/per-job free selection is explicit and automatic fallback chains remain empty. Paid admission requires funding proof; this is not a total-cost measurement. |
 | Earlier event-driven company evidence remains preserved | October 12–14 evidence still documents CEO wake/delegation, terminal handling, concurrency and bounded outreach verification; it is historical context, not the latest milestone. |
 
-**Current status: v0.22.2 admission PASS WITH QUALIFICATION / PROVEN-SCOPED; self-funding enforcement activated with ordinary paid admission CLOSED pending a recovery-cost bound; full company convergence remains PARTIAL.** `max_iterations` is a hard bound; `run_budget_seconds` is not a hard wall-clock kill. Replacement-lineage and D20 repairs are proven within the reported repair scope. The [current record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md) separates the runtime repair report, new funding acceptance, provider renewal cancellation and remaining unknowns. Self-funding status is **UNKNOWN**, not a claim that the company pays for itself. The [October 15 migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) establishes the exact-pin cutover, governance activity, durable cron admission and scoped restart recovery. The 18 executives still use Hermes' temporary standalone compatibility arrangement, Command Center does not yet surface `execution_id` / `owner_epoch` / `generation` / receipt state, canonical receipt settlement was not observed in the cutover window, and no economic outcome is claimed. Full 24/7 autonomous operation therefore remains unproven. Public revenue and cash measurements remain **UNKNOWN** unless authoritatively measured.
+**October 15 status: v0.22.2 admission PASS WITH QUALIFICATION / PROVEN-SCOPED; self-funding enforcement activated with ordinary paid admission CLOSED pending a recovery-cost bound; full company convergence remains PARTIAL.** `max_iterations` is a hard bound; `run_budget_seconds` is not a hard wall-clock kill. Replacement-lineage and D20 repairs are proven within the reported repair scope. The [current record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md) separates the runtime repair report, new funding acceptance, provider renewal cancellation and remaining unknowns. Self-funding status is **UNKNOWN**, not a claim that the company pays for itself. The [October 15 migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) establishes the exact-pin cutover, governance activity, durable cron admission and scoped restart recovery. The 18 executives still use Hermes' temporary standalone compatibility arrangement, Command Center does not yet surface `execution_id` / `owner_epoch` / `generation` / receipt state, canonical receipt settlement was not observed in the cutover window, and no economic outcome is claimed. Full 24/7 autonomous operation therefore remains unproven. Public revenue and cash measurements remain **UNKNOWN** unless authoritatively measured.
 
 The October 15 economic-resume mission was delivered to the native CEO; its current portfolio winner remains **UNKNOWN**. The Arcade.dev A23 draft remains internal and unsent, with unsupported claims and owner-approval wording returned for correction. See the [dated follow-through and nonclaims](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md#economic-resume-follow-through--october-15-2026).
 
@@ -91,7 +99,7 @@ PROVIDER ACCEPTED
 
 A claim is not upgraded merely because the next state would be convenient.
 
-## Current public status
+## Preserved public status — October 12–15
 
 **October 15: Hermes v0.22.1 production cutover PASS; architectural convergence remains open.** The [dated migration evidence](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) records the exact pin to `297552a9d646119871391d202509822cd86330df`, independently verified rollback checkpoint, production governance-hook activity, removal of pre-existing automatic paid fallbacks, and scoped idle/in-flight restart recovery. Executives still use the temporary standalone compatibility arrangement; served-profile convergence and Command Center execution identity remain outstanding. Receipt settlement is UNKNOWN. This milestone establishes no economic outcome or full 24/7 continuity.
 

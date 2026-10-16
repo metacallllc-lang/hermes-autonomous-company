@@ -1,6 +1,6 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-15
+**Last public reconciliation:** 2026-10-16
 
 **Scope:** sanitized operating facts suitable for public release.
 
@@ -20,7 +20,27 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 - C-suite / Bot Chat is an executive deliberation surface whose output is proposal only; authorized writers commit with provenance/evidence/admission and independent verifiers establish outcome/convergence. See [GOVERNANCE.md](GOVERNANCE.md#durable-state-propose--commit--audit). Complete enforcement of this contract, including evidence-gated `IDLE` and verifier regression, is not established by the scoped proof below.
 - A missing or stale authority record blocks only the affected action rather than silently expanding permission.
 
-## Latest scoped evidence — October 15
+## Current state / next milestone — October 16
+
+**Company OS operational / PROVEN-SCOPED.** The accepted repair report establishes that routine lifecycle maintenance no longer requires owner intervention in its observation window. Gateway CLI detection, deterministic reload, deployment freshness checks and bounded self-maintenance are repaired; the retained reload receipt records **10068 → 16396**, one gateway, and the report records healthy supervisors. Production CEO/executive work now uses **`nous/poolside/laguna-s-2.1:free`**; a post-reload CRO assignment succeeded, reconciled and yielded to subsequent work without owner dispatch. This is accepted recovery, not universal executive success or a new full 24/7 claim.
+
+Email transport/monitoring and canonical suppression ingest operate. The social publishing chain is restored: four October 16 MetaBot Facebook posts were independently verified live; the reported verification cohort was 12/12 live. Fiverr now explicitly declares the disconnected seller-mailbox coverage gap; inbound remains **UNKNOWN**. MetaCall Facebook token access and Instagram governed publishing remain limited. See [the dated evidence and repaired source hashes](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); this publication checked the retained receipt and hashes without restarting or rerunning the runtime.
+
+| Economic measurement | Accepted October 16 snapshot |
+|---|---|
+| Pipeline | **299 opportunities**; reconciliation repaired, not proof of qualification or revenue |
+| Replies / meetings / proposals | New human reply was an **opt-out**; no unanswered sales-qualified reply reported; **0 meetings; 5 proposals drafted / 0 sent** |
+| Verified revenue | **$0.00**; voided fabricated $950 test row excluded; canonical recognized accounting amount remains **UNKNOWN** |
+| Cash | **UNKNOWN**, no payment evidence |
+| Model cost | **$0.00 observed on current free routes**; provider-side billing watermark **UNKNOWN**; paid admission `CLOSED_PENDING_RECOVERY_BOUND` |
+
+**Remaining business blockers:** incomplete meeting/close/invoice/payment state; missing `last_activity_at`, `due_date` and automatic next-action scheduling; no caller surfacing eligible follow-ups for the required CEO-authored decision (**16 `REFUSED_NO_DECISION`**); canonical suppression not consumed everywhere (**three queued hard-bounce recipients**); **`DeliveryCapacityGate BLOCKED_CAPACITY`** holding five drafts; Fiverr seller-mailbox coverage and buyer/vendor classification; MetaCall Facebook identity/token access and no governed Instagram publish path. Ingestion and social publication do not close these business defects.
+
+**Next milestone:** opportunity → qualification → CEO decision → outreach/follow-up → reply → meeting → proposal → close → invoice/payment → verified cash, with automatic next-action scheduling. Prove a legitimate qualified action, CEO-authored authorization, governed execution, independent verification and autonomous continuation for MetaBot and MetaCall. Social posts alone do not satisfy it; neither an active revenue loop nor first collected cash is claimed yet. See [ROADMAP.md](ROADMAP.md#next-milestone--autonomous-revenue-loop-october-16).
+
+**Owner-only boundaries:** seller-mailbox credential consent, Fiverr legal/licence attestation, LinkedIn app approval/OAuth, MetaCall Facebook identity/token grant, DMARC DNS enforcement and paid inference/new spend. Other already-authorized commercial work continues. Engineering must not author commercial send decisions, bypass capacity/suppression gates or expand authority. Do not reopen accepted runtime repairs without new concrete regression evidence.
+
+## Preserved scoped evidence — October 15
 
 **Current active runtime: Hermes v0.22.2**, base commit `d923a5eb487a17c0a68801bba9ef0f56c81040a8`, plus preserved local repairs. Admission is **PASS WITH QUALIFICATION / PROVEN-SCOPED**: `max_iterations` is a hard execution bound, while `run_budget_seconds` is a soft/per-call mechanism, not a hard wall-clock kill. Replacement-lineage and D20 fixes are proven in the owner-supplied completed repair report; this funding change preserves those repairs rather than claiming a new independent reproduction of every runtime repair.
 
@@ -162,7 +182,7 @@ canonical state
 
 A persisted executive decision exists showing CEO-led C-suite deliberation. Native role-binding proof and end-to-end execution proof remain narrower than the architectural claim and are not overstated.
 
-## Open production issues
+## Earlier production issue inventory — not a fresh October 16 audit
 
 Current or recently documented issues include:
 
@@ -179,7 +199,7 @@ Historical capability proof is not treated as permanent connectivity proof.
 
 For example, the 2026-10-08 verifier recorded QuickBooks refresh/read returning `invalid_grant` at that time. A later dashboard or historical success is not enough to silently upgrade that to current live access without a fresh authoritative probe.
 
-## Health language
+## Historical health language and measurement limits
 
 Global health remained **DEGRADED** after the October 14 refresh. Existing guard/harness findings and unmodified async-lifecycle fixture failures remain visible; passing focused repair checks do not establish whole-system health. The later Command Center snapshot also retained projection inconsistencies (`0 open assignments` alongside an active executive, and a generic/stale next-action label). These do not override canonical lifecycle evidence.
 

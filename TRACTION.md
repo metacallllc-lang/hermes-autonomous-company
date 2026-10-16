@@ -2,9 +2,24 @@
 
 This page intentionally separates **technical proof**, **commercial activity** and **revenue proof**.
 
-All figures below are dated and reconciled against the company's canonical evidence ledgers
-(`outbound_ledger.jsonl`, `delivery_verification.jsonl`). They are restated only when the
-underlying evidence changes, never to inflate a claim.
+Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.
+
+## Current commercial snapshot — October 16
+
+| Measurement | Accepted snapshot / proof boundary |
+|---|---|
+| Pipeline | **299 opportunities**, reconciled; not revenue or proof of qualification |
+| Human replies | One new reply that day was an **opt-out**, now suppressed; no unanswered sales-qualified reply reported |
+| Meetings | **0 reported**; no booking artifact, and pipeline meeting representation is missing |
+| Proposals | **5 drafted / 0 sent**, all blocked by `DeliveryCapacityGate BLOCKED_CAPACITY` |
+| Verified revenue | **$0.00**; explicitly voided fabricated $950 test artifact excluded |
+| Recognized accounting revenue / cash | **UNKNOWN / UNKNOWN**; no payment evidence |
+| Model cost | **$0.00 observed on current free routes**; provider-side billing watermark **UNKNOWN** |
+| Email | **12/12** sends in the reported cohort Sent-folder verified; newest touch-2 **2026-10-16T03:18Z**; delivery/read UNKNOWN |
+| Social | Four October 16 MetaBot Facebook posts independently verified live; **12/12** live in the reported verification cohort; publication only |
+| Fiverr | Seller mailbox disconnected; inbound **UNKNOWN**, not empty; buyer/vendor classification incomplete |
+
+The company OS recovery is accepted within scope: a post-reload CRO succeeded on Laguna, lifecycle cleanup and subsequent admission continued without owner dispatch, and routine lifecycle maintenance no longer requires the owner. This does not establish commercial success. The [next milestone](ROADMAP.md#next-milestone--autonomous-revenue-loop-october-16) is an automatically selected, CEO-authorized qualified opportunity advancing through governed execution, independent verification and next-action scheduling toward verified cash. Social posts alone do not satisfy it.
 
 ## Commercial activity — October 9 snapshot
 
@@ -38,7 +53,7 @@ This is **not** upgraded to delivery, read, reply, contract or revenue.
 
 The public evidence standard does not infer zero from missing financial measurement.
 
-Current supportable statements are:
+For recognized accounting revenue and the preserved October 12 mission claims, the limits remain:
 
 - No verified new human reply, signed customer, customer payment, investment, sponsorship or acquisition proceeds from the October 12 multi-engine mission are claimed here.
 - **Recognized revenue: UNKNOWN** unless an authoritative ledger exposes a recognized amount.

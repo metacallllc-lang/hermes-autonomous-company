@@ -8,7 +8,30 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
-### October 15 migration follow-through
+### Next milestone — autonomous revenue loop (October 16)
+
+**The runtime recovery mission is accepted within the [October 16 evidence scope](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md).** Company OS operation and routine lifecycle maintenance no longer require owner intervention in that window. Do not reopen gateway detection, reload, supervisor, routing or lifecycle repairs without new concrete regression evidence that blocks commercial work. The earlier acceptance backlog below remains visible and is subordinate to this milestone.
+
+Build and prove the complete commercial path through existing canonical state and CEO authority:
+
+```text
+opportunity → qualification → CEO decision → outreach/follow-up → reply
+→ meeting → proposal → close → invoice/payment → verified cash
+→ automatically scheduled next action
+```
+
+1. Extend post-contact state and add evidence-backed `last_activity_at`, `due_date` and `next_action_at`; preserve IDs/lineage and leave unknown history UNKNOWN.
+2. Surface qualified due follow-ups to the CEO so the **CEO authors the required decision**. Engineering may identify/rank work, not manufacture send authority; preserve correct refusals.
+3. Consume canonical suppression before admission on every commercial send path; resolve the three hard-bounce recipients still queued in `camp-b1-002` without deleting history.
+4. Diagnose `DeliveryCapacityGate BLOCKED_CAPACITY` holding five proposal drafts. Measure real capacity or repair stale state; require a qualified opportunity and CEO authorization before sending.
+5. Fix Fiverr buyer/vendor classification, keep disconnected seller-mailbox coverage explicit, and preserve MetaCall Facebook/Instagram limits. Continue authorized channels while owner credential/identity/attestation actions are pending.
+6. Keep MetaBot and MetaCall commercial work and outcomes visible separately; prioritize qualified inbound, buyer/sponsor replies, due follow-ups, meetings and proposals over routine engineering. Keep the existing CEO/event/admission/scheduling paths.
+
+**Minimum operational acceptance:** automatic selection of a real qualified opportunity → CEO-authored commercial decision → governed execution → independent effect verification → persisted state/next action → continuation without owner dispatch. A qualified follow-up, inbound response, meeting action or legitimate proposal can prove forward movement; social posting alone cannot. Code/test success alone cannot establish production acceptance. A functioning loop and first verified collected cash remain separate, unachieved milestones.
+
+Baseline: **299 opportunities, 0 meetings, 5 drafted / 0 sent proposals, $0.00 verified revenue, cash UNKNOWN**. Model cost is $0.00 observed on current free routes; provider billing watermark UNKNOWN and paid admission closed. Owner retains root + veto, credential/identity consent, legal attestations, DNS changes and new-spend decisions. Do not weaken governance to pass acceptance.
+
+### Preserved October 15 migration follow-through
 
 The [Hermes v0.22.1 exact-pin production cutover](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) is **PASS / PROVEN-SCOPED**. Keep the verified runtime milestone separate from these outstanding acceptance items:
 

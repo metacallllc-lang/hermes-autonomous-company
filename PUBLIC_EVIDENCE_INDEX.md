@@ -2,13 +2,25 @@
 
 This index maps major public claims to the level of evidence currently available.
 
-**Public reconciliation: 2026-10-15.** Current production is v0.22.2; the [current runtime and self-funding record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md) supersedes active-version wording while preserving dated migration evidence. The [October 15 migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) establishes the exact-pin runtime cutover and scoped recovery tests, with served-profile convergence and Command Center execution identity still outstanding. The [October 14 addendum](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) records economic coverage, social execution, reboot continuity and the open restart boundary. The later [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) advances scoped reconciliation/retirement and autonomous economic continuation, with the first-wake test caveat retained. Scoped October 12 evidence is summarized in
+**Public reconciliation: 2026-10-16.** The [October 16 operations and revenue-boundary record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md) captures accepted runtime recovery, Laguna production execution, email/suppression ingest, explicit Fiverr coverage gaps and independently verified Facebook publication. It separates **$0.00 verified revenue**, **cash UNKNOWN**, current-free-route observed model cost and unmeasured provider settlement. The [next milestone](ROADMAP.md#next-milestone--autonomous-revenue-loop-october-16) is the complete autonomous revenue loop.
+
+**Preserved October 15 reconciliation:** Current production is v0.22.2; the [current runtime and self-funding record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md) supersedes active-version wording while preserving dated migration evidence. The [October 15 migration record](evidence/HERMES_V0_22_1_PRODUCTION_MIGRATION_2026-10-15.md) establishes the exact-pin runtime cutover and scoped recovery tests, with served-profile convergence and Command Center execution identity still outstanding. The [October 14 addendum](evidence/ECONOMIC_COVERAGE_AND_RECOVERY_2026-10-14.md) records economic coverage, social execution, reboot continuity and the open restart boundary. The later [October 14 reconciliation and continuation proof](evidence/RECONCILIATION_CONTINUATION_PROOF_2026-10-14.md) advances scoped reconciliation/retirement and autonomous economic continuation, with the first-wake test caveat retained. Scoped October 12 evidence is summarized in
 [CURRENT_STATE.md](CURRENT_STATE.md) and [TRACTION.md](TRACTION.md). Earlier October 9
 and October 12 records remain dated evidence; later repair acceptance does not rewrite
 the failed CTO attempt or aggregate later sends into the October 9 totals.
 
 | Claim | Public status | Evidence level |
 |---|---|---|
+| Company OS operational; routine lifecycle maintenance no longer needs owner intervention | **PROVEN-SCOPED, OCTOBER 16** | completed repair report, retained reload receipt and matching source hashes in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); not universal 24/7 proof |
+| Gateway detection/reload/self-maintenance repaired; PID 16396 and healthy supervisors | **SUPPORTED, SCOPED** | retained receipt records 10068 → 16396 and one gateway; report records deep-status, freshness and supervisor checks; PID is dated |
+| Production executives use canonical free Laguna; one post-reload CRO succeeded | **SUPPORTED, SCOPED** | `nous/poolside/laguna-s-2.1:free`, CRO `ceo-cycle-20261016T144606Z`, later reconciliation/cleanup/continuation; admitted/running successors are not automatically successful |
+| Email monitoring and suppression ingest operational | **SUPPORTED, SCOPED** | four mailboxes; nine suppressions bound, second ingest zero; universal send-path suppression consumption remains incomplete |
+| Fiverr inbound is known to be empty | **NO / UNKNOWN** | declared seller mailbox not connected; monitor now declares the gap; buyer/vendor classification remains incomplete |
+| Four October 16 Facebook posts independently verified live | **SUPPORTED, SCOPED** | reported page-feed read-back, 12/12 live in verification cohort; publication is not commercial conversion |
+| Pipeline reconciled to 299 opportunities | **SUPPORTED, SCOPED** | evidence-only materialization/reconciliation; stage counts do not establish qualification, revenue or cash |
+| Verified revenue is $0.00; cash is UNKNOWN at October 16 snapshot | **SUPPORTED, SCOPED** | fabricated $950 test row voided/excluded, no payment proof; recognized accounting amount remains UNKNOWN |
+| Current free-route model cost observed as $0.00 | **SUPPORTED, SCOPED** | zero-price route evidence; provider billing watermark UNKNOWN; not account-wide or settled-spend proof |
+| Complete autonomous opportunity-to-cash loop is operational | **NOT PROVEN / NEXT MILESTONE** | post-contact state, aging, CEO follow-up decision path, suppression consumers and proposal capacity remain blockers |
 | Current production runs Hermes v0.22.2 base `d923a5eb487a17c0a68801bba9ef0f56c81040a8` with local repairs | **PROVEN-SCOPED / QUALIFIED** | git/runtime identity; preserved repair overlay; [dated record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md) |
 | `max_iterations` is a hard bound; replacement lineage and D20 fixed | **PROVEN-SCOPED** | completed owner-supplied repair report; this funding task preserves those changes |
 | `run_budget_seconds` is a hard wall-clock kill | **NO** | soft/per-call budget; never represented as a hard kill |
@@ -53,7 +65,7 @@ the failed CTO attempt or aggregate later sends into the October 9 totals.
 | Those four sends were delivered/read | **NOT PROVEN** | no public delivery/read evidence |
 | Current campaign produced signed customer revenue | **NOT PROVEN** | no public contract/payment proof |
 | Later follow-up sends produced signed customers, revenue or cash | **NOT PROVEN** | no direct customer, revenue or cash proof from accepted sends; public recognized revenue and treasury/cash measurements remain UNKNOWN unless authoritatively measured |
-| Recognized revenue is currently known to be exactly $0 | **NOT PROVEN** | current public measurement is UNKNOWN unless authoritative recognized-amount evidence exists |
+| Recognized accounting revenue is measured to be exactly $0 | **UNKNOWN** | October 16 verifies $0.00 of evidenced revenue; canonical recognized accounting amount remains UNKNOWN, a distinct measurement |
 | Multi-engine commercial mission is the current operating direction | **SUPPORTED, SCOPED** | persisted operating directive / public commercial strategy; external economic results remain unproven |
 | C-suite deliberation can persist a CEO decision | **SUPPORTED, SCOPED** | persisted executive decision |
 | Full C-suite end-to-end autonomous execution is universally proven | **NOT PROVEN** | broader claim exceeds current evidence |

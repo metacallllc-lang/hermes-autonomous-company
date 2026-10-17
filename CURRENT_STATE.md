@@ -1,6 +1,6 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-16
+**Last public reconciliation:** 2026-10-17
 
 **Scope:** sanitized operating facts suitable for public release.
 
@@ -17,28 +17,35 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 - Human owner retains **root authority + veto**, not routine dispatch or selection of authorized branches.
 - Protected authority cannot be expanded by the CEO, C-suite, workers or optimization loops.
 - One canonical Hermes-native CEO loop remains the company operating loop.
-- C-suite / Bot Chat is an executive deliberation surface whose output is proposal only; authorized writers commit with provenance/evidence/admission and independent verifiers establish outcome/convergence. See [GOVERNANCE.md](GOVERNANCE.md#durable-state-propose--commit--audit). Complete enforcement of this contract, including evidence-gated `IDLE` and verifier regression, is not established by the scoped proof below.
+- Consequential authority is being tightened toward the intersection of delegated authority, agent role, execution service, work-item scope and resource/destination policy; parent delegation does not imply reusable child credential inheritance.
 - A missing or stale authority record blocks only the affected action rather than silently expanding permission.
 
-## Current state / next milestone — October 16
+## Current state / next milestone — October 17
 
-**Company OS operational / PROVEN-SCOPED.** The accepted repair report establishes that routine lifecycle maintenance no longer requires owner intervention in its observation window. Gateway CLI detection, deterministic reload, deployment freshness checks and bounded self-maintenance are repaired; the retained reload receipt records **10068 → 16396**, one gateway, and the report records healthy supervisors. Production CEO/executive work now uses **`nous/poolside/laguna-s-2.1:free`**; a post-reload CRO assignment succeeded, reconciled and yielded to subsequent work without owner dispatch. This is accepted recovery, not universal executive success or a new full 24/7 claim.
+**Production runtime: healthy enough to continue; autonomous commercial continuation: PARTIAL.** The October 16 commercial repair gate reached PASS and one bounded CEO-authored follow-up passed 23/23 preflight checks, executed through the governed sender, received HTTP 204, and was independently found in the sending account's Sent folder. Canonical write-back recorded the verified effect and next-action timing. This establishes governed external execution plus independent mailbox corroboration, not recipient delivery, buyer intent or revenue.
 
-Email transport/monitoring and canonical suppression ingest operate. The social publishing chain is restored: four October 16 MetaBot Facebook posts were independently verified live; the reported verification cohort was 12/12 live. Fiverr now explicitly declares the disconnected seller-mailbox coverage gap; inbound remains **UNKNOWN**. MetaCall Facebook token access and Instagram governed publishing remain limited. See [the dated evidence and repaired source hashes](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); this publication checked the retained receipt and hashes without restarting or rerunning the runtime.
+The same proof exposed a cross-wake execution gap: the native verified-follow-up executor binds execution to the decision-recording session, while scheduled wakes use new session identities. A durable CEO decision therefore cannot yet be assumed recoverable by a later wake through that path.
 
-| Economic measurement | Accepted October 16 snapshot |
+October 17 engineering repaired the executive continuation/result contract and a narrowly bounded replacement lifecycle. Historical timed-out review identities remain failed and immutable; no replay or manufactured verdict is accepted. Successors receive fresh work-bound authority and identity rather than inherited reusable credentials. **19 new lifecycle tests and 16 surrounding suites passed**; unrelated baseline route-expectation failures remain disclosed.
+
+Natural production selection has resumed. The existing PT2H scheduler/watchdog remains armed, queued root instructions were processed through the normal selector, failed attempts were retired truthfully, and later CEO cycles selected new C-suite reconciliation work. A fresh CRO reconciliation execution was observed running around 11:45 AM Guatemala time. The exact correction-successor → typed result → verifier → CEO reconciliation → next commercial action chain had not yet been fully observed at the public checkpoint, so recovery is not upgraded to COMPLETE.
+
+See [the October 17 continuation and replacement-lifecycle record](evidence/COMMERCIAL_CONTINUATION_AND_REPLACEMENT_LIFECYCLE_2026-10-17.md).
+
+| Economic measurement | Accepted October 17 snapshot |
 |---|---|
-| Pipeline | **299 opportunities**; reconciliation repaired, not proof of qualification or revenue |
-| Replies / meetings / proposals | New human reply was an **opt-out**; no unanswered sales-qualified reply reported; **0 meetings; 5 proposals drafted / 0 sent** |
-| Verified revenue | **$0.00**; voided fabricated $950 test row excluded; canonical recognized accounting amount remains **UNKNOWN** |
-| Cash | **UNKNOWN**, no payment evidence |
-| Model cost | **$0.00 observed on current free routes**; provider-side billing watermark **UNKNOWN**; paid admission `CLOSED_PENDING_RECOVERY_BOUND` |
+| Pipeline | **299 opportunities**; recorded opportunities are not revenue |
+| Meetings / proposals / customers / payments | **0 verified** in the current public checkpoint |
+| Recognized revenue | **UNKNOWN** absent authoritative recognition/payment evidence |
+| Cash | **UNKNOWN**; latest treasury probe returned an IP allowlist failure and no current total balance |
+| Earlier $0.96 balance | historical telemetry only; not current cash and not revenue |
+| Model cost | **$3.313293 observed USD** in the Command Center snapshot; provider-wide settlement remains a separate measurement |
 
-**Remaining business blockers:** incomplete meeting/close/invoice/payment state; missing `last_activity_at`, `due_date` and automatic next-action scheduling; no caller surfacing eligible follow-ups for the required CEO-authored decision (**16 `REFUSED_NO_DECISION`**); canonical suppression not consumed everywhere (**three queued hard-bounce recipients**); **`DeliveryCapacityGate BLOCKED_CAPACITY`** holding five drafts; Fiverr seller-mailbox coverage and buyer/vendor classification; MetaCall Facebook identity/token access and no governed Instagram publish path. Ingestion and social publication do not close these business defects.
+**Workforce integration finding:** the company has a built/setup **19-agent roster** (6 executives + 13 specialists). Specialist self-audits for Google Analytics and Research & Strategy show that built/configured profiles can still be dormant or profile-local rather than integrated into normal company delegation. The new acceptance sequence is BUILT → CONFIGURED → CANONICALLY BOUND → AUTHORIZED → RUNTIME-USABLE → DELEGATABLE → ACTUALLY USED → VERIFIED OUTPUT → ECONOMICALLY USEFUL.
 
-**Next milestone:** opportunity → qualification → CEO decision → outreach/follow-up → reply → meeting → proposal → close → invoice/payment → verified cash, with automatic next-action scheduling. Prove a legitimate qualified action, CEO-authored authorization, governed execution, independent verification and autonomous continuation for MetaBot and MetaCall. Social posts alone do not satisfy it; neither an active revenue loop nor first collected cash is claimed yet. See [ROADMAP.md](ROADMAP.md#next-milestone--autonomous-revenue-loop-october-16).
+**Next milestone:** prove one natural replacement successor through typed result, independent verification and CEO reconciliation, then continue through a real commercial next action or an exact evidence-backed WAITING condition. Beyond that, the economic target remains opportunity → qualification → CEO decision → governed execution → reply → meeting → proposal → close → invoice/payment → verified cash, with automatic continuation.
 
-**Owner-only boundaries:** seller-mailbox credential consent, Fiverr legal/licence attestation, LinkedIn app approval/OAuth, MetaCall Facebook identity/token grant, DMARC DNS enforcement and paid inference/new spend. Other already-authorized commercial work continues. Engineering must not author commercial send decisions, bypass capacity/suppression gates or expand authority. Do not reopen accepted runtime repairs without new concrete regression evidence.
+**Owner-only boundaries remain narrow:** personal identity/consent, legal attestation, new protected spend/financial commitment and equivalent reserved acts. Routine company research, selection, delegation, repair, measurement and authorized commercial execution remain company work.
 
 ## Preserved scoped evidence — October 15
 

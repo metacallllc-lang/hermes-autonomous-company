@@ -4,22 +4,29 @@ This page intentionally separates **technical proof**, **commercial activity** a
 
 Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.
 
-## Current commercial snapshot — October 16
+## Current commercial / operating snapshot — October 17
 
 | Measurement | Accepted snapshot / proof boundary |
 |---|---|
-| Pipeline | **299 opportunities**, reconciled; not revenue or proof of qualification |
-| Human replies | One new reply that day was an **opt-out**, now suppressed; no unanswered sales-qualified reply reported |
-| Meetings | **0 reported**; no booking artifact, and pipeline meeting representation is missing |
-| Proposals | **5 drafted / 0 sent**, all blocked by `DeliveryCapacityGate BLOCKED_CAPACITY` |
-| Verified revenue | **$0.00**; explicitly voided fabricated $950 test artifact excluded |
-| Recognized accounting revenue / cash | **UNKNOWN / UNKNOWN**; no payment evidence |
-| Model cost | **$0.00 observed on current free routes**; provider-side billing watermark **UNKNOWN** |
-| Email | **12/12** sends in the reported cohort Sent-folder verified; newest touch-2 **2026-10-16T03:18Z**; delivery/read UNKNOWN |
-| Social | Four October 16 MetaBot Facebook posts independently verified live; **12/12** live in the reported verification cohort; publication only |
-| Fiverr | Seller mailbox disconnected; inbound **UNKNOWN**, not empty; buyer/vendor classification incomplete |
+| Pipeline | **299 opportunities** recorded; not revenue or proof of qualification |
+| Governed external effect | **1 newly documented bounded follow-up** passed 23/23 preflight checks, was provider-accepted and independently found in Sent; delivery/read/reply remain unproven |
+| Meetings | **0 verified** |
+| Proposals sent | **0 verified** at this public checkpoint |
+| Customers / payments | **0 verified** |
+| Recognized revenue | **UNKNOWN** absent authoritative recognition/payment evidence |
+| Cash | **UNKNOWN**; latest treasury probe failed the current IP allowlist check and returned no current total balance |
+| Earlier treasury telemetry | $0.96 is historical telemetry only, not current cash or revenue |
+| Model cost | **$3.313293 observed USD** in the Command Center snapshot; not a complete provider-wide settlement claim |
+| Scheduler / watchdog | existing PT2H continuation path enabled; no new scheduler/control plane created |
+| Executive continuation | natural CEO → C-suite selection visible; exact typed replacement-successor acceptance still **NOT PROVEN** end-to-end |
 
-The company OS recovery is accepted within scope: a post-reload CRO succeeded on Laguna, lifecycle cleanup and subsequent admission continued without owner dispatch, and routine lifecycle maintenance no longer requires the owner. This does not establish commercial success. The [next milestone](ROADMAP.md#next-milestone--autonomous-revenue-loop-october-16) is an automatically selected, CEO-authorized qualified opportunity advancing through governed execution, independent verification and next-action scheduling toward verified cash. Social posts alone do not satisfy it.
+The October 16 governed effect is important because it crosses the boundary from internal orchestration to a real externally actuated company action with independent mailbox corroboration. It is still deliberately not upgraded to delivery, demand, customer conversion or revenue.
+
+October 17 continuation work repaired the typed executive result contract and bounded replacement lifecycle while preserving terminal failures. The runtime then naturally continued through scheduled CEO selection and new executive reconciliation work. At the public checkpoint, this proves active production continuation but does not yet prove the exact correction successor, typed verifier acceptance, CEO reconciliation and next commercial action as one complete natural chain.
+
+A new organizational-utilization finding also matters for traction: the company has **19 built/setup agents**, but two specialist self-audits exposed the difference between profile existence and economic integration. Google Analytics and Research & Strategy currently illustrate why the roster must be measured through actual executive delegation, verified output and business use rather than configuration alone.
+
+See [the October 17 evidence record](evidence/COMMERCIAL_CONTINUATION_AND_REPLACEMENT_LIFECYCLE_2026-10-17.md).
 
 ## Commercial activity — October 9 snapshot
 

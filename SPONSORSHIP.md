@@ -53,6 +53,22 @@ Fund a real deployment and receive a bounded implementation with measurable busi
 
 Support the public evidence program and production-scale experimentation over a longer period.
 
+## GitHub Sponsors tiers
+
+Published recurring tiers:
+
+- **$5/month — Community supporter**
+- **$25/month — Build supporter**
+- **$100/month — Infrastructure supporter**
+
+Planned one-time support tiers:
+
+- **$25 one-time — Project supporter** — helps cover testing, verification and public documentation.
+- **$100 one-time — Build boost** — supports inference, integration work and reliability testing.
+- **$500 one-time — Infrastructure contribution** — helps fund model/API capacity, compute and production-scale validation.
+
+These tiers are sponsorship support only. They do not promise consulting, private-code access, credentials, governance authority or customer data.
+
 ## What sponsors do not receive automatically
 
 Sponsorship does not automatically grant:

@@ -22,30 +22,40 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 
 ## Current state / next milestone — October 17
 
-**Production runtime: healthy enough to continue; autonomous commercial continuation: PARTIAL.** The October 16 commercial repair gate reached PASS and one bounded CEO-authored follow-up passed 23/23 preflight checks, executed through the governed sender, received HTTP 204, and was independently found in the sending account's Sent folder. Canonical write-back recorded the verified effect and next-action timing. This establishes governed external execution plus independent mailbox corroboration, not recipient delivery, buyer intent or revenue.
+**Production runtime: operating with paid-only executive inference; autonomous opportunity-to-cash remains PARTIAL.** The owner has exercised root veto over free production inference. The existing routing/funding path now admits only the bounded paid Nous route set for production company inference; malformed, unknown or free routes fail closed. No second router, scheduler, campaign engine or authority plane was introduced.
 
-The same proof exposed a cross-wake execution gap: the native verified-follow-up executor binds execution to the decision-recording session, while scheduled wakes use new session identities. A durable CEO decision therefore cannot yet be assumed recoverable by a later wake through that path.
+A real native paid request passed the physical funding guard on Nous Sonnet and settled at a provider-reported actual cost of **$0.011641**. An ordinary Hermes session subsequently made additional paid Sonnet/tool calls with costs recorded in the funding ledger. One live failover session transitioned Sonnet → DeepSeek → Kimi → Gemini and opened a paid Gemini request before user interruption; therefore paid-route transition is proven within scope, while a completed live multi-route failover remains **NOT YET PROVEN**.
 
-October 17 engineering repaired the executive continuation/result contract and a narrowly bounded replacement lifecycle. Historical timed-out review identities remain failed and immutable; no replay or manufactured verdict is accepted. Successors receive fresh work-bound authority and identity rather than inherited reusable credentials. **19 new lifecycle tests and 16 surrounding suites passed**; unrelated baseline route-expectation failures remain disclosed.
+Before live acceptance, Nous reported **$60.085813** of current credit. The dated owner-funded exception limits this to a **$50 operating pool** plus **$10 protected reserve** and does not authorize any new purchase, top-up, renewal, subscription change or payment. Existing credit is runway, not revenue or replenishment.
 
-Natural production selection has resumed. The existing PT2H scheduler/watchdog remains armed, queued root instructions were processed through the normal selector, failed attempts were retired truthfully, and later CEO cycles selected new C-suite reconciliation work. A fresh CRO reconciliation execution was observed running around 11:45 AM Guatemala time. The exact correction-successor → typed result → verifier → CEO reconciliation → next commercial action chain had not yet been fully observed at the public checkpoint, so recovery is not upgraded to COMPLETE.
+A fresh treasury read during the October 17 operating window measured **$0.96 current/available cash**. Recognized revenue remains **UNKNOWN** because no authoritative customer-payment/recognition evidence has been established. The earlier stale treasury/IP-allowlist result is therefore superseded only for this as-of cash measurement.
 
-See [the October 17 continuation and replacement-lifecycle record](evidence/COMMERCIAL_CONTINUATION_AND_REPLACEMENT_LIFECYCLE_2026-10-17.md).
+The company also reconciled marketplace work against actual owner capabilities. Three public QuickBooks cleanup/catch-up listings were retained as **market-demand evidence**, but the owner does not have an Upwork account, so those listings are not executable company opportunities. The tracker now separates demand observed from commercially executable work.
+
+**Fiverr is now the primary marketplace path.** Public seller pages observed by the company reported a 5.0 rating, 262 reviews, 570 completed orders and four live gigs, but no dedicated QuickBooks cleanup/catch-up offer. A cleanup positioning package and buyer-response kit were prepared but not applied live. A read-only seller-session check stopped at Fiverr's human-verification boundary; inbox, orders and earnings therefore remain **UNKNOWN**. The intended durable fix is one owner-authenticated notification change followed by independent company-side receipt verification, not recurring owner inbox work.
+
+A bounded buyer-intent refresh trigger was prepared in the existing CEO-cycle path. It performs no model call, network call or external effect and was tested on an isolated database copy for not-due / due / duplicate-slot behavior. The first real CRO child admitted by that trigger remains **NOT YET PROVEN**.
+
+See [the October 17 paid-inference and Fiverr revenue-path record](evidence/PAID_INFERENCE_AND_FIVERR_REVENUE_PATH_2026-10-17.md) and [the October 17 continuation and replacement-lifecycle record](evidence/COMMERCIAL_CONTINUATION_AND_REPLACEMENT_LIFECYCLE_2026-10-17.md).
 
 | Economic measurement | Accepted October 17 snapshot |
 |---|---|
-| Pipeline | **299 opportunities**; recorded opportunities are not revenue |
-| Meetings / proposals / customers / payments | **0 verified** in the current public checkpoint |
+| Pipeline | recorded company opportunities remain evidence, not revenue |
+| Public buyer-intent demand | **3 listings observed**; not executable because no Upwork account |
+| Fiverr seller inbox / orders / earnings | **UNKNOWN** behind human-verification/authentication boundary |
+| Meetings / submitted proposals / customers / payments | **0 verified** in the current public checkpoint |
 | Recognized revenue | **UNKNOWN** absent authoritative recognition/payment evidence |
-| Cash | **UNKNOWN**; latest treasury probe returned an IP allowlist failure and no current total balance |
-| Earlier $0.96 balance | historical telemetry only; not current cash and not revenue |
-| Model cost | **$3.313293 observed USD** in the Command Center snapshot; provider-wide settlement remains a separate measurement |
+| Cash | **$0.96 measured current/available** in the fresh October 17 treasury read; not revenue |
+| Paid inference | native paid Sonnet request settled at **$0.011641**; additional paid calls recorded |
+| Existing Nous credit | **$60.085813 before live acceptance**; bounded to $50 operating pool + $10 reserve |
+| Completed live paid failover | **NOT YET PROVEN**; route transition/open paid alternate request supported |
+| Free production inference | **DENIED by owner veto** |
 
-**Workforce integration finding:** the company has a built/setup **19-agent roster** (6 executives + 13 specialists). Specialist self-audits for Google Analytics and Research & Strategy show that built/configured profiles can still be dormant or profile-local rather than integrated into normal company delegation. The new acceptance sequence is BUILT → CONFIGURED → CANONICALLY BOUND → AUTHORIZED → RUNTIME-USABLE → DELEGATABLE → ACTUALLY USED → VERIFIED OUTPUT → ECONOMICALLY USEFUL.
+**Workforce integration finding:** the company has a built/setup **19-agent roster** (6 executives + 13 specialists). Specialist self-audits for Google Analytics and Research & Strategy show that built/configured profiles can still be dormant or profile-local rather than integrated into normal company delegation. The acceptance sequence remains BUILT → CONFIGURED → CANONICALLY BOUND → AUTHORIZED → RUNTIME-USABLE → DELEGATABLE → ACTUALLY USED → VERIFIED OUTPUT → ECONOMICALLY USEFUL.
 
-**Next milestone:** prove one natural replacement successor through typed result, independent verification and CEO reconciliation, then continue through a real commercial next action or an exact evidence-backed WAITING condition. Beyond that, the economic target remains opportunity → qualification → CEO decision → governed execution → reply → meeting → proposal → close → invoice/payment → verified cash, with automatic continuation.
+**Next milestone:** convert the now-available paid inference into external economic movement through an executable channel: Fiverr buyer signal → governed response → conversation → paid diagnostic/engagement → authoritative payment evidence → collected cash. Customer-funded inference is not yet proven.
 
-**Owner-only boundaries remain narrow:** personal identity/consent, legal attestation, new protected spend/financial commitment and equivalent reserved acts. Routine company research, selection, delegation, repair, measurement and authorized commercial execution remain company work.
+**Owner-only boundaries remain narrow:** personal identity/consent, human-verification gates, legal attestation, new protected spend/financial commitment and equivalent reserved acts. Routine company research, selection, delegation, repair, measurement and authorized commercial execution remain company work.
 
 ## Preserved scoped evidence — October 15
 

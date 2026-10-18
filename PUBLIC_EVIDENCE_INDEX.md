@@ -7,6 +7,17 @@ This index maps major public claims to the level of evidence currently available
 **Preserved October 16 reconciliation:** the [October 16 operations and revenue-boundary record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md) captures accepted runtime recovery, Laguna production execution, email/suppression ingest, explicit Fiverr coverage gaps and independently verified Facebook publication. Earlier dated records remain evidence and are not rewritten by later repairs.
 
 | Claim | Public status | Evidence level |
+|---|---|---|
+| Production company inference is paid-only under owner veto | **SUPPORTED, SCOPED / OCTOBER 17** | bounded paid Nous allowlist; free/malformed/unknown production routes fail closed; no new purchase authority |
+| Native paid inference executed and settled | **SUPPORTED, SCOPED** | paid Sonnet request returned `PAID_ROUTE_OK`; provider-reported settled cost **$0.011641**; additional paid calls recorded |
+| Completed live paid-to-paid failover across alternatives | **NOT YET PROVEN** | live Sonnet → DeepSeek → Kimi → Gemini transition opened a paid Gemini request, but the run was interrupted before response completion |
+| Existing Nous credit before live paid acceptance | **$60.085813, DATED** | bounded to $50 operating pool + $10 reserve; existing credit is runway, not earned replenishment |
+| Current cash is $0.96 | **SUPPORTED, SCOPED / AS-OF OCTOBER 17** | fresh treasury producer returned current/available cash of $0.96; this is not recognized revenue |
+| Recognized revenue is known to be $0 | **NO / UNKNOWN** | no authoritative recognized-revenue amount is established; no customer payment is claimed |
+| Three observed Upwork cleanup listings are executable pipeline | **NO** | owner has no Upwork account; listings are retained as market-demand evidence only |
+| Fiverr is the primary executable marketplace path | **SUPPORTED AS OPERATING DIRECTION** | established seller presence exists; public positioning reviewed; seller inbox/orders/earnings remain UNKNOWN behind human verification |
+| Fiverr seller inbox is known empty | **NO / UNKNOWN** | read-only session check stopped at human-verification boundary; no bypass performed |
+| QuickBooks cleanup Fiverr package is live | **NO / PREPARED ONLY** | cleanup positioning/buyer kit prepared; planned tiers are not published and diagnostic offer still needs offer/capacity governance |
 | First governed external commercial effect with independent Sent-folder corroboration | **SUPPORTED, SCOPED / OCTOBER 16** | authenticated CEO decision, 23/23 preflight, provider HTTP 204, one external effect, read-only Sent-folder match and canonical next-action write-back; not delivery/reply/revenue |
 | Cross-wake durable consequential execution through the native verified executor | **NOT PROVEN / STRUCTURAL GAP IDENTIFIED** | decision-recording session and later scheduled-wake session identities differ; the observed effect used the governed sender path rather than recovered native durable-intent execution |
 | Typed executive continuation contract deployed | **SUPPORTED, SCOPED** | typed NEXT_ACTION/WAITING/BLOCKED/UNKNOWN result contract, exact work/input/read/artifact binding; isolated and surrounding regression checks |
@@ -17,7 +28,6 @@ This index maps major public claims to the level of evidence currently available
 | All 19 agents are integrated and economically useful | **NOT PROVEN** | Google Analytics and Research & Strategy self-audits expose dormant/profile-local behavior; full roster integration audit remains open |
 | Earlier stale treasury read made current cash UNKNOWN | **HISTORICAL / SUPERSEDED FOR AS-OF CASH** | later October 17 fresh treasury producer measured $0.96 current/available; recognized revenue remains separate |
 | Command Center observed model cost of $3.313293 | **SUPPORTED, SCOPED** | current observer snapshot; not provider-wide settled billing proof |
-|---|---|---|
 | Company OS operational; routine lifecycle maintenance no longer needs owner intervention | **PROVEN-SCOPED, OCTOBER 16** | completed repair report, retained reload receipt and matching source hashes in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); not universal 24/7 proof |
 | Gateway detection/reload/self-maintenance repaired; PID 16396 and healthy supervisors | **SUPPORTED, SCOPED** | retained receipt records 10068 → 16396 and one gateway; report records deep-status, freshness and supervisor checks; PID is dated |
 | October 16 production executives used canonical free Laguna; one post-reload CRO succeeded | **HISTORICAL, SCOPED** | `nous/poolside/laguna-s-2.1:free` was observed in the October 16 window; later October 17 owner veto supersedes free production routing |

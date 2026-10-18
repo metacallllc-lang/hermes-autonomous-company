@@ -8,19 +8,17 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
-## Current state / next milestone — October 17, 2026
+## Current state / next milestone — October 18, 2026
 
-**Company runtime operational; paid-only inference is now live, but customer-funded operation remains unproven.** The owner exercised root veto over free production inference. The existing funding/routing path now admits a bounded paid Nous model set for company execution and fails closed on free, malformed or unknown routes.
+**Company runtime remains operational; the current mission is commercial execution, not another architecture cycle.** The October 17 paid-only/free-veto state has been superseded by later owner authorization: `free_nous_allowed=true`, `paid_only=false`, with CEO primary `deepseek/deepseek-v4.1-flash-1017`. Authorized free Nous use is available under the amended funding policy; model changes do not alter authority.
 
-A real native paid Sonnet request passed the physical funding guard and settled at a provider-reported actual cost of **$0.011641**. A live route-transition test moved across Sonnet → DeepSeek → Kimi → Gemini and opened a paid Gemini request before interruption; this supports paid-to-paid transition, not a completed universal failover claim. Before live acceptance, Nous reported **$60.085813** of existing credit, bounded to a **$50 operating pool + $10 protected reserve** with no new purchase or top-up authority.
+Later owner-visible production evidence also advances the Fiverr path: an authenticated persistent seller session was readable at the observed checkpoint, the IRS-claim gig was removed leaving **3 gigs**, existing gigs were materially repositioned for cleanup/catch-up work, and governed **Glanzrock** first-contact outreach was sent and independently found in Sent. Approximately **$13.26 usable Nous credit** was reported at the later checkpoint. These facts supersede the earlier current-state claims of four gigs, prepared-only positioning, universally blocked seller inspection and ~$60.09 current runway.
 
-A fresh treasury read measured **$0.96 current/available cash** during the October 17 operating window. Recognized revenue remains **UNKNOWN** and no customer payment is claimed.
+Canonical evidence outranks Command Center/UI projection. A stale "Company blocked" observer state is not itself proof that the company or canonical reconciliation is blocked. Engineering reopens only when concrete evidence identifies a defect blocking revenue, delivery, verification or continuation.
 
-Commercially, the company stopped treating inaccessible job-board listings as executable pipeline. Three public QuickBooks cleanup/catch-up listings remain market-demand evidence, but the owner has no Upwork account, so they are not submission-ready opportunities. **Fiverr is now the primary marketplace path** because an established seller presence already exists. Public pages observed by the company show existing reputation/order history, while seller inbox, orders and earnings remain **UNKNOWN** behind Fiverr's human-verification boundary. A QuickBooks cleanup/catch-up positioning package and buyer kit were prepared but not published.
+See the [October 18 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-18.md). October 17 paid-routing/Fiverr evidence remains historical and scoped to its checkpoint.
 
-See the [October 17 paid-inference and Fiverr revenue-path record](evidence/PAID_INFERENCE_AND_FIVERR_REVENUE_PATH_2026-10-17.md) and the [October 17 continuation record](evidence/COMMERCIAL_CONTINUATION_AND_REPLACEMENT_LIFECYCLE_2026-10-17.md).
-
-**Next milestone:** turn paid inference into external economic proof: Fiverr buyer signal → governed response → conversation → paid diagnostic/engagement → authoritative payment evidence → collected cash → replenished inference runway. The owner remains root + veto, not the routine dispatcher.
+**Next milestone:** **SELL → CLOSE → COLLECT → DELIVER.** The next proof is buyer engagement → governed response → conversation → close → authoritative payment evidence → collected cash. The owner remains root + veto, not routine dispatcher.
 
 ### Preserved October 15 production evidence
 

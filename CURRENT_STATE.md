@@ -1,6 +1,6 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-17
+**Last public reconciliation:** 2026-10-18
 
 **Scope:** sanitized operating facts suitable for public release.
 

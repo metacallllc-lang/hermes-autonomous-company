@@ -8,9 +8,11 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
-### Next milestone — autonomous revenue loop (October 16)
+### Next milestone — autonomous revenue loop (October 18)
 
-**The runtime recovery mission is accepted within the [October 16 evidence scope](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md).** Company OS operation and routine lifecycle maintenance no longer require owner intervention in that window. Do not reopen gateway detection, reload, supervisor, routing or lifecycle repairs without new concrete regression evidence that blocks commercial work. The earlier acceptance backlog below remains visible and is subordinate to this milestone.
+**The runtime recovery mission remains accepted within the [October 16 evidence scope](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md), and the [October 18 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-18.md) restores commercial execution as the current priority.** Do not reopen gateway detection, reload, supervisor, routing or lifecycle repairs without new concrete regression evidence that blocks revenue, delivery, verification or continuation. Canonical evidence outranks observer/UI projection. The earlier acceptance backlog below remains visible and is subordinate to the commercial milestone.
+
+**Commercial ordering rule:** SELL → CLOSE → COLLECT → DELIVER. Engineering interrupts only for a concrete defect blocking that chain.
 
 Build and prove the complete commercial path through existing canonical state and CEO authority:
 
@@ -29,7 +31,7 @@ opportunity → qualification → CEO decision → outreach/follow-up → reply
 
 **Minimum operational acceptance:** automatic selection of a real qualified opportunity → CEO-authored commercial decision → governed execution → independent effect verification → persisted state/next action → continuation without owner dispatch. A qualified follow-up, inbound response, meeting action or legitimate proposal can prove forward movement; social posting alone cannot. Code/test success alone cannot establish production acceptance. A functioning loop and first verified collected cash remain separate, unachieved milestones.
 
-Baseline: **299 opportunities, 0 meetings, 5 drafted / 0 sent proposals, $0.00 verified revenue, cash UNKNOWN**. Model cost is $0.00 observed on current free routes; provider billing watermark UNKNOWN and paid admission closed. Owner retains root + veto, credential/identity consent, legal attestations, DNS changes and new-spend decisions. Do not weaken governance to pass acceptance.
+Current operating baseline: owner remains root + veto; CEO remains autonomous operator; `free_nous_allowed=true`, `paid_only=false`, CEO primary `deepseek/deepseek-v4.1-flash-1017`; later owner-visible production evidence reports approximately **$13.26 usable Nous credit**, authenticated Fiverr seller state, **3 remaining gigs**, live cleanup/catch-up repositioning and governed Glanzrock outreach **SENT + SENT-FOLDER VERIFIED**. Buyer reply, customer, recognized revenue and collected cash remain evidence-gated. Do not weaken governance to pass acceptance.
 
 ### Preserved October 15 migration follow-through
 

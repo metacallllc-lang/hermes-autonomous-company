@@ -20,42 +20,30 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 - Consequential authority is being tightened toward the intersection of delegated authority, agent role, execution service, work-item scope and resource/destination policy; parent delegation does not imply reusable child credential inheritance.
 - A missing or stale authority record blocks only the affected action rather than silently expanding permission.
 
-## Current state / next milestone — October 17
+## Current state / next milestone — October 18
 
-**Production runtime: operating with paid-only executive inference; autonomous opportunity-to-cash remains PARTIAL.** The owner has exercised root veto over free production inference. The existing routing/funding path now admits only the bounded paid Nous route set for production company inference; malformed, unknown or free routes fail closed. No second router, scheduler, campaign engine or authority plane was introduced.
+**Production runtime: operating; commercial execution is the priority.** Later owner authorization supersedes the October 17 paid-only/free-veto state. Current policy is `free_nous_allowed=true`, `paid_only=false`, with CEO primary `deepseek/deepseek-v4.1-flash-1017`. Authorized free Nous use is available under the amended funding policy; authority, delegation, evidence and destination controls are unchanged.
 
-A real native paid request passed the physical funding guard on Nous Sonnet and settled at a provider-reported actual cost of **$0.011641**. An ordinary Hermes session subsequently made additional paid Sonnet/tool calls with costs recorded in the funding ledger. One live failover session transitioned Sonnet → DeepSeek → Kimi → Gemini and opened a paid Gemini request before user interruption; therefore paid-route transition is proven within scope, while a completed live multi-route failover remains **NOT YET PROVEN**.
+Later owner-visible production evidence reports approximately **$13.26 usable Nous credit** at the current checkpoint. Fiverr seller state was readable through an authenticated persistent session without the earlier human-verification wall; the IRS-claim gig was removed, leaving **3 gigs**; existing gigs were materially repositioned for cleanup/catch-up work; and governed **Glanzrock** first-contact outreach was sent and independently verified in Sent.
 
-Before live acceptance, Nous reported **$60.085813** of current credit. The dated owner-funded exception limits this to a **$50 operating pool** plus **$10 protected reserve** and does not authorize any new purchase, top-up, renewal, subscription change or payment. Existing credit is runway, not revenue or replenishment.
+The observer/UI remains subordinate to canonical evidence. A stale or generic `Company blocked` projection does not establish a lifecycle failure. The prior governed follow-up already demonstrated scoped canonical write-back of verified effect state and continuation timing. Before reopening engineering, require concrete evidence of a missing/contradictory canonical artifact that prevents the next economic action.
 
-A fresh treasury read during the October 17 operating window measured **$0.96 current/available cash**. Recognized revenue remains **UNKNOWN** because no authoritative customer-payment/recognition evidence has been established. The earlier stale treasury/IP-allowlist result is therefore superseded only for this as-of cash measurement.
-
-The company also reconciled marketplace work against actual owner capabilities. Three public QuickBooks cleanup/catch-up listings were retained as **market-demand evidence**, but the owner does not have an Upwork account, so those listings are not executable company opportunities. The tracker now separates demand observed from commercially executable work.
-
-**Fiverr is now the primary marketplace path.** Public seller pages observed by the company reported a 5.0 rating, 262 reviews, 570 completed orders and four live gigs, but no dedicated QuickBooks cleanup/catch-up offer. A cleanup positioning package and buyer-response kit were prepared but not applied live. A read-only seller-session check stopped at Fiverr's human-verification boundary; inbox, orders and earnings therefore remain **UNKNOWN**. The intended durable fix is one owner-authenticated notification change followed by independent company-side receipt verification, not recurring owner inbox work.
-
-A bounded buyer-intent refresh trigger was prepared in the existing CEO-cycle path. It performs no model call, network call or external effect and was tested on an isolated database copy for not-due / due / duplicate-slot behavior. The first real CRO child admitted by that trigger remains **NOT YET PROVEN**.
-
-See [the October 17 paid-inference and Fiverr revenue-path record](evidence/PAID_INFERENCE_AND_FIVERR_REVENUE_PATH_2026-10-17.md) and [the October 17 continuation and replacement-lifecycle record](evidence/COMMERCIAL_CONTINUATION_AND_REPLACEMENT_LIFECYCLE_2026-10-17.md).
-
-| Economic measurement | Accepted October 17 snapshot |
+| Economic / operating measurement | Accepted October 18 boundary |
 |---|---|
-| Pipeline | recorded company opportunities remain evidence, not revenue |
-| Public buyer-intent demand | **3 listings observed**; not executable because no Upwork account |
-| Fiverr seller inbox / orders / earnings | **UNKNOWN** behind human-verification/authentication boundary |
-| Meetings / submitted proposals / customers / payments | **0 verified** in the current public checkpoint |
-| Recognized revenue | **UNKNOWN** absent authoritative recognition/payment evidence |
-| Cash | **$0.96 measured current/available** in the fresh October 17 treasury read; not revenue |
-| Paid inference | native paid Sonnet request settled at **$0.011641**; additional paid calls recorded |
-| Existing Nous credit | **$60.085813 before live acceptance**; bounded to $50 operating pool + $10 reserve |
-| Completed live paid failover | **NOT YET PROVEN**; route transition/open paid alternate request supported |
-| Free production inference | **DENIED by owner veto** |
+| CEO primary | `deepseek/deepseek-v4.1-flash-1017` |
+| Free Nous production use | **AUTHORIZED within amended funding policy** |
+| Paid-only mode | **false / superseded** |
+| Usable Nous credit | approximately **$13.26** at later owner-visible checkpoint |
+| Fiverr seller access | authenticated persistent seller state readable at observed checkpoint |
+| Fiverr gigs | **3** after IRS-claim gig removal |
+| Cleanup/catch-up positioning | materially applied to existing gigs |
+| Governed Glanzrock outreach | **SENT + SENT-FOLDER VERIFIED** |
+| Buyer reply / signed customer / collected cash from that outreach | **NOT PROVEN** |
+| Recognized revenue | remains evidence-gated; do not infer from sends or UI |
 
-**Workforce integration finding:** the company has a built/setup **19-agent roster** (6 executives + 13 specialists). Specialist self-audits for Google Analytics and Research & Strategy show that built/configured profiles can still be dormant or profile-local rather than integrated into normal company delegation. The acceptance sequence remains BUILT → CONFIGURED → CANONICALLY BOUND → AUTHORIZED → RUNTIME-USABLE → DELEGATABLE → ACTUALLY USED → VERIFIED OUTPUT → ECONOMICALLY USEFUL.
+**Next milestone:** **SELL → CLOSE → COLLECT → DELIVER.** Engineering is an interrupt only for a concrete regression blocking revenue, delivery, verification or continuation. Do not reopen gateway, reload, supervisor, routing or lifecycle architecture on dashboard appearance alone.
 
-**Next milestone:** convert the now-available paid inference into external economic movement through an executable channel: Fiverr buyer signal → governed response → conversation → paid diagnostic/engagement → authoritative payment evidence → collected cash. Customer-funded inference is not yet proven.
-
-**Owner-only boundaries remain narrow:** personal identity/consent, human-verification gates, legal attestation, new protected spend/financial commitment and equivalent reserved acts. Routine company research, selection, delegation, repair, measurement and authorized commercial execution remain company work.
+See [the October 18 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-18.md). October 17 evidence remains preserved as a dated historical checkpoint.
 
 ## Preserved scoped evidence — October 15
 

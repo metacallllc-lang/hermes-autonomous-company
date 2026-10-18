@@ -8,25 +8,39 @@ Figures below are dated. The October 16 snapshot comes from the completed owner-
 
 | Measurement | Accepted snapshot / proof boundary |
 |---|---|
-| Pipeline | **299 opportunities** recorded; not revenue or proof of qualification |
-| Governed external effect | **1 newly documented bounded follow-up** passed 23/23 preflight checks, was provider-accepted and independently found in Sent; delivery/read/reply remain unproven |
-| Meetings | **0 verified** |
-| Proposals sent | **0 verified** at this public checkpoint |
-| Customers / payments | **0 verified** |
+| Production inference | **paid-only by owner veto**; free/unknown production routes fail closed |
+| Live paid request | Nous Sonnet returned `PAID_ROUTE_OK`; provider-reported settled cost **$0.011641** |
+| Existing Nous credit | **$60.085813 before live acceptance**; $50 operating pool + $10 protected reserve |
+| Paid failover | live transition Sonnet → DeepSeek → Kimi → Gemini and a paid Gemini request opened; completed failover response **NOT YET PROVEN** |
+| Cash | **$0.96 measured current/available** in the fresh October 17 treasury read; not revenue |
 | Recognized revenue | **UNKNOWN** absent authoritative recognition/payment evidence |
-| Cash | **UNKNOWN**; latest treasury probe failed the current IP allowlist check and returned no current total balance |
-| Earlier treasury telemetry | $0.96 is historical telemetry only, not current cash or revenue |
-| Model cost | **$3.313293 observed USD** in the Command Center snapshot; not a complete provider-wide settlement claim |
-| Scheduler / watchdog | existing PT2H continuation path enabled; no new scheduler/control plane created |
-| Executive continuation | natural CEO → C-suite selection visible; exact typed replacement-successor acceptance still **NOT PROVEN** end-to-end |
+| Public buyer-intent demand | **3 QuickBooks cleanup/catch-up listings observed** |
+| Executable opportunities from those listings | **0** because the owner does not have an Upwork account |
+| Fiverr | primary marketplace path; public profile shows existing reputation/order history, but seller inbox/orders/earnings remain **UNKNOWN** behind human verification |
+| Submitted proposals | **0 verified** |
+| Meetings / customers / payments | **0 verified** |
+| First customer-funded inference loop | **NOT PROVEN** |
 
-The October 16 governed effect is important because it crosses the boundary from internal orchestration to a real externally actuated company action with independent mailbox corroboration. It is still deliberately not upgraded to delivery, demand, customer conversion or revenue.
+The paid-routing change is a production operating milestone rather than an economic outcome. A native paid request crossed the physical funding boundary and settled with a measured provider cost, and the company has a bounded paid alternative set. That does not mean model failover is universally proven, nor does it mean paid inference has already produced revenue.
 
-October 17 continuation work repaired the typed executive result contract and bounded replacement lifecycle while preserving terminal failures. The runtime then naturally continued through scheduled CEO selection and new executive reconciliation work. At the public checkpoint, this proves active production continuation but does not yet prove the exact correction successor, typed verifier acceptance, CEO reconciliation and next commercial action as one complete natural chain.
+Commercially, the company corrected a key measurement error: public job-board demand is no longer counted as executable pipeline when the owner lacks the required marketplace account. Three QuickBooks cleanup/catch-up listings remain useful demand evidence, but they are not submission-ready company opportunities.
 
-A new organizational-utilization finding also matters for traction: the company has **19 built/setup agents**, but two specialist self-audits exposed the difference between profile existence and economic integration. Google Analytics and Research & Strategy currently illustrate why the roster must be measured through actual executive delegation, verified output and business use rather than configuration alone.
+Fiverr is now the primary marketplace fast-cash path because an established seller presence already exists. Public pages observed by the company reported a 5.0 rating, 262 reviews, 570 completed orders and four live gigs. The current public offer set does not expose a dedicated cleanup/catch-up product, so a new cleanup positioning package was prepared but **not published**. A read-only seller-session check stopped at the platform's human-verification boundary; no inbox, order or earnings state is inferred.
 
-See [the October 17 evidence record](evidence/COMMERCIAL_CONTINUATION_AND_REPLACEMENT_LIFECYCLE_2026-10-17.md).
+The current economic objective is therefore explicit:
+
+```text
+paid inference
+→ executable buyer work
+→ governed response
+→ paid engagement
+→ authoritative payment evidence
+→ replenish inference runway
+```
+
+That loop remains incomplete. The next meaningful proof is customer-funded intelligence, not another internal routing test.
+
+See [the October 17 paid-inference and Fiverr revenue-path record](evidence/PAID_INFERENCE_AND_FIVERR_REVENUE_PATH_2026-10-17.md).
 
 ## Commercial activity — October 9 snapshot
 

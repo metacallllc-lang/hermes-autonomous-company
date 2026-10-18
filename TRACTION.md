@@ -4,43 +4,26 @@ This page intentionally separates **technical proof**, **commercial activity** a
 
 Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.
 
-## Current commercial / operating snapshot — October 17
+## Current commercial / operating snapshot — October 18
 
 | Measurement | Accepted snapshot / proof boundary |
 |---|---|
-| Production inference | **paid-only by owner veto**; free/unknown production routes fail closed |
-| Live paid request | Nous Sonnet returned `PAID_ROUTE_OK`; provider-reported settled cost **$0.011641** |
-| Existing Nous credit | **$60.085813 before live acceptance**; $50 operating pool + $10 protected reserve |
-| Paid failover | live transition Sonnet → DeepSeek → Kimi → Gemini and a paid Gemini request opened; completed failover response **NOT YET PROVEN** |
-| Cash | **$0.96 measured current/available** in the fresh October 17 treasury read; not revenue |
-| Recognized revenue | **UNKNOWN** absent authoritative recognition/payment evidence |
-| Public buyer-intent demand | **3 QuickBooks cleanup/catch-up listings observed** |
-| Executable opportunities from those listings | **0** because the owner does not have an Upwork account |
-| Fiverr | primary marketplace path; public profile shows existing reputation/order history, but seller inbox/orders/earnings remain **UNKNOWN** behind human verification |
-| Submitted proposals | **0 verified** |
-| Meetings / customers / payments | **0 verified** |
-| First customer-funded inference loop | **NOT PROVEN** |
+| CEO primary | `deepseek/deepseek-v4.1-flash-1017` |
+| Production funding policy | `free_nous_allowed=true`; `paid_only=false` |
+| Usable Nous credit | approximately **$13.26** at the later owner-visible checkpoint |
+| Fiverr seller state | authenticated persistent session readable at observed checkpoint |
+| Fiverr gigs | **3** after removal of the IRS-claim gig |
+| Cleanup/catch-up positioning | materially applied to existing gigs |
+| Governed Glanzrock outreach | **SENT + SENT-FOLDER VERIFIED** |
+| Buyer reply / customer / payment from that outreach | **NOT PROVEN** |
+| Recognized revenue | remains evidence-gated; no inference from provider acceptance or Sent-folder presence |
+| Current operating priority | **SELL → CLOSE → COLLECT → DELIVER** |
 
-The paid-routing change is a production operating milestone rather than an economic outcome. A native paid request crossed the physical funding boundary and settled with a measured provider cost, and the company has a bounded paid alternative set. That does not mean model failover is universally proven, nor does it mean paid inference has already produced revenue.
+The October 17 paid-only/free-veto and four-gig/prepared-only Fiverr state is preserved as history, not treated as current truth.
 
-Commercially, the company corrected a key measurement error: public job-board demand is no longer counted as executable pipeline when the owner lacks the required marketplace account. Three QuickBooks cleanup/catch-up listings remain useful demand evidence, but they are not submission-ready company opportunities.
+The current traction question is economic: can the autonomous company convert an executable buyer opportunity into conversation, close, authoritative payment evidence and delivery without the owner becoming the dispatcher? Dashboard projection quality is secondary unless it concretely blocks that chain.
 
-Fiverr is now the primary marketplace fast-cash path because an established seller presence already exists. Public pages observed by the company reported a 5.0 rating, 262 reviews, 570 completed orders and four live gigs. The current public offer set does not expose a dedicated cleanup/catch-up product, so a new cleanup positioning package was prepared but **not published**. A read-only seller-session check stopped at the platform's human-verification boundary; no inbox, order or earnings state is inferred.
-
-The current economic objective is therefore explicit:
-
-```text
-paid inference
-→ executable buyer work
-→ governed response
-→ paid engagement
-→ authoritative payment evidence
-→ replenish inference runway
-```
-
-That loop remains incomplete. The next meaningful proof is customer-funded intelligence, not another internal routing test.
-
-See [the October 17 paid-inference and Fiverr revenue-path record](evidence/PAID_INFERENCE_AND_FIVERR_REVENUE_PATH_2026-10-17.md).
+See [the October 18 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-18.md).
 
 ## Commercial activity — October 9 snapshot
 

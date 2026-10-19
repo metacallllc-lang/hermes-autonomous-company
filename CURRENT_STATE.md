@@ -1,6 +1,6 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-18
+**Last public reconciliation:** 2026-10-19
 
 **Scope:** sanitized operating facts suitable for public release.
 
@@ -20,30 +20,33 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 - Consequential authority is being tightened toward the intersection of delegated authority, agent role, execution service, work-item scope and resource/destination policy; parent delegation does not imply reusable child credential inheritance.
 - A missing or stale authority record blocks only the affected action rather than silently expanding permission.
 
-## Current state / next milestone — October 18
+## Current state / next milestone — October 19
 
-**Production runtime: operating; commercial execution is the priority.** Later owner authorization supersedes the October 17 paid-only/free-veto state. Current policy is `free_nous_allowed=true`, `paid_only=false`, with CEO primary `deepseek/deepseek-v4.1-flash-1017`. Authorized free Nous use is available under the amended funding policy; authority, delegation, evidence and destination controls are unchanged.
+**Production runtime: waiting on scoped commercial triggers; no universal mission-evidence barrier remains.** October 19 repairs corrected four continuation/authority defects without reopening the architecture: stale marketplace-capacity disposition, inferred owner-only Fiverr classification, sponsorship promotion ahead of stronger commercial lanes, and automatic promotion of mission-progress UNKNOWN into a global blocker.
 
-Later owner-visible production evidence reports approximately **$13.26 usable Nous credit** at the current checkpoint. Fiverr seller state was readable through an authenticated persistent session without the earlier human-verification wall; the IRS-claim gig was removed, leaving **3 gigs**; existing gigs were materially repositioned for cleanup/catch-up work; and governed **Glanzrock** first-contact outreach was sent and independently verified in Sent.
+Current verified public boundary:
 
-The observer/UI remains subordinate to canonical evidence. A stale or generic `Company blocked` projection does not establish a lifecycle failure. The prior governed follow-up already demonstrated scoped canonical write-back of verified effect state and continuation timing. Before reopening engineering, require concrete evidence of a missing/contradictory canonical artifact that prevents the next economic action.
-
-| Economic / operating measurement | Accepted October 18 boundary |
+| Economic / operating measurement | Accepted October 19 boundary |
 |---|---|
 | CEO primary | `deepseek/deepseek-v4.1-flash-1017` |
-| Free Nous production use | **AUTHORIZED within amended funding policy** |
-| Paid-only mode | **false / superseded** |
-| Usable Nous credit | approximately **$13.26** at later owner-visible checkpoint |
-| Fiverr seller access | authenticated persistent seller state readable at observed checkpoint |
-| Fiverr gigs | **3** after IRS-claim gig removal |
-| Cleanup/catch-up positioning | materially applied to existing gigs |
-| Governed Glanzrock outreach | **SENT + SENT-FOLDER VERIFIED** |
-| Buyer reply / signed customer / collected cash from that outreach | **NOT PROVEN** |
-| Recognized revenue | remains evidence-gated; do not infer from sends or UI |
+| Owner authority | **root + veto**, not routine dispatcher |
+| Marketplace capacity/disposition | exact governed continuation restored; false global marketplace blocker removed |
+| Routine Fiverr seller work | **COMPANY_OPERABLE** when current action-specific gates admit it |
+| Fiverr owner boundary | only on a **fresh observed** CAPTCHA/MFA/identity/non-delegable personal/legal challenge |
+| Scheduled executive Fiverr mutation/publication | **NOT YET PROVEN** |
+| Sponsorship | class-scoped; does not outrank buyer/reply/proposal/follow-up/Fiverr work |
+| Standing mission | **7 / 9 MET** after deterministic refresh; O3 PARTIAL, O4 BLOCKED remain mission-progress evidence |
+| Universal mission precondition | **NONE FOUND** among traced O1/O3/O4 |
+| Post-repair safe internal run | **WAITING**, 0 inference calls, no global barriers |
+| Recognized revenue / collected cash | **NOT PROVEN / UNMEASURED** at this checkpoint |
 
-**Next milestone:** **SELL → CLOSE → COLLECT → DELIVER.** Engineering is an interrupt only for a concrete regression blocking revenue, delivery, verification or continuation. Do not reopen gateway, reload, supervisor, routing or lifecycle architecture on dashboard appearance alone.
+The latest owner-visible Command Center observation after adoption is **Company waiting** on a class-scoped marketplace canonical-source / governed-disposition condition. The existing buyer-intent trigger remains independent.
 
-See [the October 18 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-18.md). October 17 evidence remains preserved as a dated historical checkpoint.
+This is a continuation-truthfulness and authority-scoping advance, not an economic result. The next proof target remains **SELL → CLOSE → COLLECT → DELIVER**, with the nearest technical gap being governed marketplace mutation/publication through the actual scheduled executor.
+
+The same-day upstream Hermes issue [#141509](https://github.com/NousResearch/hermes-agent/issues/141509) also reinforces a runtime-admission rule: version labels are not sufficient evidence. Candidate artifacts should be promoted only after required-fix and behavioral regression checks, especially across gateway/provider compatibility.
+
+See [the October 19 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-19.md). October 18 and earlier records remain preserved as dated evidence.
 
 ## Preserved scoped evidence — October 15
 

@@ -8,30 +8,44 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
-### Next milestone — autonomous revenue loop (October 18)
+### Next milestone — autonomous revenue loop (October 19)
 
-**The runtime recovery mission remains accepted within the [October 16 evidence scope](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md), and the [October 18 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-18.md) restores commercial execution as the current priority.** Do not reopen gateway detection, reload, supervisor, routing or lifecycle repairs without new concrete regression evidence that blocks revenue, delivery, verification or continuation. Canonical evidence outranks observer/UI projection. The earlier acceptance backlog below remains visible and is subordinate to the commercial milestone.
+**The core build remains closed.** October 19 repairs removed false whole-company continuation blockers and narrowed the remaining problem to commercial-edge execution. Do not reopen gateway, scheduler, routing, sponsorship, mission-evidence or Fiverr owner-boundary architecture without fresh regression evidence.
 
-**Commercial ordering rule:** SELL → CLOSE → COLLECT → DELIVER. Engineering interrupts only for a concrete defect blocking that chain.
+**Commercial ordering rule:** SELL → CLOSE → COLLECT → DELIVER.
 
-Build and prove the complete commercial path through existing canonical state and CEO authority:
+Current accepted boundary:
+
+- routine Fiverr seller work is **COMPANY_OPERABLE** when existing action-specific gates admit it;
+- owner escalation requires a fresh observed CAPTCHA/MFA/identity/non-delegable personal/legal challenge;
+- the scheduled executive browser path has proven read/open scope, but routine Fiverr mutation/publication remains **UNPROVEN**;
+- sponsorship is class-scoped and sits below buyer/reply/proposal/follow-up/Fiverr work;
+- standing mission progress is **7 / 9 MET**; residual mission-progress evidence is not a universal commercial prerequisite;
+- a supported internal run recorded **WAITING / 0 inference calls / no global barriers**;
+- revenue and cash remain unproven.
+
+The next acceptance path is:
 
 ```text
-opportunity → qualification → CEO decision → outreach/follow-up → reply
-→ meeting → proposal → close → invoice/payment → verified cash
-→ automatically scheduled next action
+authenticated marketplace session
+→ actual executor tool/scope inventory
+→ routine seller mutation capability admitted
+→ governed marketplace action
+→ independent provider/result verification
+→ buyer/order
+→ proposal/close
+→ authoritative payment evidence
+→ collected cash
+→ next autonomous action
 ```
 
-1. Extend post-contact state and add evidence-backed `last_activity_at`, `due_date` and `next_action_at`; preserve IDs/lineage and leave unknown history UNKNOWN.
-2. Surface qualified due follow-ups to the CEO so the **CEO authors the required decision**. Engineering may identify/rank work, not manufacture send authority; preserve correct refusals.
-3. Consume canonical suppression before admission on every commercial send path; resolve the three hard-bounce recipients still queued in `camp-b1-002` without deleting history.
-4. Diagnose `DeliveryCapacityGate BLOCKED_CAPACITY` holding five proposal drafts. Measure real capacity or repair stale state; require a qualified opportunity and CEO authorization before sending.
-5. Fix Fiverr buyer/vendor classification, keep disconnected seller-mailbox coverage explicit, and preserve MetaCall Facebook/Instagram limits. Continue authorized channels while owner credential/identity/attestation actions are pending.
-6. Keep MetaBot and MetaCall commercial work and outcomes visible separately; prioritize qualified inbound, buyer/sponsor replies, due follow-ups, meetings and proposals over routine engineering. Keep the existing CEO/event/admission/scheduling paths.
+If the executor cannot mutate the marketplace, persist an exact **technical capability blocker** with the missing tool/scope and clearing condition. Do not convert that gap into an owner dependency.
 
-**Minimum operational acceptance:** automatic selection of a real qualified opportunity → CEO-authored commercial decision → governed execution → independent effect verification → persisted state/next action → continuation without owner dispatch. A qualified follow-up, inbound response, meeting action or legitimate proposal can prove forward movement; social posting alone cannot. Code/test success alone cannot establish production acceptance. A functioning loop and first verified collected cash remain separate, unachieved milestones.
+Buyer-intent discovery remains independent on the existing six-hour cadence. A fresh buyer reply/order/proposal/follow-up outranks marketplace wait and sponsorship.
 
-Current operating baseline: owner remains root + veto; CEO remains autonomous operator; `free_nous_allowed=true`, `paid_only=false`, CEO primary `deepseek/deepseek-v4.1-flash-1017`; later owner-visible production evidence reports approximately **$13.26 usable Nous credit**, authenticated Fiverr seller state, **3 remaining gigs**, live cleanup/catch-up repositioning and governed Glanzrock outreach **SENT + SENT-FOLDER VERIFIED**. Buyer reply, customer, recognized revenue and collected cash remain evidence-gated. Do not weaken governance to pass acceptance.
+**Minimum operational acceptance:** one real qualified economic item selected autonomously → governed execution through the actual admitted executor → independent verification → persisted next action, without owner dispatch. First verified collected cash remains a separate and still-unachieved milestone.
+
+See the [October 19 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-19.md).
 
 ### Preserved October 15 migration follow-through
 

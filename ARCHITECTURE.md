@@ -141,6 +141,56 @@ verification authority
 
 The exact implementation remains an operations roadmap item; this section defines the contract, not a claim of completed production proof.
 
+## Runtime artifact and dependency admission
+
+Governance depends on software that can itself regress. A runtime artifact is therefore part of the trusted execution chain, not a neutral implementation detail.
+
+The target authorization/evidence chain is:
+
+```text
+human root
+→ delegated authority
+→ agent/runtime identity
+→ admitted runtime artifact
+→ admitted capability implementation
+→ normalized action / resource / destination
+→ single-use effect authority where required
+→ execution
+→ receipt
+→ independent verification
+```
+
+A newer or `stable` version is not admitted solely because it starts successfully. Candidate promotion should compare source/tag provenance and required behavior against the currently trusted artifact:
+
+```text
+candidate artifact
+→ source/tag provenance
+→ expected-fix manifest
+→ regression differential
+→ provider/gateway tests
+→ CEO-cycle tests
+→ governance tests
+→ continuity/restart tests
+→ ADMIT or HOLD
+```
+
+A previously required invariant disappearing is a promotion blocker.
+
+Destination authorization also applies across network indirection. For credential-bearing requests, the authorized destination set must remain valid across:
+
+```text
+requested destination
+→ DNS / connection target
+→ redirect chain
+→ final origin
+```
+
+A redirect must not silently enlarge authority or carry credentials/request bodies into an unauthorized origin.
+
+Operational continuity also includes bounded dependency resources. Gateway liveness alone is insufficient; session/task counts, stale/orphaned session age and memory trend are examples of health evidence that may be needed when the dependency exposes stateful sessions.
+
+These are architecture requirements / regression classes, not a claim that every control is already implemented in production.
+
 ## C-suite
 
 The executive layer gives the CEO specialized perspectives:

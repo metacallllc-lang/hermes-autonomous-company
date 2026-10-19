@@ -8,17 +8,25 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
-## Current state / next milestone — October 18, 2026
+## Current state / next milestone — October 19, 2026
 
-**Company runtime remains operational; the current mission is commercial execution, not another architecture cycle.** The October 17 paid-only/free-veto state has been superseded by later owner authorization: `free_nous_allowed=true`, `paid_only=false`, with CEO primary `deepseek/deepseek-v4.1-flash-1017`. Authorized free Nous use is available under the amended funding policy; model changes do not alter authority.
+**The company is now waiting on scoped commercial triggers rather than a false whole-company evidence barrier.** October 19 repairs corrected marketplace disposition, Fiverr authority classification, sponsorship priority and mission-evidence scoping without changing the locked CEO/C-suite architecture.
 
-Later owner-visible production evidence also advances the Fiverr path: an authenticated persistent seller session was readable at the observed checkpoint, the IRS-claim gig was removed leaving **3 gigs**, existing gigs were materially repositioned for cleanup/catch-up work, and governed **Glanzrock** first-contact outreach was sent and independently found in Sent. Approximately **$13.26 usable Nous credit** was reported at the later checkpoint. These facts supersede the earlier current-state claims of four gigs, prepared-only positioning, universally blocked seller inspection and ~$60.09 current runway.
+Current public boundary:
 
-Canonical evidence outranks Command Center/UI projection. A stale "Company blocked" observer state is not itself proof that the company or canonical reconciliation is blocked. Engineering reopens only when concrete evidence identifies a defect blocking revenue, delivery, verification or continuation.
+- routine Fiverr seller work is **COMPANY_OPERABLE** when existing authority/economic/executor gates admit it;
+- an owner boundary requires a **fresh observed** CAPTCHA, MFA, identity-verification or genuinely non-delegable personal/legal challenge;
+- scheduled-executive Fiverr mutation/publication remains **UNPROVEN** even though policy classification is now correct;
+- sponsorship is class-scoped and cannot suppress higher-priority buyer/reply/proposal/follow-up/Fiverr work;
+- standing mission progress advanced to **7 / 9**; unresolved O3/O4 mission-progress evidence is not a universal commercial prerequisite;
+- the post-repair internal dry run recorded **WAITING**, **0 inference calls** and **no global barriers**;
+- recognized revenue and collected cash remain **UNPROVEN / UNMEASURED** at this checkpoint.
 
-See the [October 18 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-18.md). October 17 paid-routing/Fiverr evidence remains historical and scoped to its checkpoint.
+The latest owner-visible Command Center state after adoption is **Company waiting**, with a class-scoped marketplace source/disposition trigger and the existing buyer-intent refresh remaining independent.
 
-**Next milestone:** **SELL → CLOSE → COLLECT → DELIVER.** The next proof is buyer engagement → governed response → conversation → close → authoritative payment evidence → collected cash. The owner remains root + veto, not routine dispatcher.
+See the [October 19 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-19.md). Earlier October 18/17 reconciliations remain preserved as dated evidence.
+
+**Next milestone:** **SELL → CLOSE → COLLECT → DELIVER.** The remaining proof gap is commercial execution at the edge—especially governed marketplace mutation/publication and then an independently verified buyer/order/payment outcome—not another architecture cycle.
 
 ### Preserved October 15 production evidence
 

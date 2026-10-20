@@ -8,25 +8,26 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
-## Current state / next milestone — October 19, 2026
+## Current state / next milestone — October 20, 2026
 
-**The company is now waiting on scoped commercial triggers rather than a false whole-company evidence barrier.** October 19 repairs corrected marketplace disposition, Fiverr authority classification, sponsorship priority and mission-evidence scoping without changing the locked CEO/C-suite architecture.
+**The company now treats economic continuation as the default pre-revenue behavior, while preserving cheap exact waiting when every economic lane is fresh or fenced.** October 20 closed anti-stale discovery, commercial due-time wake, inference-capacity scoping, funding-runway discovery, terminal parent reconciliation and mission-vs-economic priority gaps without adding a second CEO or control plane.
 
 Current public boundary:
 
-- routine Fiverr seller work is **COMPANY_OPERABLE** when existing authority/economic/executor gates admit it;
-- an owner boundary requires a **fresh observed** CAPTCHA, MFA, identity-verification or genuinely non-delegable personal/legal challenge;
-- scheduled-executive Fiverr mutation/publication remains **UNPROVEN** even though policy classification is now correct;
-- sponsorship is class-scoped and cannot suppress higher-priority buyer/reply/proposal/follow-up/Fiverr work;
-- standing mission progress advanced to **7 / 9**; unresolved O3/O4 mission-progress evidence is not a universal commercial prerequisite;
-- the post-repair internal dry run recorded **WAITING**, **0 inference calls** and **no global barriers**;
-- recognized revenue and collected cash remain **UNPROVEN / UNMEASURED** at this checkpoint.
+- the existing CEO task can receive a replaceable one-shot commercial due-time wake while PT2H remains recovery/watchdog;
+- independent economic lanes must be freshly observed or exactly fenced before mission-only WAITING is admissible;
+- `funding_runway` actively checks source-backed grants, credits, accelerators and sponsorship/resource opportunities;
+- transient model-capacity shortage is typed exactly and does not by itself suppress deterministic company work;
+- failed/retired executive work receives a bounded parent disposition instead of leaving stale `DISPATCHED` ownership;
+- buyer/reply/proposal/follow-up/Fiverr/MetaCall/MetaBot/funding/partnership/sponsorship work outranks mission-progress review;
+- Step5 was **not** promoted because the requested free route was absent from the authenticated Nous catalog at the retained qualification checkpoint;
+- recognized revenue, collected cash and funding awards remain **UNPROVEN / UNMEASURED**.
 
-The latest owner-visible Command Center state after adoption is **Company waiting**, with a class-scoped marketplace source/disposition trigger and the existing buyer-intent refresh remaining independent.
+The latest owner-visible observation is **Company waiting** on a class-scoped marketplace source/disposition condition with no active assignment or pending company event. That wait is a dated operating state, not an economic outcome.
 
-See the [October 19 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-19.md). Earlier October 18/17 reconciliations remain preserved as dated evidence.
+See the [October 20 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-20.md). Earlier dated reconciliations remain preserved as historical evidence.
 
-**Next milestone:** **SELL → CLOSE → COLLECT → DELIVER.** The remaining proof gap is commercial execution at the edge—especially governed marketplace mutation/publication and then an independently verified buyer/order/payment outcome—not another architecture cycle.
+**Next milestone:** move the now-bounded autonomous loop across the external economic edge: **SELL → CLOSE → COLLECT → DELIVER**, while continuing runway/resource acquisition in parallel.
 
 ### Preserved October 15 production evidence
 

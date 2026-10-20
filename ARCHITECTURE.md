@@ -72,6 +72,19 @@ Fresh economic opportunities should be represented separately from failed-work r
 
 See [CONTINUOUS_COMPANY_LOOP.md](CONTINUOUS_COMPANY_LOOP.md).
 
+### October 20 continuation refinements
+
+The production direction now makes several continuation invariants explicit without adding a new control plane:
+
+- **bounded economic proof before sleep:** inbound, follow-up, marketplace, pipeline, MetaCall, public buyer, MetaBot, funding and strategic-resource lanes must be current, exactly fenced, technically blocked with a clearing condition, owner-boundary blocked by fresh evidence, or actively owned before a pre-revenue WAITING state is accepted;
+- **same canonical CEO, more precise wake timing:** event wakes remain primary; a replaceable one-shot commercial due-time trigger may wake the existing CEO task before the PT2H watchdog when a valid economic checkpoint has an earlier deadline;
+- **exact parent terminal reconciliation:** terminal executive work projects one bounded parent disposition and cannot leave stale `DISPATCHED` ownership after the child is retired;
+- **capacity is scoped:** inference-capacity shortage is attached to model-required work; deterministic observation/reconciliation remains available when authorized;
+- **mission is subordinate to economics:** mission-progress clauses do not become company-wide barriers unless a specific canonical criterion is actually a global prerequisite;
+- **runway is an economic lane:** funding/resource discovery is treated as continuing company work, with awards/eligibility kept separate from preparation evidence.
+
+The PT2H trigger remains recovery/watchdog. No second scheduler, CEO, event bus or authoritative state store is introduced by these refinements.
+
 ## Operating loop
 
 The intended production loop is:

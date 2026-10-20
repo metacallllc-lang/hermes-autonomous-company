@@ -8,44 +8,33 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
-### Next milestone — autonomous revenue loop (October 19)
+### Next milestone — external economic execution (October 20)
 
-**The core build remains closed.** October 19 repairs removed false whole-company continuation blockers and narrowed the remaining problem to commercial-edge execution. Do not reopen gateway, scheduler, routing, sponsorship, mission-evidence or Fiverr owner-boundary architecture without fresh regression evidence.
+The architecture is not being reopened merely because commercial outcomes remain unproven. The immediate goal is to use the now-bounded continuation loop to create and verify real economic progress.
 
-**Commercial ordering rule:** SELL → CLOSE → COLLECT → DELIVER.
+Priority order:
 
-Current accepted boundary:
+1. active customer/order obligations;
+2. buyer replies and inbound demand;
+3. proposals/custom offers and due follow-ups;
+4. governed Fiverr/marketplace actions;
+5. qualified MetaCall opportunities;
+6. qualified MetaBot pilots;
+7. funding_runway opportunities (grants, credits, accelerators, sponsorship/resources);
+8. strategic partnerships and sponsorship;
+9. mission/internal preparation;
+10. engineering only when a concrete regression blocks higher-value execution.
 
-- routine Fiverr seller work is **COMPANY_OPERABLE** when existing action-specific gates admit it;
-- owner escalation requires a fresh observed CAPTCHA/MFA/identity/non-delegable personal/legal challenge;
-- the scheduled executive browser path has proven read/open scope, but routine Fiverr mutation/publication remains **UNPROVEN**;
-- sponsorship is class-scoped and sits below buyer/reply/proposal/follow-up/Fiverr work;
-- standing mission progress is **7 / 9 MET**; residual mission-progress evidence is not a universal commercial prerequisite;
-- a supported internal run recorded **WAITING / 0 inference calls / no global barriers**;
-- revenue and cash remain unproven.
+Acceptance focus:
 
-The next acceptance path is:
+- every pre-revenue WAITING state carries current economic-lane proof or exact fences;
+- due economic work can wake the existing CEO task before PT2H recovery;
+- model-capacity shortage blocks only work that actually requires unavailable inference when deterministic progress remains possible;
+- terminal executive results reconcile exactly once to parent work;
+- mission criteria remain subordinate to executable economic work;
+- no economic success is claimed until provider/customer/treasury evidence supports it.
 
-```text
-authenticated marketplace session
-→ actual executor tool/scope inventory
-→ routine seller mutation capability admitted
-→ governed marketplace action
-→ independent provider/result verification
-→ buyer/order
-→ proposal/close
-→ authoritative payment evidence
-→ collected cash
-→ next autonomous action
-```
-
-If the executor cannot mutate the marketplace, persist an exact **technical capability blocker** with the missing tool/scope and clearing condition. Do not convert that gap into an owner dependency.
-
-Buyer-intent discovery remains independent on the existing six-hour cadence. A fresh buyer reply/order/proposal/follow-up outranks marketplace wait and sponsorship.
-
-**Minimum operational acceptance:** one real qualified economic item selected autonomously → governed execution through the actual admitted executor → independent verification → persisted next action, without owner dispatch. First verified collected cash remains a separate and still-unachieved milestone.
-
-See the [October 19 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-19.md).
+The public milestone to chase is **SELL → CLOSE → COLLECT → DELIVER**, with verified runway/resource gains counted separately when actually awarded or activated.
 
 ### Preserved October 15 migration follow-through
 

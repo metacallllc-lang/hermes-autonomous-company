@@ -4,25 +4,22 @@ This page intentionally separates **technical proof**, **commercial activity** a
 
 Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.
 
-## Current commercial / operating snapshot — October 19
+## Current commercial / operating snapshot — October 20
 
-| Measurement | Accepted snapshot / proof boundary |
-|---|---|
-| CEO primary | `deepseek/deepseek-v4.1-flash-1017` |
-| Production funding policy | `free_nous_allowed=true`; `paid_only=false` |
-| Company continuation | **WAITING**, not globally blocked, at the latest owner-visible checkpoint |
-| Standing mission | **7 / 9 MET** after deterministic refresh |
-| Routine Fiverr seller authority | **COMPANY_OPERABLE** when existing action-specific gates admit it |
-| Scheduled-executive Fiverr mutation/publication | **NOT YET PROVEN** |
-| Sponsorship | class-scoped; does not outrank buyer/reply/proposal/follow-up/Fiverr work |
-| Supported post-repair internal run | **WAITING / 0 inference calls / no global barriers** |
-| Observed model cost | **$50.463717** at the cited owner-visible checkpoint |
-| Recognized revenue / collected cash | **NOT PROVEN / UNMEASURED** |
-| Current operating priority | **SELL → CLOSE → COLLECT → DELIVER** |
+October 20 traction is primarily **operating proof**, not an economic outcome.
 
-The October 19 traction advance is primarily **continuation correctness and commercial authority scoping**: false global blockers were removed, but an external economic result has not yet followed. The nearest proof gap is governed marketplace execution through the actual scheduled executor, followed by verified buyer/order/payment evidence.
+- economic discovery is now anti-stale across independent lanes before pre-revenue WAITING;
+- the existing CEO task has a bounded commercial due-time wake in addition to the PT2H recovery trigger;
+- natural commercial wake execution has been observed on the ordinary production path;
+- `funding_runway` actively checks source-backed resource opportunities without treating source failure as no demand;
+- source-backed Anthropic Startups and Techstars preparation opportunities entered the canonical work path in the dated acceptance window, with eligibility/award still unproven;
+- failed executive children now reconcile to exact bounded parent dispositions instead of leaving stale dispatched ownership;
+- mission-progress criteria cannot outrank due buyer, follow-up, marketplace, MetaCall, MetaBot, funding, partnership or sponsorship work;
+- latest owner-visible state was a class-scoped marketplace WAITING condition with no active assignments/events;
+- 300 pipeline records remain opportunity inventory, **not** buyers, revenue or cash;
+- recognized revenue, collected cash and funding awards remain **unproven**.
 
-See [the October 19 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-19.md).
+The next traction threshold is not another internal repair count. It is a verified external economic advance: a buyer conversation/offer, governed marketplace action, submitted/advanced funding application, sponsor commitment, paid pilot, or authoritative payment evidence.
 
 ## Commercial activity — October 9 snapshot
 

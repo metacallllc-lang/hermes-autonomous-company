@@ -211,3 +211,57 @@ Durable organizational identity, such as CEO, survives a restart; ephemeral proc
 Future Hermes upgrades require the explicit [compatibility-admission gate](../ROADMAP.md#october-15-external-learning-follow-through): isolated compatibility audit, exact target verification, gateway/profile tests, plugin/model-route regression, CEO-cycle test, governance ALLOW/DENY regression, persistence/restart/owner-loss proof, then **admit or hold**. The verified rollback checkpoint is part of the cutover reference procedure; an upstream release or update-channel selection does not itself establish compatibility.
 
 These directions preserve one CEO, one canonical company state, owner **root + veto** and watchdog-only scheduling. They introduce no new authority plane. The October 15 result establishes scoped runtime migration and recovery, **not full 24/7 autonomy, receipt settlement, complete architectural convergence or economic outcomes**. No mail, social, payment or customer/prospect action was taken to prove cutover. Delivery, replies, customers, revenue and cash are not inferred; unmeasured outcomes remain **UNKNOWN**, not zero.
+
+
+## Phase 9 — Real demand, executive overclaim, truthful decline
+
+**Dated continuation: October 21, 2026.**
+
+The project crossed an important economic boundary without crossing the revenue boundary.
+
+The existing company loop first proved that a commercial deadline earlier than the PT2H watchdog could re-arm the **same CEO task** and fire naturally. No second scheduler or polling system was added.
+
+A false inbound coverage block was then traced to page-one-only discovery. The repaired existing adapter consumed bounded complete metadata across all four configured company INBOXes. A normal scheduled read classified **279 messages** and returned **EMPTY / no new qualified identity**. The lesson was not “there are no buyers”; it was that absence can only be claimed inside measured coverage.
+
+Next, the company gained one policy-compliant live MetaCall buyer-intent source through its existing managed search and original-publisher verification path. A current public QuickBooks request was normalized, qualified, fingerprinted and naturally admitted through EconomicDiscovery into the normal opportunity/event queue.
+
+That was not a sale.
+
+The normal CRO path selected the opportunity for **internal assessment only**. The executive had no customer-send authority. It returned a confident “strong fit” narrative but did not create the required assignment-local commercial artifact. Independent verification correctly failed the attempt.
+
+The deeper finding was more valuable than a forced pass: the CRO's business reasoning was wrong. It treated payment-readiness evidence as a global prerequisite to selling and inferred delivery fit from a limited cleanup offer. Independent capacity review found that the buyer's published full role exceeded MetaCall's verified delivery envelope.
+
+The system therefore preserved two separate truths:
+
+1. the historical CRO execution failed because its required internal artifact/evidence contract was incomplete; and
+2. a later independent commercial assessment declined the published full role on **scope/capacity**, not because payment collection had not already been proven.
+
+No customer application or message was sent to manufacture acceptance. The failed identity remained failed and replay-fenced.
+
+This is a useful autonomous-company result precisely because it is not a conversion:
+
+current external demand
+→ governed admission
+→ executive assessment
+→ independent verification failure
+→ independent capacity check
+→ truthful decline
+→ preserve evidence
+→ continue searching for a verified-offer-fit buyer
+
+The lesson is that commercial autonomy needs **negative capability**: the ability to say “this is real demand, but it is not work we can honestly promise today.”
+
+The next milestone is:
+
+verified-offer-fit buyer
+→ valid CRO artifact
+→ separately governed outbound action
+→ independently verified external effect
+→ close
+→ collect
+→ deliver
+→ retain
+
+A buyer signal remains different from a customer, and neither is revenue.
+
+See [the October 21 production reconciliation](../evidence/PRODUCTION_RECONCILIATION_2026-10-21.md).

@@ -1,8 +1,22 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-20
+**Last public reconciliation:** 2026-10-21
 
 **Scope:** sanitized operating facts suitable for public release.
+
+## October 21 commercial proof boundary
+
+The latest accepted production evidence advances the system from economic-continuation control into **current buyer discovery plus truthful commercial rejection**.
+
+- earlier economic deadlines can re-arm the existing CEO task ahead of the PT2H watchdog;
+- all four configured company INBOXes were covered in the accepted inbound read, which classified **279 messages** and returned no new qualified identity;
+- one current public QuickBooks buyer signal was naturally admitted through the existing MetaCall source → EconomicDiscovery path;
+- the normal CRO assessment failed independent verification because the required internal commercial artifact was absent;
+- no customer application or send was required or attempted;
+- independent scope review declined the published full role because it exceeded the currently verified MetaCall delivery envelope;
+- customer conversion, recognized revenue and collected cash remain unproven.
+
+See [the October 21 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-21.md).
 
 ## Classification
 

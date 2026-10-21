@@ -8,26 +8,24 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
-## Current state / next milestone — October 20, 2026
+## Current state / next milestone — October 21, 2026
 
-**The company now treats economic continuation as the default pre-revenue behavior, while preserving cheap exact waiting when every economic lane is fresh or fenced.** October 20 closed anti-stale discovery, commercial due-time wake, inference-capacity scoping, funding-runway discovery, terminal parent reconciliation and mission-vs-economic priority gaps without adding a second CEO or control plane.
+**The company can now naturally discover a current external buyer signal and preserve a truthful decline when the work exceeds verified capacity.**
 
-Current public boundary:
+October 21 added four accepted operating proofs:
 
-- the existing CEO task can receive a replaceable one-shot commercial due-time wake while PT2H remains recovery/watchdog;
-- independent economic lanes must be freshly observed or exactly fenced before mission-only WAITING is admissible;
-- `funding_runway` actively checks source-backed grants, credits, accelerators and sponsorship/resource opportunities;
-- transient model-capacity shortage is typed exactly and does not by itself suppress deterministic company work;
-- failed/retired executive work receives a bounded parent disposition instead of leaving stale `DISPATCHED` ownership;
-- buyer/reply/proposal/follow-up/Fiverr/MetaCall/MetaBot/funding/partnership/sponsorship work outranks mission-progress review;
-- Step5 was **not** promoted because the requested free route was absent from the authenticated Nous catalog at the retained qualification checkpoint;
-- recognized revenue, collected cash and funding awards remain **UNPROVEN / UNMEASURED**.
+- commercial deadlines earlier than the PT2H watchdog naturally re-arm the existing CEO task;
+- the inbound adapter covered all four configured company INBOXes and classified **279 messages** without the earlier false incomplete-coverage state;
+- one policy-compliant live MetaCall source naturally admitted a current public QuickBooks buyer signal through the existing EconomicDiscovery path;
+- the subsequent internal CRO result was correctly rejected, and independent capacity review declined the published full role because it exceeded the verified MetaCall delivery envelope.
 
-The latest owner-visible observation is **Company waiting** on a class-scoped marketplace source/disposition condition with no active assignment or pending company event. That wait is a dated operating state, not an economic outcome.
+No customer application or send was required or attempted by that internal CRO assignment. No customer conversion, recognized revenue or collected cash is claimed.
 
-See the [October 20 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-20.md). Earlier dated reconciliations remain preserved as historical evidence.
+The currently verified MetaCall delivery envelope is narrower than the broader commercial roadmap: bounded, export-based QuickBooks cleanup/reconciliation/categorization/proposed-entry/reporting work, one entity, with an approximately 20-hour delivery cap.
 
-**Next milestone:** move the now-bounded autonomous loop across the external economic edge: **SELL → CLOSE → COLLECT → DELIVER**, while continuing runway/resource acquisition in parallel.
+See the [October 21 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-21.md).
+
+**Next milestone:** verified-offer-fit buyer → valid CRO artifact → separately governed outbound action → independently verified external effect → **CLOSE → COLLECT → DELIVER → RETAIN**.
 
 ### Preserved October 15 production evidence
 

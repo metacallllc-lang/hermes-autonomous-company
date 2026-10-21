@@ -4,7 +4,23 @@ This page intentionally separates **technical proof**, **commercial activity** a
 
 Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.
 
-## Current commercial / operating snapshot — October 20
+## Current commercial / operating snapshot — October 21
+
+October 21 adds **current external demand discovery** to the public proof boundary.
+
+- a commercial deadline naturally re-armed the existing CEO task ahead of the PT2H watchdog;
+- a scheduled inbound read covered all four configured company INBOXes and classified **279 messages**;
+- a live policy-compliant MetaCall source naturally admitted one current public QuickBooks buyer signal;
+- the opportunity reached normal CRO review;
+- the CRO result correctly failed verification because the required internal commercial artifact was not created;
+- no customer application or send was required or attempted;
+- independent review then declined the published full role because it exceeded verified delivery scope.
+
+This is commercial discovery and governance proof, **not customer conversion or revenue proof**.
+
+See [the October 21 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-21.md).
+
+## Preserved commercial / operating snapshot — October 20
 
 October 20 traction is primarily **operating proof**, not an economic outcome.
 

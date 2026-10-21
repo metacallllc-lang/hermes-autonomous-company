@@ -2,7 +2,9 @@
 
 This index maps major public claims to the level of evidence currently available.
 
-**Public reconciliation: 2026-10-20.** The [October 20 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-20.md) advances the current boundary without rewriting earlier evidence. Anti-stale economic discovery, one-shot commercial due-time waking on the existing CEO task, exact inference-capacity semantics, active funding-runway discovery, post-executive parent reconciliation and economic-over-mission priority are now recorded. Step5 was not promoted because the requested free route was absent from the authenticated Nous catalog at the retained qualification checkpoint. Source-backed funding preparation opportunities were observed, but no funding award, customer, recognized revenue or collected cash is claimed.
+**Public reconciliation: 2026-10-21.** The [October 21 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-21.md) adds natural commercial-deadline rearming, complete four-INBOX inbound coverage, one current public QuickBooks buyer signal admitted through the existing MetaCall discovery path, correct CRO verifier refusal, and an independent scope-based decline. No customer conversion, recognized revenue or collected cash is claimed.
+
+**Preserved October 20 reconciliation:** The [October 20 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-20.md) advances the current boundary without rewriting earlier evidence. Anti-stale economic discovery, one-shot commercial due-time waking on the existing CEO task, exact inference-capacity semantics, active funding-runway discovery, post-executive parent reconciliation and economic-over-mission priority are now recorded. Step5 was not promoted because the requested free route was absent from the authenticated Nous catalog at the retained qualification checkpoint. Source-backed funding preparation opportunities were observed, but no funding award, customer, recognized revenue or collected cash is claimed.
 
 **Preserved October 17 reconciliation:** the [October 17 paid-inference and Fiverr revenue-path record](evidence/PAID_INFERENCE_AND_FIVERR_REVENUE_PATH_2026-10-17.md) remains a historical checkpoint for the earlier paid-only/free-veto and four-gig/prepared-only state.
 
@@ -10,6 +12,13 @@ This index maps major public claims to the level of evidence currently available
 
 | Claim | Public status | Evidence level |
 |---|---|---|
+| Earlier economic deadline re-arms the existing CEO task ahead of PT2H watchdog | **SUPPORTED, SCOPED / OCTOBER 21** | naturally observed through existing task rearm → timer fire → lane evaluation → terminal persistence; no second scheduler |
+| Four configured company INBOXes are covered by the current inbound adapter | **SUPPORTED, SCOPED / OCTOBER 21** | normal scheduled read classified 279 messages and returned EMPTY; other folders/unconfigured sources are outside the claim |
+| Current public MetaCall buyer intent can enter EconomicDiscovery | **SUPPORTED, SCOPED / OCTOBER 21** | policy-compliant managed search → original-publisher verification → unchanged qualification/suppression → one naturally admitted QuickBooks opportunity |
+| That admitted buyer signal proves a customer, proposal or revenue | **NO** | no customer application/send/payment was required or attempted by the internal assessment |
+| CRO verifier correctly rejected the internal executive result | **SUPPORTED, SCOPED / OCTOBER 21** | required assignment-local commercial artifact was absent; no external action was required |
+| Published full-role buyer request fit current verified MetaCall capacity | **NO / DECLINED** | independent review found the role exceeded the bounded export-based cleanup/reconciliation envelope |
+| Current verified MetaCall delivery envelope | **SUPPORTED, SCOPED** | bounded export-based QBO cleanup/reconciliation/categorization/proposed-entry/reporting, one entity, approximately 20-hour cap; broader full-charge capability remains unproven |
 | October 17 production company inference was paid-only under owner veto | **HISTORICAL / SUPERSEDED OCTOBER 18** | later owner authorization sets `free_nous_allowed=true` / `paid_only=false` |
 | Native paid inference executed and settled | **SUPPORTED, SCOPED** | paid Sonnet request returned `PAID_ROUTE_OK`; provider-reported settled cost **$0.011641**; additional paid calls recorded |
 | Completed live paid-to-paid failover across alternatives | **NOT YET PROVEN** | live Sonnet → DeepSeek → Kimi → Gemini transition opened a paid Gemini request, but the run was interrupted before response completion |

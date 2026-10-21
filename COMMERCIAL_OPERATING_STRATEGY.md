@@ -1,6 +1,6 @@
 # Multi-Engine Commercial Operating Strategy
 
-**Updated:** 2026-10-13
+**Updated:** 2026-10-21
 
 ## Purpose
 
@@ -74,6 +74,24 @@ Target services include:
 - financial dashboards;
 - CFO-support analysis;
 - finance-process automation.
+
+### Current verified MetaCall delivery envelope
+
+The service list above describes commercial direction. It is **not** proof that every listed service is currently verified deliverable.
+
+The October 21 capacity reconciliation supports a narrower present envelope:
+
+- bounded QuickBooks Online cleanup / catch-up;
+- export-based reconciliation and categorization;
+- proposed journal-entry work rather than unverified direct posting;
+- reconciliation / exception reporting;
+- one entity;
+- bounded account/history scope;
+- approximately 20 hours of verified delivery capacity for the registered cleanup offer.
+
+The current public evidence does not establish full-charge bookkeeping ownership, 60–80 hour/month engagements, indefinite recurring bookkeeping, payroll/tax administration, controller duties, complete cash-to-accrual implementation, or broad forecasting/job-cost/divisional-finance delivery.
+
+Buyer discovery should prefer requests whose **material scope fits the verified offer**. A broader posting must not be silently rewritten into a smaller engagement; a narrower opportunity requires genuine buyer re-scoping and a separate governed action.
 
 Distribution should not depend on one outbound channel. Viable sources may include direct outreach, marketplaces, referrals, partnerships, overflow work, e-commerce operators, agencies, founder networks and local businesses.
 

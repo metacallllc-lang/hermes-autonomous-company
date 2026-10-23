@@ -140,6 +140,8 @@ Verifiers must receive recurring regression fixtures and regression checks befor
 
 ## Failure must produce learning
 
+> **Owner doctrine:** “Every fail needs to be a lesson for the c-suite improving the policy every time.”
+>
 > **Every failure needs to become a lesson for the C-suite, improving policy every time.**
 
 Failure is not only a terminal state. It is an input to institutional learning.

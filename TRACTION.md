@@ -4,6 +4,28 @@ This page intentionally separates **technical proof**, **commercial activity** a
 
 Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.
 
+## Current commercial / operating snapshot — October 22
+
+October 22 adds **semantic progress accounting** to the public operating proof.
+
+- the existing CEO/company loop now distinguishes effective state transition from mere process/tool activity;
+- canonical progress fingerprints exclude timestamps, command/query wording, model choice and ordinary process success;
+- the bounded no-effect threshold is **2 attempts**;
+- recovery switching proceeds through method → independent source → lane → objective → existing governed exact-blocker repair;
+- natural cycle `ceo-cycle-20261022T235228Z` persisted **STAGNATION**, streak **11**, with identical semantic pre/post fingerprints and zero verified transitions/effects;
+- the alternate-source attempt failed to produce a verified delegation handoff and is fenced rather than replayed;
+- Owner Attention remained clear; protected authority, charter/seal, PT2H cadence and existing architecture were preserved.
+
+Standing operating doctrine:
+
+> **Every failure needs to become a lesson for the C-suite, improving policy every time.**
+
+Failures remain evidence. The reusable lesson is extracted and, when warranted, used to harden policy/process/selector/verifier/acceptance criteria inside existing authority. Repeated same-class failure without learning is itself stagnation.
+
+This is technical/operating proof, **not buyer, customer, revenue, cash, fulfillment or delivery proof**.
+
+See [the October 22 semantic progress-watchdog evidence](evidence/SEMANTIC_PROGRESS_WATCHDOG_2026-10-22.md).
+
 ## Current commercial / operating snapshot — October 21
 
 October 21 adds **current external demand discovery** to the public proof boundary.

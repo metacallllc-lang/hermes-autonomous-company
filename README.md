@@ -8,7 +8,31 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
-## Current state / next milestone — October 21, 2026
+## Current state / next milestone — October 22, 2026
+
+**The company now distinguishes process activity from effective progress and records bounded no-effect execution as STAGNATION rather than healthy waiting.**
+
+October 22 production acceptance added a semantic progress watchdog inside the existing CEO/company loop:
+
+- canonical CEO-cycle records compare substantive pre/post company state rather than timestamps, command wording, model choice or mere tool/process success;
+- after **2 no-effect attempts**, bounded recovery switches through method → independent source → lane → objective → existing governed exact-blocker repair;
+- natural cycle `ceo-cycle-20261022T235228Z` persisted **STAGNATION** with streak **11**, identical semantic pre/post fingerprints and zero verified transitions/effects;
+- the attempted alternate-source native turn did not produce a verified delegation handoff, so that attempt is fenced and the next autonomous action is exact-blocker repair through the existing governed lifecycle;
+- charter/seal, protected history, owner root+veto, PT2H watchdog cadence and existing authority paths remained intact; no new control plane was added.
+
+Standing operating doctrine:
+
+> **Every failure needs to become a lesson for the C-suite, improving policy every time.**
+
+That means failure evidence is preserved, classified and used to harden policy/process/selector/verifier behavior when warranted. Failure does not manufacture authority, and a failed identity is not retried under a new name. Repeated failure of the same effective class without learning is itself a stagnation signal.
+
+No new buyer, customer, revenue, cash, fulfillment or delivery is claimed from this milestone.
+
+See the [October 22 semantic progress watchdog evidence](evidence/SEMANTIC_PROGRESS_WATCHDOG_2026-10-22.md) and [governance doctrine](GOVERNANCE.md#failure-must-produce-learning).
+
+**Next milestone:** exact-blocker repair → verified delegation handoff → verified-offer-fit buyer → valid CRO artifact → separately governed outbound action → independently verified external effect → **CLOSE → COLLECT → DELIVER → RETAIN**.
+
+## Preserved October 21 commercial proof
 
 **The company can now naturally discover a current external buyer signal and preserve a truthful decline when the work exceeds verified capacity.**
 

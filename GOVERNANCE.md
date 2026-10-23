@@ -138,6 +138,40 @@ A mutable classification never permits weakening a sealed boundary or expanding 
 
 Verifiers must receive recurring regression fixtures and regression checks before a verifier change is admitted: `KNOWN_GOOD` must be accepted, `KNOWN_BAD` rejected, and `AMBIGUOUS/UNKNOWN` must remain unresolved rather than be promoted to success. Fixtures must cover evidence sufficiency, authority, committed-state convergence and idle eligibility. Preserve expected versus observed decisions and independent review of failures; a verifier cannot certify its own adequacy solely by self-report.
 
+## Failure must produce learning
+
+> **Every failure needs to become a lesson for the C-suite, improving policy every time.**
+
+Failure is not only a terminal state. It is an input to institutional learning.
+
+For each verified terminal failure, the CEO/C-suite should preserve the immutable evidence, classify the effective failure class, identify the causal lesson, and determine whether policy, process, selector logic, verifier behavior or acceptance criteria should change.
+
+Rules:
+
+- a failed identity remains failed and may not be replayed or disguised under a renamed identity;
+- failure never creates new authority or justifies weakening a sealed boundary;
+- a verified lesson may harden future execution constraints inside existing authority;
+- repeated failure of the same effective class without a corresponding lesson or warranted control improvement is itself evidence of stagnation;
+- learning should be model-independent and persisted in canonical company evidence/policy rather than depending on Hermes conversation history;
+- one-off execution errors must be distinguished from systemic policy/runtime gaps so the company does not overfit a single failure into a broad unsafe rule;
+- policy changes remain subject to the same propose → commit → audit and verifier-of-verifier requirements as other mutable-with-admission surfaces.
+
+The intended loop is:
+
+```text
+failure
+→ immutable evidence
+→ failure classification
+→ causal lesson
+→ bounded policy/process improvement when warranted
+→ independent verification
+→ future execution
+```
+
+This doctrine does not mean every failure requires a code or policy change. It requires every failure to be examined for a reusable lesson, with any accepted improvement remaining inside the existing authority envelope.
+
+See [Semantic progress watchdog — October 22, 2026](evidence/SEMANTIC_PROGRESS_WATCHDOG_2026-10-22.md).
+
 ## Delegated authority
 
 MetaBot treats delegation as a bounded transfer of existing authority, not as a way to create new authority.

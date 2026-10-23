@@ -1,8 +1,33 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-21
+**Last public reconciliation:** 2026-10-22
 
 **Scope:** sanitized operating facts suitable for public release.
+
+## October 22 semantic progress-watchdog proof boundary
+
+The latest accepted production evidence distinguishes **effective company progress** from mere process activity.
+
+- canonical CEO-cycle records now persist semantic pre/post progress state independent of Hermes chat/session history;
+- timestamps, command/query wording, model changes, API/tool success and process completion do not by themselves count as progress;
+- the no-effect threshold is **2 attempts**;
+- bounded switching follows **method → independent source → lane → objective → existing governed exact-blocker repair**;
+- natural production cycle `ceo-cycle-20261022T235228Z` persisted **STAGNATION** with streak **11**, identical semantic pre/post fingerprints and zero verified transitions/new effects;
+- the selected alternate-source native turn did not produce a verified delegation handoff; that attempt is fenced rather than replayed or renamed;
+- the next autonomous progress action is exact-blocker repair through the existing governed capability/failure lifecycle;
+- Owner Attention remained clear;
+- charter/seal, protected history, PT2H cadence and existing authority paths remained intact;
+- no new CEO, scheduler, queue, database, approval path or control plane was added.
+
+Standing doctrine:
+
+> **Every failure needs to become a lesson for the C-suite, improving policy every time.**
+
+A verified failure must be preserved and examined for a reusable lesson. When warranted, policy/process/selector/verifier/acceptance criteria should be hardened inside existing authority. Repeated failure of the same effective class without learning is itself a stagnation signal. This does not allow failures to manufacture authority or justify renamed retries.
+
+No buyer, customer, recognized revenue, collected cash, fulfillment or delivery is established by this milestone.
+
+See [Semantic progress watchdog — October 22, 2026](evidence/SEMANTIC_PROGRESS_WATCHDOG_2026-10-22.md) and [Governance](GOVERNANCE.md#failure-must-produce-learning).
 
 ## October 21 commercial proof boundary
 

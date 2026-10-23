@@ -2,7 +2,9 @@
 
 This index maps major public claims to the level of evidence currently available.
 
-**Public reconciliation: 2026-10-21.** The [October 21 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-21.md) adds natural commercial-deadline rearming, complete four-INBOX inbound coverage, one current public QuickBooks buyer signal admitted through the existing MetaCall discovery path, correct CRO verifier refusal, and an independent scope-based decline. No customer conversion, recognized revenue or collected cash is claimed.
+**Public reconciliation: 2026-10-22.** The [October 22 semantic progress-watchdog record](evidence/SEMANTIC_PROGRESS_WATCHDOG_2026-10-22.md) adds canonical semantic pre/post progress accounting, a two-attempt no-effect threshold, bounded method/source/lane/objective switching and natural production STAGNATION when process activity produces no verified state transition. The selected alternate-source attempt did not produce a verified delegation handoff and is fenced; next autonomous work is exact-blocker repair through the existing governed lifecycle. No buyer, customer, recognized revenue, collected cash, fulfillment or delivery is claimed.
+
+**Preserved October 21 reconciliation:** The [October 21 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-21.md) adds natural commercial-deadline rearming, complete four-INBOX inbound coverage, one current public QuickBooks buyer signal admitted through the existing MetaCall discovery path, correct CRO verifier refusal, and an independent scope-based decline. No customer conversion, recognized revenue or collected cash is claimed.
 
 **Preserved October 20 reconciliation:** The [October 20 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-20.md) advances the current boundary without rewriting earlier evidence. Anti-stale economic discovery, one-shot commercial due-time waking on the existing CEO task, exact inference-capacity semantics, active funding-runway discovery, post-executive parent reconciliation and economic-over-mission priority are now recorded. Step5 was not promoted because the requested free route was absent from the authenticated Nous catalog at the retained qualification checkpoint. Source-backed funding preparation opportunities were observed, but no funding award, customer, recognized revenue or collected cash is claimed.
 
@@ -12,6 +14,10 @@ This index maps major public claims to the level of evidence currently available
 
 | Claim | Public status | Evidence level |
 |---|---|---|
+| Semantic progress watchdog distinguishes process activity from effective progress | **PROVEN-SCOPED / OCTOBER 22** | natural cycle `ceo-cycle-20261022T235228Z` persisted STAGNATION with streak 11, identical semantic pre/post fingerprints and zero verified transitions/effects; Command Center agreed |
+| No-effect recovery threshold and switching order | **SUPPORTED, SCOPED / OCTOBER 22** | threshold 2; method → independent source → lane → objective → existing governed exact-blocker repair; failed identities/source fences remain binding |
+| Every failure becomes a C-suite learning input | **GOVERNANCE DOCTRINE / OCTOBER 22** | failure is preserved, classified and examined for a reusable lesson; warranted policy/process/selector/verifier improvements remain inside existing authority; renamed retries and authority manufacture are prohibited |
+| October 22 progress-watchdog milestone proves buyer/revenue/cash/delivery | **NO** | no new buyer, customer, recognized revenue, collected cash, fulfillment or delivery is established by the watchdog milestone |
 | Earlier economic deadline re-arms the existing CEO task ahead of PT2H watchdog | **SUPPORTED, SCOPED / OCTOBER 21** | naturally observed through existing task rearm → timer fire → lane evaluation → terminal persistence; no second scheduler |
 | Four configured company INBOXes are covered by the current inbound adapter | **SUPPORTED, SCOPED / OCTOBER 21** | normal scheduled read classified 279 messages and returned EMPTY; other folders/unconfigured sources are outside the claim |
 | Current public MetaCall buyer intent can enter EconomicDiscovery | **SUPPORTED, SCOPED / OCTOBER 21** | policy-compliant managed search → original-publisher verification → unchanged qualification/suppression → one naturally admitted QuickBooks opportunity |

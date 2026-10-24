@@ -1,10 +1,41 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-22
+**Last public reconciliation:** 2026-10-24
 
 **Scope:** sanitized operating facts suitable for public release.
 
-## October 22 semantic progress-watchdog proof boundary
+## October 24 current production boundary
+
+The current accepted public boundary is **STAGNATION with no production-admitted CEO route**, while governance and deterministic company continuation remain intact.
+
+- charter/governance remains **sealed and verified**;
+- owner authority remains **root + veto**, not routine dispatch;
+- one CEO, one scheduler and one canonical company/evidence plane remain authoritative;
+- Owner Attention is clear at the accepted snapshot;
+- no open executive assignment or pending company event is recorded;
+- deterministic economic/source checks continue even when model-bearing work is unavailable;
+- buyer-source coverage remains incomplete, which is not evidence of no demand;
+- recorded pipeline inventory remains opportunity inventory, not customers, revenue or cash.
+
+### Route qualification vs production admission
+
+October 23–24 work separated scoped capability proof from production authority.
+
+- Beam: TOOL + CEO capability evidence measured; not production-admitted.
+- Solar Mini4: TOOL + CEO capability evidence measured; not production-admitted.
+- Step-3.7: TOOL + CEO capability evidence measured; became production-admitted; was consumed by a real CRO production turn; failed independent verification; was revoked.
+- Current production **CEO route: NONE**.
+
+The Step failure was mixed. The artifact producer omitted the exact canonical opportunity/work identity and typed field shapes; both artifact writes supplied the assignment identity instead, causing continuation identity conflict before any artifact persisted. The model also exceeded its search instruction and repeated the rejected identity. The verifier therefore correctly failed the work.
+
+The producer/contract was corrected without weakening verifier semantics, authority, tool bounds or economic requirements. The original failed identity remains failed and fenced. The route ledger now includes the production failure and normal admission recomputation keeps Step revoked. Causal lesson **L-304** preserves the diagnosis and retry policy.
+
+This milestone is operating/control evidence, not economic success. No customer, recognized revenue, collected cash, model/API credits, equipment award, sponsor commitment, investor interest, funding award, fulfillment or delivery is established.
+
+See [Production reconciliation — October 24, 2026](evidence/PRODUCTION_RECONCILIATION_2026-10-24.md).
+
+
+## Preserved October 22 semantic progress-watchdog proof boundary
 
 The latest accepted production evidence distinguishes **effective company progress** from mere process activity.
 
@@ -59,7 +90,7 @@ Ordinary repairs, model changes, tool changes, new channels, workflow changes an
 - Consequential authority is being tightened toward the intersection of delegated authority, agent role, execution service, work-item scope and resource/destination policy; parent delegation does not imply reusable child credential inheritance.
 - A missing or stale authority record blocks only the affected action rather than silently expanding permission.
 
-## Current state / next milestone — October 20
+## Preserved current-state snapshot — October 20
 
 **Production runtime: economic-first continuation with exact scoped waiting.** October 20 repairs closed latent ordering and lifecycle gaps while preserving the existing architecture.
 
@@ -87,7 +118,7 @@ See [the October 20 production reconciliation](evidence/PRODUCTION_RECONCILIATIO
 
 ## Preserved scoped evidence — October 15
 
-**Current active runtime: Hermes v0.22.2**, base commit `d923a5eb487a17c0a68801bba9ef0f56c81040a8`, plus preserved local repairs. Admission is **PASS WITH QUALIFICATION / PROVEN-SCOPED**: `max_iterations` is a hard execution bound, while `run_budget_seconds` is a soft/per-call mechanism, not a hard wall-clock kill. Replacement-lineage and D20 fixes are proven in the owner-supplied completed repair report; this funding change preserves those repairs rather than claiming a new independent reproduction of every runtime repair.
+**Dated October 15 runtime observation: Hermes v0.22.2**, base commit `d923a5eb487a17c0a68801bba9ef0f56c81040a8`, plus preserved local repairs. Admission is **PASS WITH QUALIFICATION / PROVEN-SCOPED**: `max_iterations` is a hard execution bound, while `run_budget_seconds` is a soft/per-call mechanism, not a hard wall-clock kill. Replacement-lineage and D20 fixes are proven in the owner-supplied completed repair report; this funding change preserves those repairs rather than claiming a new independent reproduction of every runtime repair.
 
 **Self-funding policy: activated restrictively; paid admission CLOSED pending recovery-cost evidence.** The fresh activation balance was $63.791292 (conservatively rounded down to microdollars); the 20% component rounded up to cents is $12.76. The full recovery/close-cycle cost and therefore the full reserve remain **UNKNOWN**. Missing proof refuses paid requests. Existing credit is runway, never replenishment. Six paid primaries remain configured; explicit per-job free selections and empty automatic fallback chains preserve that distinction. Provider renewal was cancelled at period end, with current-period access retained through November 14 and an undo control available. Verified replenishment, aligned paid spend and net inference funding delta remain **UNKNOWN**. See [the dated funding record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md).
 

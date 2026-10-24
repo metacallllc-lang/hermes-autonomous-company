@@ -1,5 +1,7 @@
 # Sponsorship and infrastructure support
 
+**Updated:** 2026-10-24
+
 ## What we are looking for
 
 MetaBot is seeking **non-dilutive support** that increases the quality, reliability and speed of the Autonomous Company OS.
@@ -81,6 +83,10 @@ Sponsorship does not automatically grant:
 - permission to weaken governance.
 
 Any additional rights require a separate explicit agreement.
+
+## Current resource boundary — October 24
+
+The build currently has no production-admitted CEO route and no independently verified new model/API credit award, hardware/equipment award, sponsor commitment or funding result. GitHub Sponsors tiers are documented below, but a public profile/tier configuration is not treated as proof of sponsor conversion or cash.
 
 ## Near-term resource objective
 

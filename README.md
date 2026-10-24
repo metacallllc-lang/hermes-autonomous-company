@@ -68,7 +68,7 @@ See the [October 21 production reconciliation](evidence/PRODUCTION_RECONCILIATIO
 
 | Observed in the October 15 production evidence | Proof boundary |
 |---|---|
-| Current production is **Hermes v0.22.2**, base commit `d923a5eb487a17c0a68801bba9ef0f56c81040a8`, with preserved local runtime repairs | Git HEAD and live runtime identity agree. v0.22.1 remains the historical migration/rollback milestone. See the [current scoped record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md). |
+| October 15 observed production was **Hermes v0.22.2**, base commit `d923a5eb487a17c0a68801bba9ef0f56c81040a8`, with preserved local runtime repairs | Git HEAD and live runtime identity agree. v0.22.1 remains the historical migration/rollback milestone. See the [current scoped record](evidence/HERMES_V0_22_2_SELF_FUNDING_2026-10-15.md). |
 | Rollback checkpoint independently verified before cutover | **8/8** database integrity checks passed; git bundle + HEAD matched; **23,622** manifest entries had zero missing files or hash mismatches. |
 | Governance loaded in production and synthetic cron admission/recovery passed | One owner; governance hook evidence advanced during the synthetic session; in-flight restart produced `claimed → running → unknown` with one execution row and no replay. |
 | Pre-existing automatic paid fallbacks were removed | All six approved paid primaries remain configured; housekeeping/per-job free selection is explicit and automatic fallback chains remain empty. Paid admission requires funding proof; this is not a total-cost measurement. |

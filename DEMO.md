@@ -1,6 +1,8 @@
 # MetaBot / Hermes CEO: a 60-second evidence walkthrough
 
-**Published 2026-10-13. Evidence window: 2026-10-12.**
+**Published 2026-10-13. Original walkthrough evidence window: 2026-10-12. Current public boundary: 2026-10-24.**
+
+> **October 24 addendum:** later evidence now includes capability-scoped TOOL/CEO qualification, separate production admission/revocation, and a real Step-3.7 CRO production turn that failed independent verification and was revoked. The current production CEO route is **NONE**; deterministic economic checks continue. See [CURRENT_STATE.md](CURRENT_STATE.md) and the [October 24 reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-24.md). The timed walkthrough below remains a preserved reconstruction of its original October 12 evidence window.
 
 One Hermes-native CEO coordinates executives under human **root + veto** authority. This walkthrough makes the public operating evidence easy to inspect. It is a reconstruction from published summaries, not a live recording or a new runtime test.
 

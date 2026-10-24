@@ -37,7 +37,7 @@ See [Production reconciliation — October 24, 2026](evidence/PRODUCTION_RECONCI
 
 ## Preserved October 22 semantic progress-watchdog proof boundary
 
-The latest accepted production evidence distinguishes **effective company progress** from mere process activity.
+The accepted October 22 production evidence distinguishes **effective company progress** from mere process activity.
 
 - canonical CEO-cycle records now persist semantic pre/post progress state independent of Hermes chat/session history;
 - timestamps, command/query wording, model changes, API/tool success and process completion do not by themselves count as progress;
@@ -62,7 +62,7 @@ See [Semantic progress watchdog — October 22, 2026](evidence/SEMANTIC_PROGRESS
 
 ## October 21 commercial proof boundary
 
-The latest accepted production evidence advances the system from economic-continuation control into **current buyer discovery plus truthful commercial rejection**.
+The accepted October 21 production evidence advanced the system from economic-continuation control into **current buyer discovery plus truthful commercial rejection**.
 
 - earlier economic deadlines can re-arm the existing CEO task ahead of the PT2H watchdog;
 - all four configured company INBOXes were covered in the accepted inbound read, which classified **279 messages** and returned no new qualified identity;

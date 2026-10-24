@@ -8,9 +8,11 @@ The core build is not being reopened.
 
 ## Immediate priorities
 
-### Next milestone — external economic execution (October 20)
+### Next milestone — external economic execution (October 24)
 
 The architecture is not being reopened merely because commercial outcomes remain unproven. The immediate goal is to use the now-bounded continuation loop to create and verify real economic progress.
+
+Current route constraint: the latest accepted production state has **CEO route NONE**. Step-3.7 was admitted, used in real CRO production, then revoked after independent verification failed; Beam and Solar Mini4 retain scoped TOOL + CEO proofs but are not currently production-admitted. Deterministic discovery continues while route admission is unavailable. Route recovery must follow current evidence/retry policy rather than bypass it.
 
 Priority order:
 

@@ -1,8 +1,8 @@
 # Continuous Company Loop
 
-**Updated:** 2026-10-13
+**Updated:** 2026-10-24
 
-**Status:** PARTIAL / PROVEN-SCOPED — real event-driven failure continuation and CFO/CMO concurrency have evidence; full 24/7 successful operation is not claimed. See [CURRENT_STATE.md](CURRENT_STATE.md) for the dated proof boundary.
+**Status:** PARTIAL / PROVEN-SCOPED — event-driven continuation, deterministic source checks, capability-scoped route evidence and production admission/revocation have evidence; the latest accepted state has **CEO route NONE** and full 24/7 successful economic operation is not claimed. See [CURRENT_STATE.md](CURRENT_STATE.md) for the dated proof boundary.
 
 ## Thesis
 

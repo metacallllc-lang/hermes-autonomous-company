@@ -1,6 +1,6 @@
 # Multi-Engine Commercial Operating Strategy
 
-**Updated:** 2026-10-21
+**Updated:** 2026-10-24
 
 ## Purpose
 
@@ -20,6 +20,12 @@ The near-term operating requirement is simpler:
 That means cash received, a paid order, an investor/acquirer meeting, a diligence request, a sponsor commitment, model credits, hardware/resources, or another externally verified economic advancement.
 
 Internal activity alone is not economic proof.
+
+### Current execution constraint — October 24
+
+The latest accepted production state has **no production-admitted CEO route**. Step-3.7 was admitted and then revoked after a real CRO production turn failed independent verification. Beam and Solar Mini4 retain scoped TOOL + CEO capability evidence but remain outside production admission. Deterministic discovery continues while model-bearing execution is unavailable.
+
+This constraint does not change commercial priority. It changes only which work can execute now: deterministic source/evidence work continues; model-bearing work waits for governed route admission. Engineering may outrank commercial work only when it is the exact blocker to an otherwise executable economic action.
 
 ## Portfolio of money engines
 

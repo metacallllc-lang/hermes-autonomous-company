@@ -4,7 +4,26 @@ This page intentionally separates **technical proof**, **commercial activity** a
 
 Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.
 
-## Current commercial / operating snapshot — October 22
+## Current commercial / operating snapshot — October 24
+
+October 24 adds **capability-scoped CEO qualification plus production admission/revocation evidence**.
+
+- qualification authority is separate from production authority;
+- Beam and Solar Mini4 retain measured TOOL + CEO capability evidence but are not production-admitted;
+- Step-3.7 earned production admission and was consumed by a real CRO production turn;
+- that turn failed independent verification after both artifact writes supplied the assignment identity where the canonical opportunity identity was required;
+- the producer contract also omitted exact typed field shapes, while the model exceeded search instructions and repeated the rejected identity;
+- no required artifact persisted, so the verifier correctly failed the objective;
+- the contract was tightened without weakening verification, authority, tool bounds or economic requirements;
+- the original failed identity remains failed/fenced and lesson **L-304** records the causal learning;
+- the route ledger now includes the production failure, Step remains revoked, and the current production **CEO route is NONE**;
+- deterministic economic checks continue with Owner Attention clear.
+
+This is operating evidence, **not customer, revenue, cash, credit, equipment, sponsor, investor, funding, fulfillment or delivery proof**.
+
+See [the October 24 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-24.md).
+
+## Preserved commercial / operating snapshot — October 22
 
 October 22 adds **semantic progress accounting** to the public operating proof.
 
@@ -26,7 +45,7 @@ This is technical/operating proof, **not buyer, customer, revenue, cash, fulfill
 
 See [the October 22 semantic progress-watchdog evidence](evidence/SEMANTIC_PROGRESS_WATCHDOG_2026-10-22.md).
 
-## Current commercial / operating snapshot — October 21
+## Preserved commercial / operating snapshot — October 21
 
 October 21 adds **current external demand discovery** to the public proof boundary.
 

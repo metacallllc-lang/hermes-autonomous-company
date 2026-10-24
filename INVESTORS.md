@@ -75,22 +75,23 @@ A company operating system must answer different questions:
 
 This project is an attempt to make those questions first-class.
 
-## Current stage
+## Current stage — October 24, 2026
 
-A new October 12 milestone adds a visible Agent OS surface: the existing read-only MetaBot Command Center now runs inside Hermes Desktop under **METABOT COMPANY**, with exact session correlation between company work and native Hermes execution.
-
-A real ordinary executive cycle has been observed through dispatch, running execution and terminal failure without the UI manufacturing success.
-
-This matters because diligence can increasingly move from claims to inspectable execution.
-
-
+The system has advanced beyond a dashboard-only proof into evidence-scoped model admission and real production revocation.
 
 - Core architecture: **BUILT / PRODUCTION**
-- Commercial activity: active
-- External customer cash collection from the current MetaBot effort: **not yet proven publicly**
-- Productization: active
-- Evidence / public case study: active
-- Source code: private
+- Governance: sealed/verified; owner remains root + veto
+- Capability evidence: bounded TOOL/CEO qualification exists independently of production admission
+- Production routing: current **CEO route NONE**
+- Step-3.7: admitted, used by a real CRO production turn, failed independent verification, causally diagnosed and revoked
+- Beam / Solar Mini4: scoped TOOL + CEO evidence measured; not production-admitted
+- Deterministic commercial discovery: continues
+- External customer cash from the current autonomous effort: **not yet proven publicly**
+- New infrastructure/model credits, equipment support, sponsor commitments or strategic-capital outcomes: **not proven**
+- Productization / public evidence: active
+- Source code: private except the public Hermes fork and sanitized evidence/docs
+
+This matters because diligence can inspect not only a happy path, but also how the system admits a route, consumes it in production, preserves a failure, learns from it, and revokes authority without rewriting history.
 
 ## Potential value paths
 

@@ -4,7 +4,30 @@ This page intentionally separates **technical proof**, **commercial activity** a
 
 Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.
 
-## Current commercial / operating snapshot — October 24
+## Current commercial / operating snapshot — October 25
+
+October 25 adds **natural production route acceptance plus the first verified current semantic commercial effect**.
+
+- the route-admission split-brain was repaired in the existing qualification/admission path;
+- 37 production-admission tests passed, including current-clock/boundary coverage;
+- natural cycle `ceo-cycle-20261025T002714Z` executed through `nous/reflection/beam-1.0-501b-a23b:free`;
+- canonical route, selector, runtime and company-state route agreed at acceptance time, with no `ROUTE_STATE_DIVERGENCE`;
+- a ContactOut human response was reconciled as already handled externally, with actor provenance preserved and follow-up due October 27;
+- an independently initiated Equisettle inbound received a governed B1 reply that was independently Sent-folder verified;
+- Equisettle advanced through `HUMAN_INBOUND → B1_REPLY_SENT → SEND_VERIFIED → AWAITING_BUYER_RESPONSE`;
+- that transition is a **verified semantic commercial effect**, but not a customer, booked demo, revenue or cash result;
+- semantic stagnation correctly detected the effect once; the comparator was then hardened to prefer the prior persisted `last_state`;
+- follow-up discovery now distinguishes due, not-due, blocked and nonexistent follow-ups rather than collapsing future work to EMPTY;
+- Fiverr QBO cleanup is held on an unsupported attestation requirement, while the AI-automation listing remains the preferred executable marketplace path via native real-Chrome control;
+- current Mercury reachability is blocked, so **CURRENT CASH is UNKNOWN** and the **LAST VERIFIED CASH** observation remains **$0.96**.
+
+The next traction threshold is one **new verified external effect**—preferably a published Fiverr AI-automation listing, new buyer response, provider/application advancement or fresh authoritative cash/resource measurement.
+
+This is commercial-effect and operating proof, **not signed-customer, booked-demo, recognized-revenue, current-cash, published-listing, fulfillment or delivery proof**.
+
+See [the October 25 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-25.md).
+
+## Preserved commercial / operating snapshot — October 24
 
 October 24 adds **capability-scoped CEO qualification plus production admission/revocation evidence**.
 

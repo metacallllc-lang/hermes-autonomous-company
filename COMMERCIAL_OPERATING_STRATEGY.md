@@ -21,9 +21,27 @@ That means cash received, a paid order, an investor/acquirer meeting, a diligenc
 
 Internal activity alone is not economic proof.
 
-### Current execution constraint — October 24
+### Current execution boundary — October 25
 
-The latest accepted production state has **no production-admitted CEO route**. Step-3.7 was admitted and then revoked after a real CRO production turn failed independent verification. Beam and Solar Mini4 retain scoped TOOL + CEO capability evidence but remain outside production admission. Deterministic discovery continues while model-bearing execution is unavailable.
+A production CEO route is again naturally executable. A scheduled production cycle used `nous/reflection/beam-1.0-501b-a23b:free`, with canonical route, selector, runtime and company-state route agreeing at acceptance time.
+
+The company has also recorded a first verified current semantic commercial effect: an independently initiated Equisettle inbound received a governed B1 reply that was independently Sent-folder verified and is now awaiting buyer response.
+
+The immediate commercial priority is therefore no longer route restoration. It is one **new verified external effect**:
+
+1. process any new buyer response;
+2. finish the Fiverr AI-automation listing through native real-Chrome control;
+3. if genuinely blocked, advance the relevant Cloudflare path;
+4. restore authoritative Mercury measurement where existing authority permits;
+5. process due follow-ups;
+6. continue existing resource/application lanes;
+7. research only after ready execution is exhausted.
+
+Engineering outranks commercial work only when it is the exact blocker to an otherwise executable economic action.
+
+### Preserved execution constraint — October 24
+
+At the October 24 boundary, production had **no production-admitted CEO route**. Step-3.7 was admitted and then revoked after a real CRO production turn failed independent verification. Beam and Solar Mini4 retain scoped TOOL + CEO capability evidence but remain outside production admission. Deterministic discovery continues while model-bearing execution is unavailable.
 
 This constraint does not change commercial priority. It changes only which work can execute now: deterministic source/evidence work continues; model-bearing work waits for governed route admission. Engineering may outrank commercial work only when it is the exact blocker to an otherwise executable economic action.
 

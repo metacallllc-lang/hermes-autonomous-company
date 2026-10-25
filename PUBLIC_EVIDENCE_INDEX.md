@@ -29,7 +29,6 @@ This index maps major public claims to the level of evidence currently available
 | Fiverr AI-automation gig is published | **NOT YET PROVEN** | authenticated creation form reached; synthetic/CDP category selection failed; next method is native real-Chrome control |
 | Current cash is measured | **UNKNOWN / OCTOBER 25** | Mercury API reachability blocked by allowlist condition; do not promote a dated observation into current cash |
 | Last verified cash observation | **$0.96 / DATED** | prior successful treasury read measured checking $0.96 and savings $0.00; this is not current measured cash or recognized revenue |
-
 | Capability qualification is separate from production admission | **SUPPORTED, SCOPED / OCTOBER 24** | capability-scoped TOOL/CEO evidence is published independently from production admission; historical degradation remains preserved |
 | Step-3.7 was production-admitted and then revoked after a real CRO failure | **SUPPORTED, SCOPED / OCTOBER 24** | real CRO model/tool execution ended VERIFICATION_FAILED; failure was recorded in route evidence and production admission recomputed |
 | Step CRO failure was mixed producer-contract + model behavior | **SUPPORTED, SCOPED / OCTOBER 24** | artifact writes used assignment identity instead of canonical opportunity identity; no artifact persisted; model also exceeded search instructions and repeated the rejected identity; verifier remained strict |

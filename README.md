@@ -8,30 +8,37 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
-## Current state / next milestone — October 24, 2026
+## Current state / next milestone — October 25, 2026
 
-**MetaBot now has capability-scoped route evidence, production admission/revocation, and causal failure learning — but no production CEO route is currently admitted.**
+**MetaBot has now restored a naturally executed production CEO route and recorded its first verified current semantic commercial effect.**
 
-October 23–24 reconciliation established a stricter operating boundary:
+October 25 reconciliation establishes:
 
-- capability qualification is separate from production authority;
-- Beam and Solar Mini4 retain measured TOOL + CEO capability evidence but are not production-admitted;
-- Step-3.7 earned production admission, was consumed by a real CRO production turn, failed independent verification, and was revoked rather than silently forgiven;
-- the Step failure was classified as mixed producer-contract omission + model behavior: the artifact path omitted the exact opportunity identity/typed field shapes, while the model exceeded the search instruction and repeated a rejected identity;
-- the producer/contract was corrected without weakening verification, authority, economic requirements or failed-work semantics;
-- the original failed identity remains preserved and lesson **L-304** records the causal learning;
-- the current production **CEO route is NONE**;
-- deterministic economic discovery continues, Owner Attention is clear, and no second CEO/scheduler/control plane was introduced.
+- natural production execution through `nous/reflection/beam-1.0-501b-a23b:free`;
+- four-way agreement across canonical route, selector, runtime and company-state route at acceptance time;
+- no route-state divergence in the natural acceptance cycle;
+- stale Command Center `CEO route: NONE` treated as projection debt unless it affects real execution;
+- ContactOut reconciled as an already handled external response with a future follow-up, preventing duplicate-send behavior;
+- an independently initiated Equisettle inbound answered through a governed B1 reply and independently Sent-folder verified;
+- typed commercial transition `HUMAN_INBOUND → B1_REPLY_SENT → SEND_VERIFIED → AWAITING_BUYER_RESPONSE`;
+- that transition counted once as a **new semantic commercial effect**;
+- follow-up state semantics hardened so future-dated/awaiting-response work is not collapsed to EMPTY;
+- Fiverr QBO cleanup correctly held on unsupported attestation, while the AI-automation gig remains the preferred executable marketplace path via native real-Chrome control;
+- **CURRENT CASH remains UNKNOWN** while the dated **LAST VERIFIED CASH** observation is **$0.96**, because Mercury API reachability is presently blocked.
 
-Standing operating doctrine:
+Pipeline records, sends, provider acceptance, meetings, internal artifacts and dated treasury observations remain distinct from customers, recognized revenue and current cash.
 
-> **Every failure needs to become a lesson for the C-suite, improving policy every time.**
+See the [October 25 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-25.md), [current proof and limits](CURRENT_STATE.md), and [claim-by-claim evidence](PUBLIC_EVIDENCE_INDEX.md).
 
-Pipeline records, route tests, model calls and internal artifacts remain distinct from customers, revenue, cash, funding, credits or delivery. No new buyer, customer, recognized revenue, collected cash, model/API credit award, equipment award, sponsor commitment, investor interest, funding, fulfillment or delivery is claimed from this milestone.
+**Next milestone:** produce one **new verified external effect**—preferably publish the Fiverr AI-automation gig or advance a real buyer/resource interaction—then continue through **SELL → CLOSE → ONBOARD → COLLECT → FULFILL → VERIFY → DELIVER → COLLECT BALANCE → RETAIN**.
 
-See the [October 24 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-24.md), [current proof and limits](CURRENT_STATE.md), and [governance doctrine](GOVERNANCE.md#failure-must-produce-learning).
+## Preserved October 24 route-admission boundary
 
-**Next milestone:** restore a production-admitted CEO route only through current evidence, then complete real executable economic work through **SELL → CLOSE → ONBOARD → COLLECT → FULFILL → VERIFY → DELIVER → COLLECT BALANCE → RETAIN**.
+At the October 24 boundary, capability qualification was separated from production authority. Beam and Solar Mini4 had measured TOOL + CEO capability evidence but were not yet production-admitted; Step-3.7 had been admitted, consumed by a real CRO turn, failed independent verification and was revoked. That route-none state remains valid historical evidence for its own observation window and is superseded by the October 25 natural Beam acceptance.
+
+The failed Step identity remains preserved and lesson **L-304** remains part of the failure-learning record.
+
+See the [October 24 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-24.md).
 
 ## Preserved October 22 semantic progress proof
 

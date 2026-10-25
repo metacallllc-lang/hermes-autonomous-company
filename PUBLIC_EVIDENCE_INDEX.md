@@ -2,7 +2,9 @@
 
 This index maps major public claims to the level of evidence currently available.
 
-**Public reconciliation: 2026-10-24.** The [October 24 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-24.md) advances the public boundary through capability-scoped route qualification, separate production admission/revocation, a real Step-3.7 CRO production failure, causal diagnosis and contract correction. Step-3.7 remains revoked; Beam and Solar Mini4 retain measured TOOL + CEO capability evidence but are not production-admitted; the current production CEO route is **NONE**. Deterministic economic checks continue under sealed governance with Owner Attention clear. No customer, recognized revenue, collected cash, model/API credit award, equipment award, sponsor commitment, investor interest, funding, fulfillment or delivery is claimed.
+**Public reconciliation: 2026-10-25.** The [October 25 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-25.md) advances the public boundary through repaired route admission, natural Beam production execution, four-way route agreement, ContactOut external-effect reconciliation, an independently initiated Equisettle inbound with a governed and independently Sent-folder-verified B1 reply, corrected semantic-effect comparison, explicit follow-up states, bounded Fiverr attestation/method-failure semantics, and strict current-vs-last-verified cash truth. The Equisettle transition is a verified semantic commercial effect, not a customer, booked demo, recognized-revenue or cash result. Current Mercury reachability is blocked, so current cash remains UNKNOWN while the last verified dated cash observation is $0.96.
+
+**Preserved October 24 reconciliation:** The [October 24 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-24.md) remains the historical route-none boundary. At that checkpoint Step-3.7 had been revoked after a real CRO failure while Beam and Solar Mini4 retained scoped capability evidence but were not yet production-admitted.
 
 **Preserved October 22 reconciliation:** The [October 22 semantic progress-watchdog record](evidence/SEMANTIC_PROGRESS_WATCHDOG_2026-10-22.md) added canonical semantic pre/post progress accounting, a two-attempt no-effect threshold, bounded method/source/lane/objective switching and natural production STAGNATION when process activity produced no verified state transition. The selected alternate-source attempt did not produce a verified delegation handoff and was fenced rather than replayed.
 
@@ -16,10 +18,21 @@ This index maps major public claims to the level of evidence currently available
 
 | Claim | Public status | Evidence level |
 |---|---|---|
+| Natural Beam production execution on October 25 | **SUPPORTED, SCOPED / OCTOBER 25** | natural scheduled cycle `ceo-cycle-20261025T002714Z` used Beam; canonical route, selector, runtime and company-state route agreed; no route-state divergence observed |
+| Current production CEO route | **BEAM / OCTOBER 25 ACCEPTANCE WINDOW** | `nous/reflection/beam-1.0-501b-a23b:free` executed naturally through the existing scheduler; later UI route-none display is projection-staleness unless it affects execution |
+| Equisettle inbound + governed reply | **VERIFIED SEMANTIC COMMERCIAL EFFECT / OCTOBER 25** | independently initiated inbound; governed B1 reply; independent Sent-folder verification; typed state now awaiting buyer response |
+| Equisettle effect proves customer/demo/revenue/cash | **NO** | no post-reply buyer response, booked demo, customer, recognized revenue or collected cash is established |
+| ContactOut response disposition | **HANDLED EXTERNALLY / FOLLOW-UP PENDING** | prior external response independently reconciled; actor provenance preserved; follow-up due October 27; duplicate send not warranted |
+| Follow-up lane distinguishes due / not-due / blocked / nonexistent | **SUPPORTED, SCOPED / OCTOBER 25** | `EconomicDiscovery.followups()` no longer collapses future/awaiting-response follow-ups to EMPTY |
+| Semantic comparator preserves new-effect detection | **SUPPORTED, SCOPED / OCTOBER 25** | comparison prefers previous persisted `last_state` and uses current-cycle pre-state only as fallback |
+| Fiverr QBO cleanup is executable now | **NO / HELD** | platform presented financial-services licensing/attestation requirement with no verified support; unchanged clearing condition must not be retried |
+| Fiverr AI-automation gig is published | **NOT YET PROVEN** | authenticated creation form reached; synthetic/CDP category selection failed; next method is native real-Chrome control |
+| Current cash is measured | **UNKNOWN / OCTOBER 25** | Mercury API reachability blocked by allowlist condition; do not promote a dated observation into current cash |
+| Last verified cash observation | **$0.96 / DATED** | prior successful treasury read measured checking $0.96 and savings $0.00; this is not current measured cash or recognized revenue |
+
 | Capability qualification is separate from production admission | **SUPPORTED, SCOPED / OCTOBER 24** | capability-scoped TOOL/CEO evidence is published independently from production admission; historical degradation remains preserved |
 | Step-3.7 was production-admitted and then revoked after a real CRO failure | **SUPPORTED, SCOPED / OCTOBER 24** | real CRO model/tool execution ended VERIFICATION_FAILED; failure was recorded in route evidence and production admission recomputed |
 | Step CRO failure was mixed producer-contract + model behavior | **SUPPORTED, SCOPED / OCTOBER 24** | artifact writes used assignment identity instead of canonical opportunity identity; no artifact persisted; model also exceeded search instructions and repeated the rejected identity; verifier remained strict |
-| Current production CEO route | **NONE / OCTOBER 24** | Beam and Solar Mini4 retain scoped TOOL + CEO evidence but are not production-admitted; Step remains revoked |
 | October 24 milestone proves customer/revenue/cash/credits/equipment/funding | **NO** | no such external economic result is independently established |
 | Semantic progress watchdog distinguishes process activity from effective progress | **PROVEN-SCOPED / OCTOBER 22** | natural cycle `ceo-cycle-20261022T235228Z` persisted STAGNATION with streak 11, identical semantic pre/post fingerprints and zero verified transitions/effects; Command Center agreed |
 | No-effect recovery threshold and switching order | **SUPPORTED, SCOPED / OCTOBER 22** | threshold 2; method → independent source → lane → objective → existing governed exact-blocker repair; failed identities/source fences remain binding |
@@ -36,7 +49,7 @@ This index maps major public claims to the level of evidence currently available
 | Native paid inference executed and settled | **SUPPORTED, SCOPED** | paid Sonnet request returned `PAID_ROUTE_OK`; provider-reported settled cost **$0.011641**; additional paid calls recorded |
 | Completed live paid-to-paid failover across alternatives | **NOT YET PROVEN** | live Sonnet → DeepSeek → Kimi → Gemini transition opened a paid Gemini request, but the run was interrupted before response completion |
 | Existing Nous credit before live paid acceptance | **$60.085813, DATED / HISTORICAL** | later owner-visible checkpoint reports approximately **$13.26 usable credit**; neither figure is revenue |
-| Current cash is $0.96 | **SUPPORTED, SCOPED / AS-OF OCTOBER 17** | fresh treasury producer returned current/available cash of $0.96; this is not recognized revenue |
+| Historical treasury measurement of $0.96 | **SUPPORTED, SCOPED / DATED** | prior treasury producer returned $0.96; current Mercury reachability is blocked, so this value is historical rather than current |
 | Recognized revenue is known to be $0 | **NO / UNKNOWN** | no authoritative recognized-revenue amount is established; no customer payment is claimed |
 | Three observed Upwork cleanup listings are executable pipeline | **NO** | owner has no Upwork account; listings are retained as market-demand evidence only |
 | Fiverr is the primary executable marketplace path | **SUPPORTED AS OPERATING DIRECTION / AUTHORITY CORRECTED OCTOBER 19** | authenticated seller presence exists; routine seller work is company-operable when action-specific gates admit it; scheduled-executive mutation/publication remains unproven |

@@ -1,10 +1,36 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-24
+**Last public reconciliation:** 2026-10-25
 
 **Scope:** sanitized operating facts suitable for public release.
 
-## October 24 current production boundary
+## October 25 current production boundary
+
+The current accepted public boundary is **natural Beam production execution plus one verified current semantic commercial effect**, while governance, verification and strict economic nonclaims remain intact.
+
+- the route-admission split-brain was repaired in the existing route qualification/admission path;
+- 37 production-admission tests passed, including current-clock/boundary coverage;
+- natural cycle `ceo-cycle-20261025T002714Z` executed through `nous/reflection/beam-1.0-501b-a23b:free`;
+- canonical route, selector, runtime and company-state route agreed at acceptance time;
+- no `ROUTE_STATE_DIVERGENCE` occurred in that natural acceptance;
+- stale Command Center display of `CEO route: NONE` is treated as projection staleness unless it affects execution;
+- ContactOut is reconciled as an already handled external effect with a future follow-up due October 27; duplicate sending is not warranted;
+- an independently initiated Equisettle inbound received a governed B1 reply that was independently Sent-folder verified;
+- the typed Equisettle transition is `HUMAN_INBOUND → B1_REPLY_SENT → SEND_VERIFIED → AWAITING_BUYER_RESPONSE`;
+- that Equisettle transition is a **verified semantic commercial effect**, not customer/revenue/cash proof;
+- follow-up discovery now distinguishes due, not-due, blocked and nonexistent states instead of collapsing future work to EMPTY;
+- the semantic comparator now prefers the previously persisted `last_state`, preventing a real effect from becoming indistinguishable when pre-state already contains it;
+- Fiverr QBO cleanup is held on an unsupported financial-services attestation requirement;
+- the Fiverr AI-automation gig reached the authenticated form; synthetic React selection failed, so the next authorized method is native real-Chrome control rather than owner browser operation;
+- current Mercury API reachability is blocked, so **CURRENT CASH = UNKNOWN** while **LAST VERIFIED CASH = $0.96** from the dated treasury read.
+
+The preferred next proof is one **new verified external effect**, with a published Fiverr AI-automation gig or a new buyer/resource advancement preferred over more generic research.
+
+This milestone does **not** establish a signed customer, booked demo, recognized revenue, current measured cash, published Fiverr listing, activated credits, equipment award, fulfillment or delivery.
+
+See [Production reconciliation — October 25, 2026](evidence/PRODUCTION_RECONCILIATION_2026-10-25.md).
+
+## Preserved October 24 production boundary
 
 The current accepted public boundary is **STAGNATION with no production-admitted CEO route**, while governance and deterministic company continuation remain intact.
 

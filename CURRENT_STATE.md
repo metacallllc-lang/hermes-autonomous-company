@@ -32,7 +32,7 @@ See [Production reconciliation — October 25, 2026](evidence/PRODUCTION_RECONCI
 
 ## Preserved October 24 production boundary
 
-The current accepted public boundary is **STAGNATION with no production-admitted CEO route**, while governance and deterministic company continuation remain intact.
+At the October 24 boundary, the accepted public state was **STAGNATION with no production-admitted CEO route**, while governance and deterministic company continuation remained intact.
 
 - charter/governance remains **sealed and verified**;
 - owner authority remains **root + veto**, not routine dispatch;
@@ -50,7 +50,7 @@ October 23–24 work separated scoped capability proof from production authority
 - Beam: TOOL + CEO capability evidence measured; not production-admitted.
 - Solar Mini4: TOOL + CEO capability evidence measured; not production-admitted.
 - Step-3.7: TOOL + CEO capability evidence measured; became production-admitted; was consumed by a real CRO production turn; failed independent verification; was revoked.
-- Current production **CEO route: NONE**.
+- October 24 production **CEO route: NONE**.
 
 The Step failure was mixed. The artifact producer omitted the exact canonical opportunity/work identity and typed field shapes; both artifact writes supplied the assignment identity instead, causing continuation identity conflict before any artifact persisted. The model also exceeded its search instruction and repeated the rejected identity. The verifier therefore correctly failed the work.
 

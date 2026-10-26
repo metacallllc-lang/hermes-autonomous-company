@@ -1,6 +1,6 @@
 # Multi-Engine Commercial Operating Strategy
 
-**Updated:** 2026-10-24
+**Updated:** 2026-10-26
 
 ## Purpose
 
@@ -21,7 +21,26 @@ That means cash received, a paid order, an investor/acquirer meeting, a diligenc
 
 Internal activity alone is not economic proof.
 
-### Current execution boundary — October 25
+### Current execution boundary — October 26
+
+The commercial operating priority is now explicitly:
+
+**SELL → FOLLOW UP → CLOSE → COLLECT → ONBOARD → FULFILL → VERIFY → DELIVER → RETAIN**
+
+Recent October 26 evidence says the company should not wait for another broad infrastructure project before selling:
+
+- outbound send, reply detection and governed reply send are reported READY in the latest commercial-readiness snapshot;
+- B1 outbound authority is authorized;
+- payment rails are enabled and collect_payment is CONFIGURED, with live proof intentionally waiting on a real customer receipt rather than a synthetic transaction;
+- the latest dated pipeline snapshot contains a large READY_TO_CONTACT cohort plus current HUMAN reply states;
+- a ContactOut no-cost resource offer can improve prospecting capacity if activated, but it is not revenue or buyer demand;
+- CMO distribution and CFO funding/resource work are independent economic lanes and should continue while another executive lane waits.
+
+Current engineering priority is therefore narrow: repair only fresh defects that directly block decision → external action → verified result. Command Center/read-side projection defects and executive-profile execution remain important, but they must not freeze otherwise authorized CEO commercial work.
+
+The immediate economic proof target is **a qualified buyer closed into an independently verified payment receipt**.
+
+### Preserved execution boundary — October 25
 
 A production CEO route is again naturally executable. A scheduled production cycle used `nous/reflection/beam-1.0-501b-a23b:free`, with canonical route, selector, runtime and company-state route agreeing at acceptance time.
 

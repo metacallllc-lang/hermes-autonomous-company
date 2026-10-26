@@ -4,7 +4,27 @@ This page intentionally separates **technical proof**, **commercial activity** a
 
 Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.
 
-## Current commercial / operating snapshot — October 25
+## Current commercial / operating snapshot — October 26
+
+October 26 shifts the primary traction question from **can the system route/dispatch?** toward **can it convert a qualified buyer into collected money?**
+
+- recent acceptance evidence preserved exactly-one-gateway and cron/scheduler continuity without reopening architecture;
+- a bounded free Solar admission was observed during the October 26 acceptance window, while later Command Center projection became stale/degraded;
+- CRO assignment **7b2c5c7d1592** was truthfully reconciled as **TIMED_OUT_NEVER_RAN** rather than being promoted from dispatch to execution;
+- latest commercial readiness reports outbound send, reply detection and governed reply send as **READY**;
+- the payment mechanism is **CONFIGURED** with Mercury ACH/wire and invoicing enabled, but no real customer receipt has live-verified collection;
+- latest dated pipeline state shows 287 contact endpoints, 247 READY_TO_CONTACT, 34 CONTACTED, 3 REPLIED and 1 REPLY_SENT_NO_RESPONSE;
+- ContactOut offered an extended no-cost trial of approximately 2,000 contacts; this is a resource offer, not revenue/cash;
+- social distribution remains a live demand-generation lane: an empty MetaBot queue is **CONTENT_GENERATION_DUE** when fresh evidence exists;
+- current cash remains UNKNOWN while the last verified dated cash observation remains $0.96.
+
+The next traction threshold is **qualified buyer → governed close → independently verified payment receipt**. Funding/resource acquisition and CMO distribution should continue in parallel rather than waiting behind one technical lane.
+
+This is commercial-readiness and operating proof, **not customer, recognized-revenue, collected-cash, repeatable-acquisition or self-funding proof**.
+
+See [the October 26 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-26.md).
+
+## Preserved commercial / operating snapshot — October 25
 
 October 25 adds **natural production route acceptance plus the first verified current semantic commercial effect**.
 

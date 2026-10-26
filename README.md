@@ -8,7 +8,28 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
-## Current state / next milestone — October 25, 2026
+## Current state / next milestone — October 26, 2026
+
+**MetaBot / MetaCall is now prioritizing customer conversion over additional broad infrastructure work.**
+
+The October 26 reconciliation adds a stricter commercial boundary:
+
+- recent acceptance evidence measured exactly one healthy authorized gateway, healthy cron admission and scheduler/supervisor continuity;
+- a free Solar CEO route was admitted during a bounded proof window, while later Command Center views became stale/degraded and must not be treated as stronger than canonical evidence;
+- CRO assignment **7b2c5c7d1592** was reconciled as **TIMED_OUT_NEVER_RAN / terminal TIMED_OUT** after the subagent failed to execute; no blind replay was performed;
+- the latest commercial-readiness snapshot reports outbound send, reply detection and governed reply send as **READY**, with B1 authorized;
+- Mercury ACH/wire and invoicing are enabled and **collect_payment is CONFIGURED**, but no real customer payment has yet live-verified the collection path;
+- a ContactOut representative offered an extended no-cost trial of approximately **2,000 contacts**; this is a resource/vendor opportunity, not customer, revenue, cash or funding;
+- MetaBot social queue exhaustion is now treated as **CONTENT_GENERATION_DUE** when fresh verified material exists; MetaCall publishing and LinkedIn remain separately blocked on credential/review conditions in the latest accepted observation;
+- **CURRENT CASH remains UNKNOWN** unless freshly measured; **LAST VERIFIED CASH remains $0.96** from the dated treasury observation.
+
+The commercial priority is now **SELL → FOLLOW UP → CLOSE → COLLECT → ONBOARD → FULFILL → VERIFY → DELIVER → RETAIN**. Engineering should outrank commercial execution only when a fresh measured defect directly blocks that chain.
+
+See the [October 26 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-26.md), [current proof and limits](CURRENT_STATE.md), and [claim-by-claim evidence](PUBLIC_EVIDENCE_INDEX.md).
+
+**Next milestone:** convert a qualified buyer into a governed close and independently verified payment receipt while funding/resource acquisition and social distribution continue in parallel.
+
+## Preserved October 25 production boundary
 
 **MetaBot has now restored a naturally executed production CEO route and recorded its first verified current semantic commercial effect.**
 

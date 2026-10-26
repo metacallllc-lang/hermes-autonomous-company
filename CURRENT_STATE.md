@@ -1,10 +1,31 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-25
+**Last public reconciliation:** 2026-10-26
 
 **Scope:** sanitized operating facts suitable for public release.
 
-## October 25 current production boundary
+## October 26 current production boundary
+
+The accepted October 26 boundary is **commercially executable in several rails, with executive-delegation and Command Center/read-side defects still open**.
+
+- recent acceptance evidence measured exactly one healthy authorized gateway and passing cron admission without adding another gateway;
+- scheduler/supervisor continuity passed in the accepted repair window;
+- a free Solar CEO route was admitted during a bounded October 26 proof window; later observer views showing route/scheduler/loop UNKNOWN are treated as read/projection uncertainty unless canonical runtime evidence confirms an actual failure;
+- CRO assignment **7b2c5c7d1592** was reconciled to **TIMED_OUT_NEVER_RAN / terminal TIMED_OUT** because the subagent never executed; stale UI projections must not promote it back to active;
+- commercial readiness reports **send READY**, **detect_reply READY**, **answer_reply READY**, with B1 authorized and mail authentication verified at the recorded checkpoint;
+- Mercury ACH/wire and invoicing are enabled and **collect_payment is CONFIGURED**, but a real customer payment has not yet live-verified the collection path;
+- the latest dated pipeline snapshot shows 287 contact endpoints, including 247 READY_TO_CONTACT, 34 CONTACTED, 3 REPLIED and 1 REPLY_SENT_NO_RESPONSE; these states are not customers, revenue or cash;
+- ContactOut offered an extended no-cost API trial of approximately 2,000 contacts; the public state remains resource/vendor opportunity, with send/activation unclaimed absent independent evidence;
+- MetaBot social queue exhaustion is not permanent completion: fresh verified evidence makes the lane CONTENT_GENERATION_DUE; MetaCall publishing and LinkedIn remain separately blocked in the latest accepted observations;
+- **CURRENT CASH = UNKNOWN** unless freshly measured; **LAST VERIFIED CASH = $0.96** from the dated treasury read.
+
+The operating priority is now **SELL → FOLLOW UP → CLOSE → COLLECT → ONBOARD → FULFILL → VERIFY → DELIVER → RETAIN**. Engineering is subordinate unless a fresh measured defect directly blocks commercial execution.
+
+This boundary does **not** establish a signed customer, booked demo, recognized revenue, collected customer cash, ContactOut activation, sponsor/grant/VC receipt, activated startup credits, LinkedIn organization publishing, fully reliable C-suite execution, or universal 24/7 economic autonomy.
+
+See [Production reconciliation — October 26, 2026](evidence/PRODUCTION_RECONCILIATION_2026-10-26.md).
+
+## Preserved October 25 production boundary
 
 The current accepted public boundary is **natural Beam production execution plus one verified current semantic commercial effect**, while governance, verification and strict economic nonclaims remain intact.
 

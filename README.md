@@ -8,6 +8,14 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
+## Current operating boundary — October 29, 2026
+
+**Measured engineering progress; not yet autonomous commercial operation.** The owner can now park resource-intensive company compute independently of the C-suite delegation pause, with Windows owner authentication, durable audit, restart prevention and observable process/resource status. At the recorded acceptance, **zero identified executive processes** remained while parked. Total PC CPU nevertheless fluctuated widely; no overall performance cure or controlled speedup is claimed.
+
+**The next hard blocker is model admission:** the production CEO route was **NONE** in the latest verified operating cycle; no current admissible TOOL + CEO proof pair was available. Genuine CEO/C-suite autonomous completion, a paying customer, collected new revenue and a live sponsor checkout remain **unproven**. Background schedules are intentionally parked when the owner needs the computer, not continuously running.
+
+**For engineering reviewers and potential sponsors:** [October 29 scoped production milestone](evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md) · [Evidence and outstanding limits](CURRENT_STATE.md) · [Support verification and inference capacity](SPONSORSHIP.md). Sponsorship supports validation, not privileged access or relaxed governance. Older dated milestones below remain historical evidence, **not current live status**.
+
 ## Current state / next milestone — October 26, 2026
 
 **MetaBot / MetaCall is now prioritizing customer conversion over additional broad infrastructure work.**

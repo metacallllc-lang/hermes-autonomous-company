@@ -1,5 +1,8 @@
 # Traction and proof
 
+> **Latest engineering evidence — 2026-10-29:** The privately operated company now has separate authenticated C-suite delegation and company-compute OFF/PARKED controls. Recorded acceptance observed zero identified executive processes while parked. Windows CPU remained volatile, so this is a scoped resource-control milestone, **not** an attributed PC-wide performance improvement, restored CEO inference, proven paid customer or revenue. See [October 29 scoped production milestone](evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md) and [current limitations](CURRENT_STATE.md). The older dated observations below remain historical.
+
+
 This page intentionally separates **technical proof**, **commercial activity** and **revenue proof**.
 
 Figures below are dated. The October 16 snapshot comes from the completed owner-supplied repair report and retained evidence described in the [dated record](evidence/COMPANY_OPERATIONS_AND_REVENUE_BOUNDARY_2026-10-16.md); older send totals retain their original canonical-ledger reconciliation windows. Cohorts are not added together without fresh aggregation.

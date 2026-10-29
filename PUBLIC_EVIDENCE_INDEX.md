@@ -2,6 +2,19 @@
 
 This index maps major public claims to the level of evidence currently available.
 
+**Latest scoped update — October 29, 2026.** [October 29 scoped production milestone](evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md) records two distinct authenticated owner controls, locally verified OFF/PARKED state with zero identified executive processes, bounded read/restart behavior and important CPU attribution caveats. This is **PRIVATE-RUNTIME OBSERVATION / SANITIZED PUBLIC SUMMARY**, not open-source release or externally reproducible full-stack attestation.
+
+| October 29 claim | Scoped status | Limitation |
+|---|---|---|
+| Owner can pause new executive delegation | **LOCALLY VERIFIED / CONTROL** | Does not itself stop all existing CPU-intensive work |
+| Owner can park company compute | **LOCALLY VERIFIED / CONTROL** | Identified executive workload at zero in accepted samples; unrelated CPU still volatile |
+| Production CEO model route available | **NO / ROUTE NONE AT LAST ACCEPTED WINDOW** | Missing admissible fresh TOOL + CEO evidence; existing failure fences retained |
+| Full 24/7 autonomous operation | **NOT PROVEN** | Owner's company-compute mode deliberately PARKED in accepted state |
+| Paying customers / new company revenue | **NOT PROVEN** | No verified new payment or independently delivered paid order |
+| Public sponsor checkout | **NOT VERIFIED LIVE** | Published tiers alone are not an active checkout or sponsor receipt |
+
+Older claim rows below are dated observations and should not be read as contradicting the latest route-none or parked operating boundary.
+
 **Public reconciliation: 2026-10-26.** The [October 26 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-26.md) advances the public boundary through recent exactly-one-gateway/cron acceptance, bounded Solar production admission, truthful reconciliation of a CRO assignment that was dispatched but never executed, commercial-readiness evidence showing send/reply rails READY, payment collection CONFIGURED but not live-verified, a ContactOut no-cost resource offer, renewed social-distribution continuity, strict current-vs-last-verified cash truth, and explicit Command Center/read-side uncertainty. The company is now prioritizing qualified buyer conversion into verified payment rather than another broad infrastructure rebuild. This does not establish a customer, recognized revenue, collected customer cash, trial activation, sponsor/grant/VC receipt, activated startup credits, LinkedIn publishing, full C-suite reliability or universal 24/7 autonomy.
 
 **Preserved October 25 reconciliation:** The [October 25 production reconciliation](evidence/PRODUCTION_RECONCILIATION_2026-10-25.md) advances the public boundary through repaired route admission, natural Beam production execution, four-way route agreement, ContactOut external-effect reconciliation, an independently initiated Equisettle inbound with a governed and independently Sent-folder-verified B1 reply, corrected semantic-effect comparison, explicit follow-up states, bounded Fiverr attestation/method-failure semantics, and strict current-vs-last-verified cash truth. The Equisettle transition is a verified semantic commercial effect, not a customer, booked demo, recognized-revenue or cash result. Current Mercury reachability is blocked, so current cash remains UNKNOWN while the last verified dated cash observation is $0.96.

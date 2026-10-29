@@ -1,5 +1,17 @@
 # Company runtime and repository audit — October 29, 2026
 
+## Current availability boundary — October 29, 22:14 UTC
+
+The authenticated provider catalog subsequently withdrew `inclusionai/ling-3.1-flash:free`. The existing production wake correctly refused its use when current price evidence was unavailable. The earlier TOOL and inert CEO qualification results remain real, but they do not establish current model availability or a completed production C-suite run. **Full autonomous executive operation remains blocked on current model availability and normal admission.** Delegation permission remains enabled; protected reserves and paid inference authority are unchanged.
+
+A capacity hold now keeps company events unacknowledged while existing deterministic checks continue. Its reconciliation runs on the existing scheduled wake, rechecks current catalog evidence and all normal production gates, and can clear this capacity hold only for an admitted exact free route. It cannot override an owner pause or a manual hold. Missing current catalog evidence does not consume a once-only proof-renewal attempt. Failed identities remain fenced. This is recovery logic, not proof that unattended recovery has already occurred.
+
+The audit also fixed historical-log scanning to process every JSONL record with bounded memory, reused health evidence only inside its freshness window, and retained an immutable hold snapshot for launcher completion. Focused regression checks cover event retention, freshness, exact proof admission and hold reconciliation.
+
+The separate private sandbox candidate rejects cross-assignment evidence substitution and missing accepted assignments. Its 13 tests pass in normal and optimized Python, including after wheel installation; six installed CLI commands pass. Two same-toolchain wheel builds are byte-identical. The alpha remains unreleased. These private runtime and sandbox changes are not executable code shipped by these documentation repositories.
+
+Repository documentation checks pass on all four owned repositories. The Hermes fork's blocking source checks pass for the scoped documentation helper change; inherited CI/Nix jobs on custom runners remain separately unverified. This audit does not certify every upstream test or the entire historical company guard aggregate. No customer, revenue or cash result is claimed.
+
 This is a dated, sanitized engineering observation. It is not an attestation of continuously active executive autonomy.
 
 ## Verified wake repair

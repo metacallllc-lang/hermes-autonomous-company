@@ -1,5 +1,7 @@
 # Public evidence index
 
+
+**Latest audit:** [October 29 runtime wake and repository/build boundaries](evidence/COMPANY_AUDIT_2026-10-29.md). This is deterministic continuation evidence; full executive autonomy remains unproven at the checkpoint.
 This index maps major public claims to the level of evidence currently available.
 
 **Latest scoped update — October 29, 2026.** [October 29 scoped production milestone](evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md) records two distinct authenticated owner controls, locally verified OFF/PARKED state with zero identified executive processes, bounded read/restart behavior and important CPU attribution caveats. This is **PRIVATE-RUNTIME OBSERVATION / SANITIZED PUBLIC SUMMARY**, not open-source release or externally reproducible full-stack attestation.

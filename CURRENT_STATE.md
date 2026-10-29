@@ -1,8 +1,22 @@
 # Current public state
 
-**Last public reconciliation:** 2026-10-26
+**Last public reconciliation:** 2026-10-29
 
 **Scope:** sanitized operating facts suitable for public release.
+
+## Later qualification and resume — 21:25 UTC
+
+An authenticated provider catalog introduced the previously unattempted exact free identity `inclusionai/ling-3.1-flash:free`. It passed one native TOOL session and one separate inert CEO-contract session: **four requests total, provider cost receipts zero**. Both retained results were independently verified, including the exact harmless tool call, typed terminal, non-route gates and route identity. The CEO qualifier's exact candidate set was extended for this identity; historical verifier bytes were archived and historical proof regression checks still pass.
+
+The audit also reproduced an admission defect: an aggregate `SUITABLE` result could bypass current independent proof checks. The repaired path applies the same TOOL/CEO verification and expiry checks to that branch. Five adversarial cases failed before the repair; all six cases passed afterward. A successful aggregate history is not a perpetual admission.
+
+Normal production admission accepted the new route with an expiry of **03:22:33 UTC on October 30**. At 21:25 UTC, the Windows owner control enabled delegation, and the satisfied model-wake hold was archived and cleared. The protected charter and paid-inference authority were unchanged. This establishes **a qualified route and resumed permission**, not yet an independently verified live C-suite production outcome or continuous commercial autonomy.
+
+Clearing the hold exposed a completion-recording race in the preceding held launcher pass. The recorder now retains the hold snapshot when that branch is taken, before a long audit. The earlier pass's completion remains unverified; it was not retroactively called a successful CEO turn. The subsequent existing wake is the production verification target.
+
+## October 29 — launcher completion and distinct execution controls
+
+At 21:01:32 UTC, a scheduled launcher pass completed with `MODEL_WAKE_HELD`, zero inference calls and no event acknowledgements. Company state and health refreshed while delegation stayed paused. Compute permission and executive-start permission now gate their own stages; current-fire receipts resolve the missing-terminal projection without rewriting older CEO results. **This proves deterministic continuation, not executive autonomy.** [Dated audit](evidence/COMPANY_AUDIT_2026-10-29.md).
 
 ## October 29 — latest scoped production and resource-control boundary
 
@@ -18,7 +32,7 @@
 
 **Evidence scope:** [October 29 scoped production milestone](evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md). The underlying production records remain private; this page is a sanitized account, not a public runtime attestation.
 
-## October 26 current production boundary
+## Preserved October 26 production boundary
 
 The accepted October 26 boundary is **commercially executable in several rails, with executive-delegation and Command Center/read-side defects still open**.
 

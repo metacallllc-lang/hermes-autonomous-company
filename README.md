@@ -8,6 +8,14 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 ![MetaBot operating model: owner authority, one Hermes CEO, executives, verification and canonical state. Architecture illustration, not a live runtime capture.](assets/company-loop.svg)
 
+## Latest operating progress — October 29, 21:25 UTC
+
+A newly catalogued exact free model passed separate independently verified TOOL and inert CEO qualification. Normal admission accepted it with a six-hour CEO-proof deadline; delegation was enabled and the satisfied model-wake hold cleared. **The resumed production wake is still being verified; full C-suite economic autonomy is not established.** [Qualification, safety repair and evidence limits](evidence/COMPANY_AUDIT_2026-10-29.md). The earlier unavailable/paused checkpoints below are historical.
+
+## Latest verified wake repair — October 29, 2026
+
+The scheduled launcher now records correlated completion and keeps deterministic checks available when company compute is ON and delegation is paused. A real pass completed with `MODEL_WAKE_HELD`, zero inference calls and no event acknowledgements. **Executive autonomy remains unproven at this checkpoint.** [Audit and build boundaries](evidence/COMPANY_AUDIT_2026-10-29.md).
+
 ## Current operating boundary — October 29, 2026
 
 **Measured engineering progress; not yet autonomous commercial operation.** The owner can now park resource-intensive company compute independently of the C-suite delegation pause, with Windows owner authentication, durable audit, restart prevention and observable process/resource status. At the recorded acceptance, **zero identified executive processes** remained while parked. Total PC CPU nevertheless fluctuated widely; no overall performance cure or controlled speedup is claimed.
@@ -16,7 +24,7 @@ The human owner retains **root + veto**. The CEO selects authorized work; execut
 
 **For engineering reviewers and potential sponsors:** [October 29 scoped production milestone](evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md) · [Evidence and outstanding limits](CURRENT_STATE.md) · [Support verification and inference capacity](SPONSORSHIP.md). Sponsorship supports validation, not privileged access or relaxed governance. Older dated milestones below remain historical evidence, **not current live status**.
 
-## Current state / next milestone — October 26, 2026
+## Preserved operating checkpoint — October 26, 2026
 
 **MetaBot / MetaCall is now prioritizing customer conversion over additional broad infrastructure work.**
 

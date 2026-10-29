@@ -6,6 +6,20 @@ The core build is not being reopened.
 **OPERATIONS = CONTINUOUSLY EVOLVING**  
 **COMMERCIAL MISSION = OPEN**
 
+## October 29 — near-term verifiable sponsor milestones
+
+The system now has a scoped owner-controlled resource OFF/PARKED mechanism as well as a separate delegation pause, documented in [October 29 scoped production milestone](evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md). That solves a *control* problem, not the missing autonomous executive capability or customer-revenue problem. While parked, scheduled company compute is deliberately inactive.
+
+**Sponsor-relevant next proofs, in order:**
+
+1. Obtain a legitimate current exact-model TOOL + CEO capability proof under unchanged governance, provider terms, funding policy and failed-identity fences. Do not treat zero-priced model catalog entries as automatically admitted.
+2. Demonstrate one authentic natural scheduled CEO decision, C-suite delegation, independent acceptance and durable outcome with real model/tool receipts.
+3. Demonstrate a real authorized customer/payment/delivery lifecycle independently of synthetic data and internal drafts.
+4. Reproduce reliable resource-parking, restart and CPU/RAM measurements under controlled conditions.
+5. Preserve truthful public evidence, privacy, owner veto and documented failure lessons at every step.
+
+No model-cost, checkout, revenue or sponsor award is implied by this roadmap. See [support opportunities](SPONSORSHIP.md). The dated October 24 priority plan below is retained as history.
+
 ## Immediate priorities
 
 ### Next milestone — external economic execution (October 24)

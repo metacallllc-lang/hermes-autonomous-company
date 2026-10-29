@@ -4,6 +4,20 @@
 
 **Scope:** sanitized operating facts suitable for public release.
 
+## October 29 — latest scoped production and resource-control boundary
+
+**Newer evidence supersedes earlier time-bound route/admission claims below; earlier snapshots remain historical.**
+
+- Two distinct controls are locally implemented: owner-authenticated **C-suite delegation pause** and **company-compute OFF/PARKED**. A successful OFF was accepted with zero identified executive processes, without deleting company evidence or introducing a second gateway.
+- Bounded local Windows resource measurements showed material variation in total CPU even while parked. There is **no demonstrated stable whole-PC performance guarantee**; the verified outcome is scoped release of identified company executive workloads.
+- The gateway and the existing Windows scheduler had passed their independent admission checks in earlier accepted windows. While company compute is PARKED, CEO/background tasks are intentionally suspended; an enabled task/healthy gateway in an older window is not proof of currently running executive work.
+- **Production CEO route: NONE** in the latest independently observed operating cycle. Current TOOL and CEO qualification evidence is missing or inadmissible under verifier/freshness/failure fences. No completed model-backed CEO→C-suite economic action was proven by these repairs.
+- Local customer-intake/CSV processing has synthetic verification but **is not publicly buyable**. No new customer, recognized revenue, actual collection, award or sponsor payment is claimed.
+- **Current cash availability remains unverified** where the bank source cannot be read. Historic treasury figures must not be promoted into fresh spendable cash; inference-provider credits are not company cash.
+- The held private release and any private commercial offer remain unpublished.
+
+**Evidence scope:** [October 29 scoped production milestone](evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md). The underlying production records remain private; this page is a sanitized account, not a public runtime attestation.
+
 ## October 26 current production boundary
 
 The accepted October 26 boundary is **commercially executable in several rails, with executive-delegation and Command Center/read-side defects still open**.

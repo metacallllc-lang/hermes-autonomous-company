@@ -1,6 +1,22 @@
 # Sponsorship and infrastructure support
 
-**Updated:** 2026-10-24
+**Updated:** 2026-10-29
+
+## Why support is needed now
+
+**The next measurable milestone is one legitimately qualified CEO inference route and one independently verified executive outcome.** The latest private production acceptance established authenticated owner-controlled company-compute parking and preserved evidence, but the autonomous CEO model route remained unavailable. A resource OFF state does not mean executives are running. [Review the scoped October 29 evidence](evidence/OWNER_RESOURCE_CONTROL_2026-10-29.md) and [current limitations](CURRENT_STATE.md).
+
+Support is particularly useful for:
+- **Inference access under governance:** donated or credited capacity for bounded TOOL/CEO qualification with real provider receipts and legitimate privacy terms;
+- **Independent review:** model-tool evaluation, delegation/authority verification and reproducible tests;
+- **Compute and efficiency:** low-resource executive scheduling, hardware testing and controlled RAM/CPU benchmarks;
+- **Commercial verification:** demonstrating a real independent customer/order/payment/delivery event, with no fictitious traction.
+
+**GitHub Sponsors status:** the three recurring tiers have been configured, but an independently usable public sponsor checkout was **not confirmed on October 29**; the public sponsor URL redirected to the account profile when checked without an authenticated sponsor session. Please use a [non-confidential GitHub issue](https://github.com/metacallllc-lang/hermes-autonomous-company/issues) to request a direct sponsorship or research conversation until checkout is independently confirmed. A tier listing is not proof of approval, payment or an award.
+
+No sponsorship buys owner authority, private credentials, confidential data or exemptions from governance.
+
+
 
 ## What we are looking for
 

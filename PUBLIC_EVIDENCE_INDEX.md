@@ -1,5 +1,8 @@
 # Public evidence index
 
+Latest dated checkpoint: [October 30 operational audit](evidence/COMPANY_AUDIT_2026-10-30.md). Prior records are historical; hosted build and economic limits remain explicit.
+
+
 
 **Latest audit:** [October 29 runtime wake and repository/build boundaries](evidence/COMPANY_AUDIT_2026-10-29.md). This is deterministic continuation evidence; full executive autonomy remains unproven at the checkpoint.
 This index maps major public claims to the level of evidence currently available.

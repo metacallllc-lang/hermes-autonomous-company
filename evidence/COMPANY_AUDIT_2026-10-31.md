@@ -1,5 +1,34 @@
 # Commercial recovery audit — October 31, 2026
 
+## Final public fork build acceptance — October 31, 23:42 UTC
+
+The [Hermes fork repair](https://github.com/metacallllc-lang/hermes-agent/pull/3)
+passed all expected hosted workflows on reviewed head
+`fc1c81404f209e9f60cc86be72ab4ef2cb5da6fa` and was merged as
+`7f4ea58d0296de83573b9d2f18a1586379d66c42`. The clean local audit checkout
+was fast-forwarded to that merged main. Prior pending-build checkpoints below
+remain dated historical records.
+
+- [Main CI](https://github.com/metacallllc-lang/hermes-agent/actions/runs/41251695775):
+  all required checks passed. The eight exhaustive Linux slices reported
+  60,471 passed, zero failed and 860 skipped across 5,554 selected files.
+- Windows x64: 706 passed, zero failed and 342 skipped. Windows ARM64:
+  672 passed, zero failed and 376 skipped. All 41 update-handoff cases passed
+  on both architectures, including the two protected-process fixture cases
+  that could not run successfully on the local PC. Local failures remain recorded.
+- JavaScript/TypeScript, macOS lanes, Nix, Docker validation, repository evidence
+  checks, both Windows SDK targets and all four selected native package targets
+  passed. Release-only and sandbox jobs excluded by existing conditions are
+  recorded as skipped; they are not claimed as tested releases.
+
+This is acceptance of the public fork's engineering changes. The private company
+integration retains its own deployment pin, source snapshot and runtime evidence.
+The 21 private repairs and six free routes do not establish a paying client,
+collected customer revenue, funding eligibility or award, a successful new live
+CRO handoff, a fully green historical guard registry or continuous autonomy.
+The actual Awesome Foundation research attempt below remains failed and retired.
+
+
 ## Later acceptance — 23:00 UTC
 
 Twenty-one reviewed private-runtime files now cover buyer-evidence classification,

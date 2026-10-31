@@ -9,7 +9,7 @@ Evidence is scoped and dated; historical checkpoints remain available below.
 | Executive start and model routes | Ten preconditions passed; six free routes selected without paid fallback. Fresh admission is still required on each start. |
 | Buyer discovery | Imported contacts and notes are distinct from verified buyer demand. Scope review grants no external action or verified delivery claim. |
 | Funding research | A real CRO public read occurred; the attempt failed completion verification and remains retired as failed. No award or submission established. |
-| Public fork build | [Final hosted acceptance is pending](https://github.com/metacallllc-lang/hermes-agent/pull/3). The public fork does not ship the private company integration. |
+| Public fork build | [Final hosted acceptance passed; repair merged](https://github.com/metacallllc-lang/hermes-agent/pull/3) on reviewed head `fc1c81404f20`. The public fork does not ship the private company integration. |
 | Customers, payment and continuous autonomy | Not established by the engineering checks. Historical guard failures remain visible. |
 
 ## Preserved historical index

@@ -1,6 +1,8 @@
 # Current public state
 
-## Current availability boundary — October 29, 22:14 UTC
+**Dated recovery — October 31, 00:35 UTC (October 30 in Guatemala):** Compute and delegation were enabled; exactly one gateway was healthy and admitted; all ten CEO preconditions passed. All six roles selected the qualified free Nous/Beam route, subject to proof expiry and normal admission. Internal executive execution and verified reconciliation were observed. **No verified client, collected customer revenue, funding award or continuous commercial autonomy was established.** Hosted fork build acceptance remains incomplete. [Repairs, evidence and limits](https://github.com/metacallllc-lang/hermes-autonomous-company/blob/main/evidence/COMPANY_AUDIT_2026-10-30.md). Earlier dated checkpoints below are preserved history, not current telemetry.
+
+## Preserved availability boundary — October 29, 22:14 UTC
 
 The authenticated provider catalog subsequently withdrew `inclusionai/ling-3.1-flash:free`. The existing production wake correctly refused its use when current price evidence was unavailable. The earlier TOOL and inert CEO qualification results remain real, but they do not establish current model availability or a completed production C-suite run. **Full autonomous executive operation remains blocked on current model availability and normal admission.** Delegation permission remains enabled; protected reserves and paid inference authority are unchanged.
 

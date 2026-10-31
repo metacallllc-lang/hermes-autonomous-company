@@ -1,4 +1,50 @@
-# Commercial recovery audit â€” October 31, 2026
+# Commercial recovery audit — October 31, 2026
+
+## Later acceptance — 23:00 UTC
+
+Twenty-one reviewed private-runtime files now cover buyer-evidence classification,
+bounded source repair, internal scope review, independent verification, health
+collection, commercial receipt binding and runtime reload serialization.
+Fresh acceptance verified the deployed hashes, unchanged original pipeline,
+compute ON, delegation ENABLED, one healthy authorized gateway, all ten start
+preconditions and six free model routes with no paid fallback.
+
+The complete health collector succeeded in 369 seconds within its bounded
+ten-minute window and verified the unchanged charter seal. Collector identity
+matches the actual script invocation; diagnostic observers do not count as
+collectors, and unknown liveness retains the lock. Three native identity cases
+and isolated refresh fixtures pass. A cross-process reload lock prevents a
+manual/scheduled overlap from restarting twice or overwriting the owning receipt.
+
+New commercial assignments bind each admitted call to one result or refusal by
+call and session identity. Refusals before admission remain recorded; unmatched,
+duplicate and conflicting outcomes refuse. Historical scopes keep their original
+verifier. Required disposition fields are explicit in schema and failure feedback.
+The private snapshot retains 17 distinct focused local company test receipts.
+
+The normal company cycle discovered the Awesome Foundation public program and ran
+a real CRO research attempt. The public source read succeeded, but required
+artifact fields were omitted and independent completion verification failed. The
+ordinary lifecycle retired that attempt as failed. It was not relabeled or replayed.
+The subsequent receipt/schema repair has isolated behavior coverage; a new
+successful live commercial handoff is not established from that coverage.
+Program eligibility, application submission, funding, a client and payment remain
+unproven. No synthetic business event or fixture buyer was injected by testing.
+
+The public Hermes fork is separate from these private modules. Its current
+[build repair](https://github.com/metacallllc-lang/hermes-agent/pull/3) remains under
+hosted acceptance. Local validation passes 124 provider tests, 25 timezone tests
+and all 12 canonical source checks. The timezone regression covers both DST
+transitions at the scheduled occurrence. Thirty-nine Windows handoff cases pass
+locally; two protected-process fixture preconditions cannot be satisfied on the
+local host and remain required in hosted Windows validation. Test selection,
+platforms and upstream runner settings remain intact.
+
+Health still preserves historical guard failures as DEGRADED. The entire historical
+registry and continuous autonomous operation are not certified green. Dashboard
+native observations may still become UNKNOWN under load. Permission and an admitted
+route do not establish an economic result. The earlier 16:49 checkpoint below is
+preserved as its own dated observation.
 
 At 16:49 UTC, local acceptance found company compute ON, delegation ENABLED,
 one healthy admitted gateway and all ten executive-start preconditions passing.

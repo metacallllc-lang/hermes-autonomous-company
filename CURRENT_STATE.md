@@ -1,4 +1,4 @@
-**October 31 commercial repair:** local discovery now distinguishes contact records from verified buyer demand and admits bounded internal scope review. Compute and delegation were enabled at the dated acceptance; all six roles selected free models. No client, collected revenue or funding award is established. [Dated evidence and limits](evidence/COMPANY_AUDIT_2026-10-31.md). Earlier checkpoints below remain historical.
+**Latest verified checkpoint — October 31, 23:00 UTC:** 21 reviewed private-runtime files were applied. Compute and delegation were enabled; one healthy authorized gateway and all ten executive-start preconditions passed. All six roles selected guarded free routes. The [fork build repair](https://github.com/metacallllc-lang/hermes-agent/pull/3) is under final hosted verification. No verified client, collected customer revenue, funding award or continuous commercial autonomy is established. [Dated repairs, evidence and limits](evidence/COMPANY_AUDIT_2026-10-31.md). Earlier checkpoints below remain historical.
 
 # Current public state
 

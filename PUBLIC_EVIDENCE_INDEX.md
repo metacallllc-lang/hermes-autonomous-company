@@ -1,5 +1,24 @@
 # Public evidence index
 
+Latest dated checkpoint: [October 31 commercial recovery audit](evidence/COMPANY_AUDIT_2026-10-31.md).
+Evidence is scoped and dated; historical checkpoints remain available below.
+
+| October 31 claim | Verified boundary |
+|---|---|
+| Local company runtime | 21 reviewed file hashes matched; compute and delegation enabled; one healthy admitted gateway at 23:00 UTC. |
+| Executive start and model routes | Ten preconditions passed; six free routes selected without paid fallback. Fresh admission is still required on each start. |
+| Buyer discovery | Imported contacts and notes are distinct from verified buyer demand. Scope review grants no external action or verified delivery claim. |
+| Funding research | A real CRO public read occurred; the attempt failed completion verification and remains retired as failed. No award or submission established. |
+| Public fork build | [Final hosted acceptance is pending](https://github.com/metacallllc-lang/hermes-agent/pull/3). The public fork does not ship the private company integration. |
+| Customers, payment and continuous autonomy | Not established by the engineering checks. Historical guard failures remain visible. |
+
+## Preserved historical index
+
+<details>
+<summary>Dated prior claim mappings and operating checkpoints</summary>
+
+# Public evidence index
+
 Latest dated checkpoint: [October 30 operational audit](evidence/COMPANY_AUDIT_2026-10-30.md). Prior records are historical; hosted build and economic limits remain explicit.
 
 
@@ -188,3 +207,5 @@ When two records conflict, the current public repository should prefer:
 5. explicit scoping.
 
 A polished dashboard is not allowed to silently outrank stronger evidence.
+
+</details>

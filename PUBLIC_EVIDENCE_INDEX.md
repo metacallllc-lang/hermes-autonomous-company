@@ -1,3 +1,7 @@
+## November 2 review
+
+[Latest review and monitoring correction](evidence/GITHUB_REVIEW_2026-11-02.md): the company remains stagnant. The complete November 1 audit is a prior-generation result; three later observer suites do not replace it with full current acceptance.
+
 ## November 1 repair checkpoint
 
 [Complete audit and operating limits](evidence/COMPANY_AUDIT_2026-11-01.md): 79 applied source hashes; 137/149 registered suites passed, 12 failed. Startup and native mailbox recovery are scoped operating evidence. A client, collected revenue, funding award and continuous commercial autonomy remain unverified.

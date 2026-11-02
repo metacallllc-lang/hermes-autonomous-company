@@ -1,3 +1,7 @@
+## November 1 repair checkpoint
+
+[Complete audit and operating limits](evidence/COMPANY_AUDIT_2026-11-01.md): 79 applied source hashes; 137/149 registered suites passed, 12 failed. Startup and native mailbox recovery are scoped operating evidence. A client, collected revenue, funding award and continuous commercial autonomy remain unverified.
+
 # Public evidence index
 
 Latest dated checkpoint: [October 31 commercial recovery audit](evidence/COMPANY_AUDIT_2026-10-31.md).

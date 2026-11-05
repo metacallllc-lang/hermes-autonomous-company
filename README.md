@@ -1,3 +1,23 @@
+## Work completed — November 5, 2026
+
+Completed milestones include the merged public Hermes build repair, independently
+verified native executive completion and automatic continuation, qualification
+deadline/policy-refresh repairs, and the November 4 scheduling repair with
+**57 focused checks passing**. The latest complete company audit remains
+**133/149 passing**; separate repaired reruns produce **144/149 latest results**,
+with five suites unresolved. These are different validation scopes.
+
+The public fork's [catalog-test repair PR #4](https://github.com/metacallllc-lang/hermes-agent/pull/4)
+and the private recovery archive are still unmerged. The November 5 local health
+artifact reports **DEGRADED**; cash and recognised revenue are **UNKNOWN**. No new
+verified customer conversion, collected payment, funding award or continuous
+commercial autonomy is established. [Completed work, sources and limits](evidence/WORK_COMPLETED_2026-11-05.md).
+
+All checkpoints below are preserved historical observations, including their
+original use of “current” or “latest”; they are not November 5 runtime telemetry.
+
+---
+
 **November 2 review:** the company still reports **STAGNATION**. The false missing-terminal alert is repaired. The earlier **137/149** audit predates that six-file follow-up; only its three targeted suites were rerun. Full company build and commercial acceptance remain incomplete. [Current evidence and GitHub maintenance](evidence/GITHUB_REVIEW_2026-11-02.md). Earlier checkpoints below are historical.
 
 **Preserved repair checkpoint — November 1, 2026:** 79 reviewed local sources applied; complete audit **137/149 passed, 12 failed**. A later startup observation passed all ten checks with one healthy gateway and six free-only executive routes. The company remains commercially stalled: no verified client, collected customer revenue, funding award or continuous autonomy. [Dated evidence and outstanding work](evidence/COMPANY_AUDIT_2026-11-01.md). Earlier checkpoints below remain historical.

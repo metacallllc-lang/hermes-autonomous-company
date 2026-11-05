@@ -1,0 +1,60 @@
+{
+  "schema": "metacall.github-work-review/v1",
+  "read_at": "2026-11-05T20:33:09.840017+00:00",
+  "scope": "Selected fields from existing local artifacts; no new bank, model, company execution or runtime-change request. Raw private fields omitted.",
+  "health": {
+    "source": "private local HEALTH.json",
+    "source_sha256": "f704aeb30775239a82a1f8299c7ad8e9bfebd8afa0c236818bcf759d31033544",
+    "generated_at": "2026-11-05T20:02:01.2516330Z",
+    "overall": "DEGRADED",
+    "current_cash_usd": null,
+    "current_cash_state": "UNKNOWN",
+    "recognised_revenue_state": "UNKNOWN",
+    "recognised_revenue_usd": null
+  },
+  "runtime_refresh": {
+    "source": "private local 20261105T185240Z-DEFERRED_ACTIVE_WORK.json",
+    "source_sha256": "f1ba9b68a88e547da58598a32dd20530d4a7327548792bf4a79c1e22e42531cf",
+    "started_at": "2026-11-05T18:50:02.034969+00:00",
+    "outcome": "DEFERRED_ACTIVE_WORK",
+    "applied": false
+  },
+  "private_recovery_evidence": {
+    "reviewed_archive_head": "728e04d1567f08b704941b52b4c4a76f88c30398",
+    "full_audit_date": "2026-11-03",
+    "full_audit": {
+      "passed": 133,
+      "total": 149,
+      "failed": 16
+    },
+    "separate_targeted_repairs": 11,
+    "combined_latest_results": {
+      "passed": 144,
+      "total": 149,
+      "unresolved": 5,
+      "is_new_full_run": false
+    },
+    "november_4_focused_checks": {
+      "passed": 57,
+      "total": 57
+    },
+    "archive_state": "draft_unmerged"
+  },
+  "public_fork": {
+    "merged_build_repair": {
+      "pull_request": 3,
+      "accepted_head": "fc1c81404f209e9f60cc86be72ab4ef2cb5da6fa"
+    },
+    "pending_catalog_repair": {
+      "pull_request": 4,
+      "head": "452ed2ac582a1e86b78ca7c38686e4e57c038275",
+      "state": "open_unmerged",
+      "ci_run": 41524342629,
+      "ci_conclusion": "failure",
+      "macos_jobs": "two_cancelled",
+      "documentation": "success",
+      "docker": "success",
+      "nix": "success"
+    }
+  }
+}

@@ -1,3 +1,25 @@
+# Current verified company state
+
+## November 6 — verified execution and cycle repair
+
+The redesigned VEXO dashboard and known cycle defects are repaired. Normal CEO
+scheduling independently reconciled at least two CRO tasks, each running once on
+the authorized OpenRouter/DeepSeek model. The company mission remains open.
+
+A fresh frozen-source audit ran **157 suites: 148 passed, 9 did not pass**.
+Historical proof, offline integration coverage and a live snapshot mismatch remain
+explicit; full build and commercial acceptance are not established. The original
+48-hour trial ends November 8 at 10:36 AM Guatemala time.
+
+[Repair, verification and remaining limits](evidence/CYCLE_DASHBOARD_REPAIR_2026-11-06.md).
+
+Earlier checkpoints below retain their original dates and scope.
+
+---
+
+<details>
+<summary>Preserved earlier build notes and observations</summary>
+
 ## November 6, 2026 — OpenRouter field trial running
 
 The six executive routes now select **DeepSeek V4.1 Flash 1017 on OpenRouter**.
@@ -473,3 +495,6 @@ Qualification remains unresolved: refused wakes make no model call and cannot pr
 The earlier missing-terminal and snapshot-writer failures are historical observations. Subsequent inspected wakes persisted terminal records, and the repaired snapshot writer ran through the canonical scheduler. A snapshot fresh at wake time can truthfully become stale later under its freshness rule.
 
 The remaining acceptance sequence at that time was genuine bounded route qualification, then a natural scheduled wake selecting actionable work if present, governed child execution, independently verified result, successful terminal persistence, fresh projection and no duplicate consequential effect. That record did not claim recovery, recipient delivery/read, revenue or cash. Full regression acceptance was incomplete in that window; it is not the current primary roadmap.
+
+
+</details>

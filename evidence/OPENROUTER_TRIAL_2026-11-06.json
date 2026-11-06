@@ -1,0 +1,38 @@
+{
+  "schema": "metabot.public-trial-status/v1",
+  "review_date": "2026-11-06",
+  "status": "MEASURING",
+  "roles": [
+    "ceo",
+    "cfo",
+    "coo",
+    "cro",
+    "cmo",
+    "cto"
+  ],
+  "provider": "openrouter",
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "started_at": "2026-11-06T16:36:27Z",
+  "deadline": "2026-11-08T16:36:27Z",
+  "qualification_requests": 4,
+  "qualification_business_actions": 0,
+  "focused_checks": {
+    "paid_trial": 14,
+    "native_budget": 13,
+    "async_lifecycle": 14
+  },
+  "all_six_roles_executed_successfully": "NOT_ESTABLISHED",
+  "commercial_results": "NOT_ESTABLISHED",
+  "last_complete_audit": {
+    "date": "2026-11-03",
+    "passed": 133,
+    "total": 149
+  },
+  "separate_latest_results": {
+    "passed": 147,
+    "total": 149,
+    "new_full_audit": false
+  },
+  "public_fork_pr3": "MERGED",
+  "public_fork_pr4": "OPEN_UNMERGED"
+}

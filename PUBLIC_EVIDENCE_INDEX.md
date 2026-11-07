@@ -1,6 +1,6 @@
 ## Latest engineering audit
 
-[Cycle and dashboard repair](evidence/CYCLE_DASHBOARD_REPAIR_2026-11-06.md): new complete audit **148/157**. Known runtime recovery is observed; historical/integration proof and commercial acceptance remain distinct.
+[Cycle and dashboard repair](evidence/CYCLE_DASHBOARD_REPAIR_2026-11-06.md): final complete audit **150/159**. Known runtime recovery is observed; historical/integration proof and commercial acceptance remain distinct.
 
 ## November 6, 2026 — OpenRouter field trial running
 

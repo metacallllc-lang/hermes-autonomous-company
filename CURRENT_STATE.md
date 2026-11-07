@@ -1,21 +1,25 @@
 # Current verified company state
 
-## November 6 — verified execution and cycle repair
+## November 6–7 - execution repair and verified build
 
-The redesigned VEXO dashboard and known cycle defects are repaired. Normal CEO
-scheduling independently reconciled at least two CRO tasks, each running once on
-the authorized OpenRouter/DeepSeek model. The company mission remains open.
+The VEXO dashboard is redesigned and responsive. Normal scheduling independently
+reconciled at least two single-occurrence CRO tasks on OpenRouter/DeepSeek. The
+root CEO now also has independent proof of exactly one scheduled occurrence.
+The company mission remains open.
 
-A fresh frozen-source audit ran **157 suites: 148 passed, 9 did not pass**.
-Historical proof, offline integration coverage and a live snapshot mismatch remain
-explicit; full build and commercial acceptance are not established. The original
-48-hour trial ends November 8 at 10:36 AM Guatemala time.
+The final frozen-source audit ran **159 suites: 150 passed,
+9 did not pass**. The final repair checks include 15 CEO lifecycle
+scenarios, eight research-receipt tests, 19 supervisor checks and 11 mission-evidence tests. A separate
+read-only public-site check passes **31/31**. Historical proof, offline coverage,
+snapshot timing and multi-minute preparation overhead remain explicit; complete
+company and commercial acceptance are not established.
 
-The final source audit was repeated after hardening opportunity handoffs,
-failed-task selection and Hermes v0.23 live-work deployment checks: **148/157**
-remains the complete result, with **27 focused repair checks passing**. A separate
-read-only public-site check passes **31/31**; it does not rewrite the offline
-audit verdict or establish customer conversion.
+The public [Hermes build repair PR #4](https://github.com/metacallllc-lang/hermes-agent/pull/4)
+is merged after hosted verification, including native Windows installation and
+upgrade testing. Its process inventory now calls the active scanner while retired
+compatibility shims remain inert. The managed installation has the same narrow fix.
+Private company integration is archived
+separately. The original 48-hour trial ends November 8 at 10:36 AM Guatemala time.
 
 [Repair, verification and remaining limits](evidence/CYCLE_DASHBOARD_REPAIR_2026-11-06.md).
 

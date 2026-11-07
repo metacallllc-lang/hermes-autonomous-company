@@ -1,4 +1,8 @@
-## Latest engineering audit
+## Latest recovery verification
+
+[Recovery engineering follow-through](evidence/RECOVERY_ENGINEERING_2026-11-07.md): complete frozen-source audit **155/163**, with 8 nonpassing. No commercial success inferred.
+
+## Earlier engineering checkpoint
 
 [Cycle and dashboard repair](evidence/CYCLE_DASHBOARD_REPAIR_2026-11-06.md): final complete audit **150/159**. Known runtime recovery is observed; historical/integration proof and commercial acceptance remain distinct.
 

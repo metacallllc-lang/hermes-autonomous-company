@@ -4,7 +4,23 @@ An AI CEO and C-suite connected to durable company state, governed tools and ind
 
 [Architecture](ARCHITECTURE.md) · [For collaborators and investors](INVESTORS.md) · [Evidence index](PUBLIC_EVIDENCE_INDEX.md)
 
-## November 6–7 - execution repair and verified build
+## November 7 — recovery engineering follow-through
+
+New qualified evidence now interrupts lane waiting checkpoints; timestamps and
+duplicate rows cannot rearm work. Independent source failures remain scoped.
+The health report clears a superseded blocker when the current objective clears
+it. Dashboard trigger timing and lazy recovery-code deployment checks are corrected.
+Supported idle maintenance verified one healthy current gateway and preserved work.
+
+The new frozen-source audit ran **163 suites: 155 passed,
+8 nonpassing**. Original fixture and history-read limits remain intact.
+Separate discovery-to-queue fixtures verify one admitted synthetic signal exactly
+once; they do not establish a new real buyer, payment or funding award. Full company
+and commercial acceptance remains incomplete. The original 48-hour trial clock is unchanged.
+
+[Repair evidence and remaining limits](evidence/RECOVERY_ENGINEERING_2026-11-07.md).
+
+## Earlier November 6–7 checkpoint — execution repair
 
 The VEXO dashboard is redesigned and responsive. Normal scheduling independently
 reconciled at least two single-occurrence CRO tasks on OpenRouter/DeepSeek. The

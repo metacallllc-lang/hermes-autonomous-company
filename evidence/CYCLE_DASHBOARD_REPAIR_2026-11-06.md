@@ -86,3 +86,27 @@ Hosted checks and any remaining failures must be assessed on their actual revisi
 
 MetaBot remains a division of MetaCall LP. No new verified customer, collected
 payment, funding award or self-funding is established by this engineering audit.
+
+## Final opportunity and deployment amendment
+
+Further live investigation found identity-copy errors in model-written task
+handoffs, a selector that could offer a failed identity that dispatch would refuse,
+and a saved active-agent count that could block maintenance after work had ceased.
+Future opportunity admissions now use the existing server-bound artifact receipt.
+Selection retains dispatch's failed-identity restrictions after source changes.
+Deployment uses Hermes v0.23's live, process-bound work inventory, including async
+delegations; uncertain or active work still defers reload. Original failures and
+their replay restrictions remain preserved.
+
+The final complete audit again ran 157 suites on unchanged source: **148 passed,
+nine nonpassing**. The original fixture barrier and bounded historical-read policy
+remained intact. All **27 focused repair checks pass**. A separate read-only live
+check of both company websites passed **31/31**, supplying the public-site coverage
+excluded from the offline audit without rewriting that result.
+
+The supported reload independently verified one healthy current gateway. The
+existing scheduler started its next natural wake; no CEO cycle was forced. A reload
+and fixture results do not prove native execution of a future protocol, customer
+acceptance, collected revenue or self-funding. Broader historical-integrity
+preparation overhead and full commercial acceptance remain unresolved. The
+original trial deadline is unchanged.

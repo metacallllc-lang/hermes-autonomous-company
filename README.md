@@ -15,6 +15,12 @@ Historical proof, offline integration coverage and a live snapshot mismatch rema
 explicit; full build and commercial acceptance are not established. The original
 48-hour trial ends November 8 at 10:36 AM Guatemala time.
 
+The final source audit was repeated after hardening opportunity handoffs,
+failed-task selection and Hermes v0.23 live-work deployment checks: **148/157**
+remains the complete result, with **27 focused repair checks passing**. A separate
+read-only public-site check passes **31/31**; it does not rewrite the offline
+audit verdict or establish customer conversion.
+
 [Repair, verification and remaining limits](evidence/CYCLE_DASHBOARD_REPAIR_2026-11-06.md).
 
 Earlier checkpoints below retain their original dates and scope.

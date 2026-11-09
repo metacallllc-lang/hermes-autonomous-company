@@ -4,6 +4,10 @@ An AI CEO and C-suite connected to durable company state, governed tools and ind
 
 [Architecture](ARCHITECTURE.md) · [For collaborators and investors](INVESTORS.md) · [Evidence index](PUBLIC_EVIDENCE_INDEX.md)
 
+## November 9 — GitHub evidence review (not a runtime check)
+
+[Repository-only review](evidence/GITHUB_REPOSITORY_REVIEW_2026-11-09.md): latest inspected full frozen-source audit remains **155/163** on November 7. The elapsed OpenRouter trial window has no verified final result in the reviewed published documents. GitHub changes do not restart or repair the live CEO, prove revenue, or certify a current company state.
+
 ## November 7 — recovery engineering follow-through
 
 New qualified evidence now interrupts lane waiting checkpoints; timestamps and

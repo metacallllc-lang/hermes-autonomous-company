@@ -1,5 +1,38 @@
 # MetaBot · Autonomous company systems
 
+An AI CEO and C-suite connected to durable company state, governed tools and independently checked results.
+Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent) ([our fork](https://github.com/metacallllc-lang/hermes-agent)). MetaBot is a division of MetaCall LP.
+
+[Architecture](ARCHITECTURE.md) · [Current state](CURRENT_STATE.md) · [For collaborators and investors](INVESTORS.md) · [Evidence index](PUBLIC_EVIDENCE_INDEX.md)
+
+![Hermes Command Center: the company's read-only operations dashboard (financial tiles blurred)](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview.jpg)
+
+## What it is
+
+- **A company that runs itself, under an owner.** A Hermes-native CEO wakes on a schedule, selects work and delegates
+  to six executive seats (CEO, CFO, COO, CRO, CMO, CTO). The owner keeps root authority and a veto.
+- **Governed actions.** Email, social publishing and spending go through charter-gated tools with daily caps,
+  idempotency, suppression lists and an owner pause.
+- **Checked results.** Every cycle and executive result is recorded with its evidence; the Command Center shows
+  that record, read-only, with unknowns left as unknown.
+
+## Where it stands — November 13, 2026
+
+A full audit of the runtime's own ledgers found why the company had not earned: 66% of 4,336 CEO cycles ended
+refusing to idle while no work was executable, outreach required buyer intent that its sources could not supply,
+and completed executive work was discarded on citation format. Owner-approved repairs are deployed (growth
+generation, a governed daily outreach wave, model routing that follows the owner's Hermes model picker,
+Facebook/Instagram/LinkedIn publishing) and the dashboard was rebuilt.
+**The repairs are not yet verified live, and no customer, payment or revenue is claimed.**
+
+[Audit and repair evidence](evidence/COMPANY_AUDIT_AND_REPAIR_2026-11-13.md)
+
+![C-Suite view of the Command Center](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-csuite.jpg)
+
+<details>
+<summary>Build history — November 9 and earlier</summary>
+
+
 An AI CEO and C-suite connected to durable company state, governed tools and independently checked results. Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent). MetaBot is a division of MetaCall LP.
 
 [Architecture](ARCHITECTURE.md) · [For collaborators and investors](INVESTORS.md) · [Evidence index](PUBLIC_EVIDENCE_INDEX.md)
@@ -499,5 +532,7 @@ The software implementation remains private. No open-source software license is 
 
 The project continuously studies serious autonomous-company systems, multi-agent research, agent control planes and production failure reports. Useful external lessons are tested against MetaBot's governance and evidence requirements before adoption. See [INDUSTRY_LANDSCAPE_AND_COMPETITIVE_LEARNING.md](INDUSTRY_LANDSCAPE_AND_COMPETITIVE_LEARNING.md).
 
+
+</details>
 
 </details>

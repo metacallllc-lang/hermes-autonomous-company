@@ -1,5 +1,13 @@
 # Current verified company state
 
+## November 13 — audit and owner-approved repairs (not yet verified live)
+
+An audit of the runtime ledgers found the CEO loop deadlocked (2,856 of 4,336 cycles from Oct 15 to Nov 11 ended
+`idle_refused`; 3 completed), outreach blocked by a buyer-intent rule its sources could not satisfy, no authorised
+CEO model route, and 168 completed executive results rejected on citation format. Repairs are deployed; at
+publication the owner's C-suite delegation control was still paused, so no repaired cycle had run.
+No customer, payment or revenue is claimed. [Audit and repair evidence](evidence/COMPANY_AUDIT_AND_REPAIR_2026-11-13.md).
+
 ## November 7 — recovery engineering follow-through
 
 New qualified evidence now interrupts lane waiting checkpoints; timestamps and

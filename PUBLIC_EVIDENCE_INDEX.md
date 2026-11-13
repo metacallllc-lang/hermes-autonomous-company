@@ -1,3 +1,7 @@
+## November 13 — audit and repair
+
+[Company audit and owner-approved repairs](evidence/COMPANY_AUDIT_AND_REPAIR_2026-11-13.md): root causes measured from the runtime ledgers, repairs deployed, live verification pending. No commercial success claimed.
+
 ## November 9 — repository review, no new runtime assertion
 
 [Repository-only evidence audit](evidence/GITHUB_REPOSITORY_REVIEW_2026-11-09.md). November 7 remains the latest inspected frozen-source complete audit (155/163). The OpenRouter 48-hour window has elapsed, but its final result is not established by the reviewed published documents. No new commercial or live CEO claim is made here.

@@ -16,7 +16,23 @@ Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent) ([our fork
 - **Checked results.** Every cycle and executive result is recorded with its evidence; the Command Center shows
   that record, read-only, with unknowns left as unknown.
 
-## Where it stands — November 13, 2026
+## Where it stands — November 16, 2026
+
+The executives now act. Each seat has a governed action tool for its own outcomes: internal actions run at once,
+and external ones (email, marketplace replies, publishing, invoices) post a veto notice with the full message and
+run automatically after 60 minutes unless the owner vetoes. On November 16 two executive-written emails went out
+(one to an inbound prospect, one to a cloud startup program), four posts were published and the CFO read the bank
+of record. Five faults that had kept the loop from acting were found and repaired.
+**No customer, payment or revenue is claimed, and neither email has a reply yet.**
+
+[Action authority and repair evidence](evidence/CSUITE_ACTION_AUTHORITY_2026-11-16.md)
+
+![C-Suite view of the Command Center](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-csuite.jpg)
+
+<details>
+<summary>Build history — November 13 and earlier</summary>
+
+## November 13 — audit and owner-approved repairs
 
 A full audit of the runtime's own ledgers found why the company had not earned: 66% of 4,336 CEO cycles ended
 refusing to idle while no work was executable, outreach required buyer intent that its sources could not supply,
@@ -26,11 +42,6 @@ Facebook/Instagram/LinkedIn publishing) and the dashboard was rebuilt.
 **The repairs are not yet verified live, and no customer, payment or revenue is claimed.**
 
 [Audit and repair evidence](evidence/COMPANY_AUDIT_AND_REPAIR_2026-11-13.md)
-
-![C-Suite view of the Command Center](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-csuite.jpg)
-
-<details>
-<summary>Build history — November 9 and earlier</summary>
 
 
 An AI CEO and C-suite connected to durable company state, governed tools and independently checked results. Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent). MetaBot is a division of MetaCall LP.

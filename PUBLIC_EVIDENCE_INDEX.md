@@ -1,3 +1,7 @@
+## November 16 — executive action authority
+
+[Executives that act, under an owner veto](evidence/CSUITE_ACTION_AUTHORITY_2026-11-16.md): governed per-seat actions with veto notices, five loop faults repaired, two executive-written emails sent and verified in the Sent folders. No commercial success claimed.
+
 ## November 13 — audit and repair
 
 [Company audit and owner-approved repairs](evidence/COMPANY_AUDIT_AND_REPAIR_2026-11-13.md): root causes measured from the runtime ledgers, repairs deployed, live verification pending. No commercial success claimed.

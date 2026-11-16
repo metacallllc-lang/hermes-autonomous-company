@@ -1,5 +1,14 @@
 # Current verified company state
 
+## November 16 — executives act under an owner veto
+
+Executive seats can now take their own governed actions: internal actions run immediately, external ones post a
+veto notice and run after 60 minutes unless vetoed. Repairs: a phantom scheduler row that held an executive lane
+for 60 cycles, in-turn tools running in the wrong interpreter, action-only turns failing verification, and a spent
+daily publishing cap that stalled 16 CEO wakes. Observed November 16: two executive-written emails sent and found
+in the Sent folders, four posts published, a read-only bank read. No customer, payment or revenue is claimed.
+[Evidence](evidence/CSUITE_ACTION_AUTHORITY_2026-11-16.md).
+
 ## November 13 — audit and owner-approved repairs (not yet verified live)
 
 An audit of the runtime ledgers found the CEO loop deadlocked (2,856 of 4,336 cycles from Oct 15 to Nov 11 ended

@@ -5,7 +5,7 @@ Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent) ([our fork
 
 [Architecture](ARCHITECTURE.md) · [Current state](CURRENT_STATE.md) · [For collaborators and investors](INVESTORS.md) · [Evidence index](PUBLIC_EVIDENCE_INDEX.md)
 
-![Hermes Command Center: the company's read-only operations dashboard (financial tiles blurred)](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview.jpg)
+![Hermes Command Center on November 16: the company's read-only operations dashboard (financial tiles and email content blurred)](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview-2026-11-16.jpg)
 
 ## What it is
 
@@ -27,7 +27,7 @@ of record. Five faults that had kept the loop from acting were found and repaire
 
 [Action authority and repair evidence](evidence/CSUITE_ACTION_AUTHORITY_2026-11-16.md)
 
-![C-Suite view of the Command Center](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-csuite.jpg)
+![C-Suite view of the Command Center on November 16](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-csuite-2026-11-16.jpg)
 
 <details>
 <summary>Build history — November 13 and earlier</summary>

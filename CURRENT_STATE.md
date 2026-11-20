@@ -1,5 +1,14 @@
 # Current verified company state
 
+## November 20 — marketplace gigs, an order desk and a growth engine
+
+Four marketplace gigs were published (three live; one awaits the owner's license declaration). An order desk now
+reads open orders every wake, talks to buyers in writing, does the work, runs a COO review and queues the delivery
+as a veto notice. Executives brainstorm, run measured experiments with kill-or-scale verdicts, research prospects
+and may launch offers that clear the margin rule; the first launched offer and first experiment are recorded.
+Thirteen loop faults were repaired. The delivery upload has not yet run on a real order, no prospect has been
+researched, and no customer, payment or revenue is claimed. [Evidence](evidence/GROWTH_ENGINE_AND_ORDER_DESK_2026-11-20.md).
+
 ## November 16 — executives act under an owner veto
 
 Executive seats can now take their own governed actions: internal actions run immediately, external ones post a

@@ -1,3 +1,7 @@
+## November 20 — marketplace gigs, order desk and growth engine
+
+[Marketplace gigs, order desk and growth engine](evidence/GROWTH_ENGINE_AND_ORDER_DESK_2026-11-20.md): four gigs (three live), order-to-delivery under the owner veto, executive experiments and offer launches, thirteen loop faults repaired. No commercial success claimed.
+
 ## November 16 — executive action authority
 
 [Executives that act, under an owner veto](evidence/CSUITE_ACTION_AUTHORITY_2026-11-16.md): governed per-seat actions with veto notices, five loop faults repaired, two executive-written emails sent and verified in the Sent folders. No commercial success claimed.

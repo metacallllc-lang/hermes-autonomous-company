@@ -16,7 +16,21 @@ Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent) ([our fork
 - **Checked results.** Every cycle and executive result is recorded with its evidence; the Command Center shows
   that record, read-only, with unknowns left as unknown.
 
-## Where it stands — November 16, 2026
+## Where it stands — November 20, 2026
+
+The executives now look for income as well as act. The company opened four marketplace gigs it can deliver itself
+(three live), built an order desk that acknowledges, works, reviews and delivers an order under the owner's veto,
+and gave each seat a growth engine: brainstorm, run a measured experiment, research prospects, and launch an offer
+only when it clears the margin rule and maps to a delivery the company can perform. The first executive-launched
+offer and the first experiment followed. Thirteen faults that stopped the loop from acting were found and repaired.
+**No customer, order, payment or revenue is claimed.**
+
+[Gigs, order desk, growth engine and repair evidence](evidence/GROWTH_ENGINE_AND_ORDER_DESK_2026-11-20.md)
+
+<details>
+<summary>Build history — November 16 and earlier</summary>
+
+## November 16 — executives act under an owner veto
 
 The executives now act. Each seat has a governed action tool for its own outcomes: internal actions run at once,
 and external ones (email, marketplace replies, publishing, invoices) post a veto notice with the full message and
@@ -28,9 +42,6 @@ of record. Five faults that had kept the loop from acting were found and repaire
 [Action authority and repair evidence](evidence/CSUITE_ACTION_AUTHORITY_2026-11-16.md)
 
 ![C-Suite view of the Command Center on November 16](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-csuite-2026-11-16.jpg)
-
-<details>
-<summary>Build history — November 13 and earlier</summary>
 
 ## November 13 — audit and owner-approved repairs
 

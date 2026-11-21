@@ -9,12 +9,20 @@ Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent) ([our fork
 
 ## What it is
 
-- **A company that runs itself, under an owner.** A Hermes-native CEO wakes on a schedule, selects work and delegates
+- **An operating system for an AI-run company under an owner.** A Hermes-native CEO wakes on a schedule, selects work and delegates
   to six executive seats (CEO, CFO, COO, CRO, CMO, CTO). The owner keeps root authority and a veto.
 - **Governed actions.** Email, social publishing and spending go through charter-gated tools with daily caps,
   idempotency, suppression lists and an owner pause.
 - **Checked results.** Every cycle and executive result is recorded with its evidence; the Command Center shows
   that record, read-only, with unknowns left as unknown.
+
+## Where it stands — November 21, 2026
+
+The operating plan now centers on one verified paid customer and accepted delivery. The first CRO assignment ran and failed result verification. A later review closed with the underlying objective still unresolved. The weekly scorecard records zero verified customer payments and zero accepted deliveries.
+
+The private company scheduler now records blocked model admission without crashing. Two scheduled wakes verified that behavior with zero model calls. Gateway admission still awaits reconciliation of the configuration and runtime fingerprints.
+
+[First customer focus and scheduler verification](evidence/FIRST_CUSTOMER_AND_ADMISSION_2026-11-21.md)
 
 ## Where it stands — November 20, 2026
 

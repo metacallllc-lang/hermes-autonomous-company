@@ -1,3 +1,7 @@
+## November 21 — first customer focus and live scheduler refusal verification
+
+[First customer focus and scheduler verification](evidence/FIRST_CUSTOMER_AND_ADMISSION_2026-11-21.md) records the failed CRO handoff, the 67 checks for the focus and scorecard changes, the 52 checks for the scheduler and briefing changes, and two scheduled wakes that preserved deferred work with zero model calls. Gateway admission and the first paid customer remain open.
+
 ## November 20 — marketplace gigs, order desk and growth engine
 
 [Marketplace gigs, order desk and growth engine](evidence/GROWTH_ENGINE_AND_ORDER_DESK_2026-11-20.md): four gigs (three live), order-to-delivery under the owner veto, executive experiments and offer launches, thirteen loop faults repaired. No commercial success claimed.
@@ -37,8 +41,9 @@ bring the latest-result view to **147/149**, with two historical evidence suites
 unresolved. This is not a new full passing audit. Earlier source, mailbox,
 scheduling and observer repairs remain scoped engineering evidence.
 
-The public Hermes build repair PR #3 is merged. PR #4 remains open and unmerged;
-private integration changes are not shipped by the public fork. No new verified
+At this November 6 checkpoint, the public Hermes build repair PR #3 had merged.
+[PR #4 subsequently merged on November 7](https://github.com/metacallllc-lang/hermes-agent/pull/4).
+Private integration changes are maintained separately. No new verified
 client, collected customer payment, funding award, self-funding or sustained
 commercial autonomy is established by this trial. Earlier records below retain
 their original dates and are historical observations.

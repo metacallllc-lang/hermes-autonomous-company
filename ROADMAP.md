@@ -1,3 +1,13 @@
+## November 21, 2026 — next acceptance milestone
+
+1. Reconcile the gateway configuration and running code within the existing admission rules.
+2. Verify one scoped commercial handoff on a scheduled run, with a result entry for each prospect in the first batch.
+3. Carry one qualified buyer through accepted scope, independently verified payment, and accepted delivery. Track these separately in the operating scorecard.
+
+[Current evidence and limits](evidence/FIRST_CUSTOMER_AND_ADMISSION_2026-11-21.md). The dated plans below record earlier checkpoints.
+
+---
+
 ## November 6, 2026 — OpenRouter field trial running
 
 The six executive routes now select **DeepSeek V4.1 Flash 1017 on OpenRouter**.
@@ -13,8 +23,9 @@ bring the latest-result view to **147/149**, with two historical evidence suites
 unresolved. This is not a new full passing audit. Earlier source, mailbox,
 scheduling and observer repairs remain scoped engineering evidence.
 
-The public Hermes build repair PR #3 is merged. PR #4 remains open and unmerged;
-private integration changes are not shipped by the public fork. No new verified
+At this November 6 checkpoint, the public Hermes build repair PR #3 had merged.
+[PR #4 subsequently merged on November 7](https://github.com/metacallllc-lang/hermes-agent/pull/4).
+Private integration changes are maintained separately. No new verified
 client, collected customer payment, funding award, self-funding or sustained
 commercial autonomy is established by this trial. Earlier records below retain
 their original dates and are historical observations.

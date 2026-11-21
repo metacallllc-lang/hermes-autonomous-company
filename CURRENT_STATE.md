@@ -1,5 +1,13 @@
 # Current verified company state
 
+## November 21 — first customer focus and scheduler verification
+
+The operating plan now centers on one verified paid customer and accepted delivery. The first CRO assignment ran and failed result verification. A later review closed with the underlying objective still unresolved. The weekly scorecard records zero verified customer payments and zero accepted deliveries.
+
+The private company scheduler now records blocked model admission without crashing. Two scheduled wakes verified that behavior with zero model calls. Gateway admission still awaits reconciliation of the configuration and runtime fingerprints.
+
+[Evidence and remaining acceptance](evidence/FIRST_CUSTOMER_AND_ADMISSION_2026-11-21.md).
+
 ## November 20 — marketplace gigs, an order desk and a growth engine
 
 Four marketplace gigs were published (three live; one awaits the owner's license declaration). An order desk now

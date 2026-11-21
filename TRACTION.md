@@ -1,3 +1,9 @@
+## November 21 — current commercial and engineering evidence
+
+The weekly scorecard records **zero verified customer payments, zero invoices, and zero deliveries**. Seven experiments were active and each measured zero against its target. The first CRO assignment failed result verification. Two scheduled wakes confirmed the repaired scheduler refusal path. Gateway admission and an independently verified customer outcome remain open. [Evidence](evidence/FIRST_CUSTOMER_AND_ADMISSION_2026-11-21.md).
+
+---
+
 ## November 6, 2026 — OpenRouter field trial running
 
 The six executive routes now select **DeepSeek V4.1 Flash 1017 on OpenRouter**.
@@ -13,8 +19,9 @@ bring the latest-result view to **147/149**, with two historical evidence suites
 unresolved. This is not a new full passing audit. Earlier source, mailbox,
 scheduling and observer repairs remain scoped engineering evidence.
 
-The public Hermes build repair PR #3 is merged. PR #4 remains open and unmerged;
-private integration changes are not shipped by the public fork. No new verified
+At this November 6 checkpoint, the public Hermes build repair PR #3 had merged.
+[PR #4 subsequently merged on November 7](https://github.com/metacallllc-lang/hermes-agent/pull/4).
+Private integration changes are maintained separately. No new verified
 client, collected customer payment, funding award, self-funding or sustained
 commercial autonomy is established by this trial. Earlier records below retain
 their original dates and are historical observations.

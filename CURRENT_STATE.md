@@ -1,5 +1,13 @@
 # Current verified company state
 
+## November 23 — VEXO Command Center checked against its sources
+
+The dashboard, renamed VEXO, misreported activity, inference credit, the mission, two executive views and the
+economy lanes; each now reads the canonical store. Social publishing was restored, executive slots moved to every
+three hours for revenue and marketing, turns were enlarged, and split executive actions are combined. About 60% of
+executive turns pass result verification. No customer, payment or revenue is claimed.
+[Evidence](evidence/VEXO_DASHBOARD_REVIEW_2026-11-23.md).
+
 ## November 21 — first customer focus and scheduler verification
 
 The operating plan now centers on one verified paid customer and accepted delivery. The first CRO assignment ran and failed result verification. A later review closed with the underlying objective still unresolved. The weekly scorecard records zero verified customer payments and zero accepted deliveries.

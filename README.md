@@ -5,7 +5,7 @@ Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent) ([our fork
 
 [Architecture](ARCHITECTURE.md) · [Current state](CURRENT_STATE.md) · [For collaborators and investors](INVESTORS.md) · [Evidence index](PUBLIC_EVIDENCE_INDEX.md)
 
-![Hermes Command Center on November 16: the company's read-only operations dashboard (financial tiles and email content blurred)](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview-2026-11-16.jpg)
+![The VEXO Command Center (then named Hermes Command Center) on November 16: the company's read-only operations dashboard (financial tiles and email content blurred)](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview-2026-11-16.jpg)
 
 ## What it is
 
@@ -13,8 +13,18 @@ Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent) ([our fork
   to six executive seats (CEO, CFO, COO, CRO, CMO, CTO). The owner keeps root authority and a veto.
 - **Governed actions.** Email, social publishing and spending go through charter-gated tools with daily caps,
   idempotency, suppression lists and an owner pause.
-- **Checked results.** Every cycle and executive result is recorded with its evidence; the Command Center shows
+- **Checked results.** Every cycle and executive result is recorded with its evidence; the VEXO Command Center shows
   that record, read-only, with unknowns left as unknown.
+
+## Where it stands — November 23, 2026
+
+The Command Center, now named **VEXO**, was checked panel by panel against its sources. The activity chart, headline,
+inference-credit tile, mission tile, two executive views and the economy lanes were wrong or misleading and now read
+the canonical stores. The company itself had idle gaps: social publishing had stopped and executives waited up to
+six hours between turns. Publishing now runs every wake, revenue and marketing seats act every three hours, turns
+are larger, and actions the executive model split across calls are combined. **No customer, payment or revenue is claimed.**
+
+[Dashboard review and company fixes](evidence/VEXO_DASHBOARD_REVIEW_2026-11-23.md)
 
 ## Where it stands — November 21, 2026
 

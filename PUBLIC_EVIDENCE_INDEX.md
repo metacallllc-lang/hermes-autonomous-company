@@ -1,3 +1,7 @@
+## November 23 — VEXO dashboard review
+
+[VEXO Command Center checked against its sources](evidence/VEXO_DASHBOARD_REVIEW_2026-11-23.md): nine panels compared with the canonical stores and corrected, the rename to VEXO, restored social publishing, three-hour executive slots and split-action handling. No commercial success claimed.
+
 ## November 21 — first customer focus and live scheduler refusal verification
 
 [First customer focus and scheduler verification](evidence/FIRST_CUSTOMER_AND_ADMISSION_2026-11-21.md) records the failed CRO handoff, the 67 checks for the focus and scorecard changes, the 52 checks for the scheduler and briefing changes, and two scheduled wakes that preserved deferred work with zero model calls. Gateway admission and the first paid customer remain open.

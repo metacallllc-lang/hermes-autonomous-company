@@ -16,6 +16,16 @@ Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent) ([our fork
 - **Checked results.** Every cycle and executive result is recorded with its evidence; the VEXO Command Center shows
   that record, read-only, with unknowns left as unknown.
 
+## Where it stands — November 24, 2026
+
+The CEO and CRO had been stalling, and marketplace buyers waited hours for replies. The causes were a single-provider
+inference rule, an executive lane that never cleared after a gateway crash, a wake that could not restart after being
+killed, and two tasks driving one browser tab. Each is repaired; the lane and retry repairs were seen working live, and
+the rest have passed targeted tests only. Executive assignments passed verification 71% of the time over seven days.
+**No customer, payment or revenue is claimed.**
+
+[Causes, repairs and what is not yet proven](evidence/RUNTIME_RECOVERY_AND_REPLY_SPEED_2026-11-24.md)
+
 ## Where it stands — November 23, 2026
 
 The Command Center, now named **VEXO**, was checked panel by panel against its sources. The activity chart, headline,

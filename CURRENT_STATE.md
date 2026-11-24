@@ -1,5 +1,14 @@
 # Current verified company state
 
+## November 24 — stalled executives and slow replies repaired
+
+The CEO and CRO had been stalling, and marketplace buyers waited hours for replies. The causes were a single-provider
+inference rule, an executive lane that never cleared after a gateway crash, a wake that could not restart after being
+killed, and two tasks driving one browser tab. Each is repaired; the lane and retry repairs were seen working live, and
+the rest have passed targeted tests only. Executive assignments passed verification 71% of the time over seven days.
+**No customer, payment or revenue is claimed.**
+[Evidence and limits](evidence/RUNTIME_RECOVERY_AND_REPLY_SPEED_2026-11-24.md).
+
 ## November 23 — VEXO Command Center checked against its sources
 
 The dashboard, renamed VEXO, misreported activity, inference credit, the mission, two executive views and the

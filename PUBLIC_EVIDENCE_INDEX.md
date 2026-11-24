@@ -1,3 +1,7 @@
+## November 24 — runtime recovery and reply speed
+
+[Stalled executives, killed wakes and slow replies](evidence/RUNTIME_RECOVERY_AND_REPLY_SPEED_2026-11-24.md): causes, repairs, what was seen live, what passed tests only, and corrections to the November 23 account. No commercial success claimed.
+
 ## November 23 — VEXO dashboard review
 
 [VEXO Command Center checked against its sources](evidence/VEXO_DASHBOARD_REVIEW_2026-11-23.md): nine panels compared with the canonical stores and corrected, the rename to VEXO, restored social publishing, three-hour executive slots and split-action handling. No commercial success claimed.

@@ -5,7 +5,7 @@ Built on [Hermes Agent](https://github.com/NousResearch/hermes-agent) ([our fork
 
 [Architecture](ARCHITECTURE.md) · [Current state](CURRENT_STATE.md) · [For collaborators and investors](INVESTORS.md) · [Evidence index](PUBLIC_EVIDENCE_INDEX.md)
 
-![The VEXO Command Center (then named Hermes Command Center) on November 16: the company's read-only operations dashboard (financial tiles and email content blurred)](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview-2026-11-16.jpg)
+![The VEXO Command Center on November 24: the company's read-only operations dashboard (cash, spend, credit and target figures withheld; veto notices omitted)](https://github.com/metacallllc-lang/hermes-autonomous-company/raw/main/assets/command-center-overview-2026-11-24.jpg)
 
 ## What it is
 
@@ -24,6 +24,12 @@ killed, and two tasks driving one browser tab. Each is repaired; the lane and re
 the rest have passed targeted tests only. Executive assignments passed verification 71% of the time over seven days.
 **No customer, payment or revenue is claimed.**
 
+The loop code was then run through randomized scenarios in an isolated simulator. Before repairs, 42 of 120 broke a rule; after
+them, none of the first 1,082 scenarios of a 2,000-scenario run did. The repairs make unreadable veto records hold an action and stop
+interrupted sends from repeating. The queued marketplace reply was later sent and verified by the company's own receipt.
+The simulator does not cover model routing, real marketplace pages, email or delivery. **No customer, payment or revenue is claimed.**
+
+[Simulator results and limits](evidence/SCENARIO_SIMULATOR_2026-11-24.md) ·
 [Causes, repairs and what is not yet proven](evidence/RUNTIME_RECOVERY_AND_REPLY_SPEED_2026-11-24.md)
 
 ## Where it stands — November 23, 2026

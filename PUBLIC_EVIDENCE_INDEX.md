@@ -1,3 +1,7 @@
+## November 24 — scenario simulator
+
+[Scenario simulator and the faults it found](evidence/SCENARIO_SIMULATOR_2026-11-24.md): isolation checks, before and after results, repairs and what the simulator does not cover. No commercial success claimed.
+
 ## November 24 — runtime recovery and reply speed
 
 [Stalled executives, killed wakes and slow replies](evidence/RUNTIME_RECOVERY_AND_REPLY_SPEED_2026-11-24.md): causes, repairs, what was seen live, what passed tests only, and corrections to the November 23 account. No commercial success claimed.

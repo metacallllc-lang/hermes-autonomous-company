@@ -1,5 +1,13 @@
 # Current verified company state
 
+## November 24 — scenario simulator and the faults it found
+
+The loop code was then run through randomized scenarios in an isolated simulator. Before repairs, 42 of 120 broke a rule; after
+them, none of the first 1,082 scenarios of a 2,000-scenario run did. The repairs make unreadable veto records hold an action and stop
+interrupted sends from repeating. The queued marketplace reply was later sent and verified by the company's own receipt.
+The simulator does not cover model routing, real marketplace pages, email or delivery. **No customer, payment or revenue is claimed.**
+[Evidence and limits](evidence/SCENARIO_SIMULATOR_2026-11-24.md).
+
 ## November 24 — stalled executives and slow replies repaired
 
 The CEO and CRO had been stalling, and marketplace buyers waited hours for replies. The causes were a single-provider
